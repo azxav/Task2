@@ -1,0 +1,901 @@
+{
+  "engine": "paddle-v5",
+  "split": "dev",
+  "document": {
+    "spans": [
+      {
+        "id": "p1-ocr-0",
+        "page": 1,
+        "text": "Test uchun example",
+        "bbox": [
+          1456.0,
+          150.0,
+          1683.0,
+          190.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-1",
+        "page": 1,
+        "text": "HUQUQIY XIZMATLARNI RAQAMLASHTIRISH MILLIY AGENTLIGI",
+        "bbox": [
+          248.0,
+          196.0,
+          1667.0,
+          255.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-2",
+        "page": 1,
+        "text": "KENGASHINING",
+        "bbox": [
+          784.0,
+          255.0,
+          1134.0,
+          300.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-3",
+        "page": 1,
+        "text": "QARORI",
+        "bbox": [
+          834.0,
+          325.0,
+          1088.0,
+          376.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-4",
+        "page": 1,
+        "text": "2026-yil 10-fevral",
+        "bbox": [
+          221.0,
+          411.0,
+          469.0,
+          449.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-5",
+        "page": 1,
+        "text": "Toshkent shahri",
+        "bbox": [
+          844.0,
+          413.0,
+          1068.0,
+          450.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-6",
+        "page": 1,
+        "text": "No 121",
+        "bbox": [
+          1598.0,
+          418.0,
+          1699.0,
+          457.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-7",
+        "page": 1,
+        "text": "Yuridik shaxslarni royxatdan otkazish jarayonlarini soddalashtirish",
+        "bbox": [
+          341.0,
+          507.0,
+          1576.0,
+          568.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-8",
+        "page": 1,
+        "text": "chora-tadbirlari togrisida",
+        "bbox": [
+          715.0,
+          565.0,
+          1200.0,
+          613.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-9",
+        "page": 1,
+        "text": "Tadbirkorlik subyektlarini royxatdan otkazish jarayonlarini soddalashtirish,",
+        "bbox": [
+          340.0,
+          633.0,
+          1680.0,
+          697.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-10",
+        "page": 1,
+        "text": "ushbu xizmatlarni raqamlashtirish va idoralararo hamkorlikni takomillashtirish maqsadida",
+        "bbox": [
+          235.0,
+          688.0,
+          1676.0,
+          743.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-12",
+        "page": 1,
+        "text": "Agentlik Kengashi qaror qiladi:",
+        "bbox": [
+          234.0,
+          741.0,
+          767.0,
+          791.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-13",
+        "page": 1,
+        "text": "1. Royxatga olish departamenti yuridik shaxslarni royxatdan otkazish tartibini",
+        "bbox": [
+          342.0,
+          804.0,
+          1678.0,
+          861.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-14",
+        "page": 1,
+        "text": "soddalashtirishni nazarda tutuvchi hujjat loyihasini bir oy muddatda ishlab chiqsin va",
+        "bbox": [
+          232.0,
+          854.0,
+          1678.0,
+          918.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-15",
+        "page": 1,
+        "text": "Kengash muhokamasiga kiritsin.",
+        "bbox": [
+          233.0,
+          908.0,
+          761.0,
+          958.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-16",
+        "page": 1,
+        "text": "2. Axborot texnologiyalari boshqarmasi Royxatga olish departamenti bilan",
+        "bbox": [
+          335.0,
+          972.0,
+          1679.0,
+          1029.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-17",
+        "page": 1,
+        "text": "birgalikda royxatdan otkazish axborot tizimining yagona interaktiv davlat xizmatlari",
+        "bbox": [
+          233.0,
+          1026.0,
+          1673.0,
+          1080.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-18",
+        "page": 1,
+        "text": "portali bilan integratsiyasini 2026-yil 1-iyulga qadar ta'minlasin.",
+        "bbox": [
+          230.0,
+          1075.0,
+          1274.0,
+          1133.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-19",
+        "page": 1,
+        "text": "3. Huquqiy ekspertiza boshqarmasi royxatdan otkazishda taqdim etiladigan",
+        "bbox": [
+          336.0,
+          1139.0,
+          1680.0,
+          1200.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-20",
+        "page": 1,
+        "text": "hujjatlarni avtomatik tekshirish modulini joriy etish yuzasidan takliflar tayyorlasin.",
+        "bbox": [
+          231.0,
+          1191.0,
+          1557.0,
+          1249.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-21",
+        "page": 1,
+        "text": "4. Hududiy bolinmalar yangi tartib boyicha amaliy qollanmani tarqatish va",
+        "bbox": [
+          338.0,
+          1258.0,
+          1673.0,
+          1313.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-22",
+        "page": 1,
+        "text": "aholiga tushuntirish ishlarini 2026-yil 15-martdan boshlab tashkil etsin.",
+        "bbox": [
+          233.0,
+          1310.0,
+          1382.0,
+          1361.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-23",
+        "page": 1,
+        "text": "5. Royxatga olish departamenti mazkur qaror ijrosi togrisida har oyda",
+        "bbox": [
+          303.0,
+          1372.0,
+          1671.0,
+          1430.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-24",
+        "page": 1,
+        "text": "Kengashga ma'lumot berib borsin.",
+        "bbox": [
+          223.0,
+          1425.0,
+          790.0,
+          1471.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-25",
+        "page": 1,
+        "text": "6. Mazkur qarorda muddati alohida korsatilmagan topshiriqlar bir oy muddatda",
+        "bbox": [
+          335.0,
+          1488.0,
+          1672.0,
+          1546.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-26",
+        "page": 1,
+        "text": "ijro etilsin.",
+        "bbox": [
+          228.0,
+          1544.0,
+          407.0,
+          1586.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-27",
+        "page": 1,
+        "text": "7. Mazkur qaror ijrosini nazorat qilish Agentlik direktorining birinchi orinbosari",
+        "bbox": [
+          333.0,
+          1601.0,
+          1671.0,
+          1667.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-28",
+        "page": 1,
+        "text": "zimmasiga yuklansin.",
+        "bbox": [
+          232.0,
+          1663.0,
+          579.0,
+          1702.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-29",
+        "page": 1,
+        "text": "Kengash raisi",
+        "bbox": [
+          209.0,
+          1811.0,
+          455.0,
+          1853.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-30",
+        "page": 1,
+        "text": "M. Tursunov",
+        "bbox": [
+          1455.0,
+          1818.0,
+          1688.0,
+          1865.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-31",
+        "page": 1,
+        "text": "Test uchun example — AI tizimini sinash uchun tuzilgan. Tashkilot nomlari; raqamlar, manzillar va shaxslar shartli.",
+        "bbox": [
+          294.0,
+          2453.0,
+          1508.0,
+          2497.0
+        ],
+        "parent_id": null
+      }
+    ],
+    "passages": [
+      {
+        "id": "p1-block-0",
+        "kind": "footer",
+        "span_ids": [
+          "p1-ocr-0"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-1",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-1",
+          "p1-ocr-2"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-2",
+        "kind": "heading",
+        "span_ids": [
+          "p1-ocr-3"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-3",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-4"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-4",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-5"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-5",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-6"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-6",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-7",
+          "p1-ocr-8"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-7",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-ocr-9",
+          "p1-ocr-10",
+          "p1-ocr-12"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-8",
+        "kind": "clause",
+        "span_ids": [
+          "p1-ocr-13",
+          "p1-ocr-14",
+          "p1-ocr-15"
+        ],
+        "clause_ref": "1",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-9",
+        "kind": "clause",
+        "span_ids": [
+          "p1-ocr-16",
+          "p1-ocr-17",
+          "p1-ocr-18"
+        ],
+        "clause_ref": "2",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-10",
+        "kind": "clause",
+        "span_ids": [
+          "p1-ocr-19",
+          "p1-ocr-20"
+        ],
+        "clause_ref": "3",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-11",
+        "kind": "clause",
+        "span_ids": [
+          "p1-ocr-21",
+          "p1-ocr-22"
+        ],
+        "clause_ref": "4",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-12",
+        "kind": "clause",
+        "span_ids": [
+          "p1-ocr-23",
+          "p1-ocr-24"
+        ],
+        "clause_ref": "5",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-13",
+        "kind": "clause",
+        "span_ids": [
+          "p1-ocr-25",
+          "p1-ocr-26"
+        ],
+        "clause_ref": "6",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-14",
+        "kind": "clause",
+        "span_ids": [
+          "p1-ocr-27",
+          "p1-ocr-28"
+        ],
+        "clause_ref": "7",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-15",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-ocr-29"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-16",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-ocr-30"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-17",
+        "kind": "footer",
+        "span_ids": [
+          "p1-ocr-31"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      }
+    ],
+    "warnings": [],
+    "provenance": {
+      "source_sha256": "67eb438811ff4d25edbcf0124a68b08bd9706b2c94fa7c71b4459cfa4de1edd0",
+      "page_modes": [
+        "ocr"
+      ],
+      "ocr": "paddle-v5",
+      "ocr_raw_results": {
+        "1": {
+          "records": [
+            {
+              "text": "Test uchun example",
+              "bbox": [
+                1456.0,
+                150.0,
+                1683.0,
+                190.0
+              ],
+              "score": 0.9996381402015686
+            },
+            {
+              "text": "HUQUQIY XIZMATLARNI RAQAMLASHTIRISH MILLIY AGENTLIGI",
+              "bbox": [
+                248.0,
+                196.0,
+                1667.0,
+                255.0
+              ],
+              "score": 0.9872287511825562
+            },
+            {
+              "text": "KENGASHINING",
+              "bbox": [
+                784.0,
+                255.0,
+                1134.0,
+                300.0
+              ],
+              "score": 0.9996063709259033
+            },
+            {
+              "text": "QARORI",
+              "bbox": [
+                834.0,
+                325.0,
+                1088.0,
+                376.0
+              ],
+              "score": 0.9995055198669434
+            },
+            {
+              "text": "2026-yil 10-fevral",
+              "bbox": [
+                221.0,
+                411.0,
+                469.0,
+                449.0
+              ],
+              "score": 0.9861564636230469
+            },
+            {
+              "text": "Toshkent shahri",
+              "bbox": [
+                844.0,
+                413.0,
+                1068.0,
+                450.0
+              ],
+              "score": 0.99992835521698
+            },
+            {
+              "text": "No 121",
+              "bbox": [
+                1598.0,
+                418.0,
+                1699.0,
+                457.0
+              ],
+              "score": 0.993609607219696
+            },
+            {
+              "text": "Yuridik shaxslarni royxatdan otkazish jarayonlarini soddalashtirish",
+              "bbox": [
+                341.0,
+                507.0,
+                1576.0,
+                568.0
+              ],
+              "score": 0.9949004054069519
+            },
+            {
+              "text": "chora-tadbirlari togrisida",
+              "bbox": [
+                715.0,
+                565.0,
+                1200.0,
+                613.0
+              ],
+              "score": 0.9903870224952698
+            },
+            {
+              "text": "Tadbirkorlik subyektlarini royxatdan otkazish jarayonlarini soddalashtirish,",
+              "bbox": [
+                340.0,
+                633.0,
+                1680.0,
+                697.0
+              ],
+              "score": 0.9751202464103699
+            },
+            {
+              "text": "ushbu xizmatlarni raqamlashtirish va idoralararo hamkorlikni takomillashtirish maqsadida",
+              "bbox": [
+                235.0,
+                688.0,
+                1676.0,
+                743.0
+              ],
+              "score": 0.9930062890052795
+            },
+            {
+              "text": "Agentlik Kengashi qaror qiladi:",
+              "bbox": [
+                234.0,
+                741.0,
+                767.0,
+                791.0
+              ],
+              "score": 0.9940547943115234
+            },
+            {
+              "text": "",
+              "bbox": [
+                1383.0,
+                736.0,
+                1463.0,
+                816.0
+              ],
+              "score": 0.0
+            },
+            {
+              "text": "1. Royxatga olish departamenti yuridik shaxslarni royxatdan otkazish tartibini",
+              "bbox": [
+                342.0,
+                804.0,
+                1678.0,
+                861.0
+              ],
+              "score": 0.9938045144081116
+            },
+            {
+              "text": "soddalashtirishni nazarda tutuvchi hujjat loyihasini bir oy muddatda ishlab chiqsin va",
+              "bbox": [
+                232.0,
+                854.0,
+                1678.0,
+                918.0
+              ],
+              "score": 0.9845956563949585
+            },
+            {
+              "text": "Kengash muhokamasiga kiritsin.",
+              "bbox": [
+                233.0,
+                908.0,
+                761.0,
+                958.0
+              ],
+              "score": 0.9977666139602661
+            },
+            {
+              "text": "2. Axborot texnologiyalari boshqarmasi Royxatga olish departamenti bilan",
+              "bbox": [
+                335.0,
+                972.0,
+                1679.0,
+                1029.0
+              ],
+              "score": 0.991038978099823
+            },
+            {
+              "text": "birgalikda royxatdan otkazish axborot tizimining yagona interaktiv davlat xizmatlari",
+              "bbox": [
+                233.0,
+                1026.0,
+                1673.0,
+                1080.0
+              ],
+              "score": 0.9883159399032593
+            },
+            {
+              "text": "portali bilan integratsiyasini 2026-yil 1-iyulga qadar ta'minlasin.",
+              "bbox": [
+                230.0,
+                1075.0,
+                1274.0,
+                1133.0
+              ],
+              "score": 0.9952656626701355
+            },
+            {
+              "text": "3. Huquqiy ekspertiza boshqarmasi royxatdan otkazishda taqdim etiladigan",
+              "bbox": [
+                336.0,
+                1139.0,
+                1680.0,
+                1200.0
+              ],
+              "score": 0.9761515855789185
+            },
+            {
+              "text": "hujjatlarni avtomatik tekshirish modulini joriy etish yuzasidan takliflar tayyorlasin.",
+              "bbox": [
+                231.0,
+                1191.0,
+                1557.0,
+                1249.0
+              ],
+              "score": 0.9960022568702698
+            },
+            {
+              "text": "4. Hududiy bolinmalar yangi tartib boyicha amaliy qollanmani tarqatish va",
+              "bbox": [
+                338.0,
+                1258.0,
+                1673.0,
+                1313.0
+              ],
+              "score": 0.9884471893310547
+            },
+            {
+              "text": "aholiga tushuntirish ishlarini 2026-yil 15-martdan boshlab tashkil etsin.",
+              "bbox": [
+                233.0,
+                1310.0,
+                1382.0,
+                1361.0
+              ],
+              "score": 0.999788761138916
+            },
+            {
+              "text": " 5. Royxatga olish departamenti mazkur qaror ijrosi togrisida har oyda",
+              "bbox": [
+                303.0,
+                1372.0,
+                1671.0,
+                1430.0
+              ],
+              "score": 0.9858765602111816
+            },
+            {
+              "text": "Kengashga ma'lumot berib borsin.",
+              "bbox": [
+                223.0,
+                1425.0,
+                790.0,
+                1471.0
+              ],
+              "score": 0.9989660978317261
+            },
+            {
+              "text": "6. Mazkur qarorda muddati alohida korsatilmagan topshiriqlar bir oy muddatda",
+              "bbox": [
+                335.0,
+                1488.0,
+                1672.0,
+                1546.0
+              ],
+              "score": 0.9835982918739319
+            },
+            {
+              "text": "ijro etilsin.",
+              "bbox": [
+                228.0,
+                1544.0,
+                407.0,
+                1586.0
+              ],
+              "score": 0.9744969010353088
+            },
+            {
+              "text": "7. Mazkur qaror ijrosini nazorat qilish Agentlik direktorining birinchi orinbosari",
+              "bbox": [
+                333.0,
+                1601.0,
+                1671.0,
+                1667.0
+              ],
+              "score": 0.9885877966880798
+            },
+            {
+              "text": "zimmasiga yuklansin.",
+              "bbox": [
+                232.0,
+                1663.0,
+                579.0,
+                1702.0
+              ],
+              "score": 0.9935391545295715
+            },
+            {
+              "text": "Kengash raisi",
+              "bbox": [
+                209.0,
+                1811.0,
+                455.0,
+                1853.0
+              ],
+              "score": 0.9817231297492981
+            },
+            {
+              "text": "M. Tursunov",
+              "bbox": [
+                1455.0,
+                1818.0,
+                1688.0,
+                1865.0
+              ],
+              "score": 0.9968960285186768
+            },
+            {
+              "text": "Test uchun example — AI tizimini sinash uchun tuzilgan. Tashkilot nomlari; raqamlar, manzillar va shaxslar shartli.",
+              "bbox": [
+                294.0,
+                2453.0,
+                1508.0,
+                2497.0
+              ],
+              "score": 0.9901383519172668
+            }
+          ]
+        }
+      }
+    }
+  },
+  "input_sha256": "2201a66633b4d4b70392d9a2581f8a5eedca31f69ce9ade293ee37a61335f35f",
+  "code_sha256": "6bd8afe9eaed61ad66393780fdf9766872147ebc1c7a1c7b01fbedb894cec78f",
+  "seconds": 17.20424439990893,
+  "peak_process_tree_rss_bytes": 1097375744,
+  "peak_gpu_memory_mib": 0,
+  "layout_sensitive_cer": 0.018484288354898338,
+  "critical_exact_present": 13,
+  "critical_total": 18,
+  "table_rows": 0,
+  "note": "CER includes reading-order differences. Critical exact coverage normalizes case/apostrophes/whitespace."
+}

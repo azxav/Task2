@@ -1,0 +1,129 @@
+{
+  "family": "xat_1_abzatsdagi_topshiriqlar",
+  "metadata": {
+    "sender": {
+      "text": "RAQAMLI HUQUQIY XIZMATLAR AGENTLIGI",
+      "page": 1
+    },
+    "number": {
+      "text": "03-12/1456",
+      "page": 1
+    },
+    "date": {
+      "text": "08.09.2026",
+      "page": 1
+    },
+    "signer": {
+      "text": "Sh. Qodirov",
+      "page": 1
+    }
+  },
+  "tasks": [
+    {
+      "id": "clause-1",
+      "page": 1,
+      "clause": "1",
+      "instruction": "1. Markazning Tizim tahlili bo‘limi amaldagi murojaatlar portalining funksional imkoniyatlarini tahlil qilib, foydalanuvchilar eng ko‘p murojaat qiladigan xizmatlar va mavjud muammolar bo‘yicha tahliliy ma’lumotni 2026-yil 20-sentabrga qadar Agentlikka taqdim etsin.",
+      "executors": [
+        "Markazning Tizim tahlili bo‘limi"
+      ],
+      "deadline": "2026-yil 20-sentabrga qadar",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "clause-2",
+      "page": 1,
+      "clause": "2",
+      "instruction": "2. Sun’iy intellekt laboratoriyasi portalga kelib tushayotgan murojaatlarni mavzu va yo‘nalishlar bo‘yicha avtomatik tasniflash imkoniyatini joriy etish yuzasidan texnik takliflarni 01.10.2026 yilgacha ishlab chiqsin.",
+      "executors": [
+        "Sun’iy intellekt laboratoriyasi"
+      ],
+      "deadline": "01.10.2026 yilgacha",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "clause-3",
+      "page": 1,
+      "clause": "3",
+      "instruction": "3. Axborot xavfsizligi bo‘limi Sun’iy intellekt laboratoriyasi bilan birgalikda sun’iy intellekt xizmatlariga uzatiladigan ma’lumotlar tarkibini o‘rganib, shaxsga doir va foydalanilishi cheklangan ma’lumotlarni himoya qilish bo‘yicha takliflarni o‘n kun muddatda kiritsin.",
+      "executors": [
+        "Axborot xavfsizligi bo‘limi",
+        "Sun’iy intellekt laboratoriyasi"
+      ],
+      "deadline": "o‘n kun muddatda",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "clause-4",
+      "page": 1,
+      "clause": "4",
+      "instruction": "4. Dasturiy ta’minotni ishlab chiqish bo‘limi fuqarolarga davlat va huquqiy xizmatlar bo‘yicha ma’lumot beruvchi virtual yordamchining tajriba-sinov variantini tayyorlab, uni 2026-yil 25-oktabrga qadar sinovdan o‘tkazsin.",
+      "executors": [
+        "Dasturiy ta’minotni ishlab chiqish bo‘limi"
+      ],
+      "deadline": "2026-yil 25-oktabrga qadar",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "clause-5",
+      "page": 1,
+      "clause": "5",
+      "instruction": "5. Markaz yuqoridagi topshiriqlar ijrosi holati to‘g‘risida har oyning 5-sanasiga qadar Agentlikning Loyihalarni boshqarish departamentiga ma’lumot berib borsin.",
+      "executors": [
+        "Markaz"
+      ],
+      "deadline": "har oyning 5-sanasiga qadar",
+      "kinds": [
+        "reporting"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "unnumbered-1",
+      "page": 1,
+      "clause": null,
+      "instruction": "Shuningdek, ishlar natijalari bo‘yicha umumlashtirilgan hisobot va keyingi bosqich uchun takliflarni 2026-yil 5-noyabrga qadar Agentlik rahbariyatiga taqdim etishingizni so‘raymiz.",
+      "executors": [
+        "Adliya organlari va muassasalarida axborot texnologiyalarini rivojlantirish markaziga"
+      ],
+      "deadline": "2026-yil 5-noyabrga qadar",
+      "kinds": [
+        "reporting"
+      ],
+      "deadline_source_clause": null,
+      "annotation_note": "Recipient refers to the addressee; retain its source evidence."
+    },
+    {
+      "id": "unnumbered-2",
+      "page": 1,
+      "clause": null,
+      "instruction": "Topshiriqlar ijrosi uchun mas’ul xodimlar to‘g‘risidagi ma’lumotni uch ish kuni ichida taqdim etishingiz so‘raladi.",
+      "executors": [
+        "Adliya organlari va muassasalarida axborot texnologiyalarini rivojlantirish markaziga"
+      ],
+      "deadline": "uch ish kuni ichida",
+      "kinds": [
+        "reporting"
+      ],
+      "deadline_source_clause": null,
+      "annotation_note": "Recipient refers to the addressee; retain its source evidence."
+    }
+  ],
+  "annotation_method": "Manually selected obligations/fields, text extracted from reference PDF, visually checked against all scan pages before model tuning.",
+  "notes": [],
+  "document_id": "xat_1_abzatsdagi_topshiriqlar_skaner",
+  "split": "dev",
+  "source_sha256": "5505170bda8a70bda234cc993ee189b4f2eade4ea02133f5025ea70f7081bb90"
+}

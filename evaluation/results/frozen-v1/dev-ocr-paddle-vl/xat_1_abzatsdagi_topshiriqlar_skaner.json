@@ -1,0 +1,1667 @@
+{
+  "engine": "paddle-vl",
+  "split": "dev",
+  "document": {
+    "spans": [
+      {
+        "id": "p1-vl-0",
+        "page": 1,
+        "text": "Test uchun example",
+        "bbox": [
+          955.0,
+          98.0,
+          1105.0,
+          121.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-1",
+        "page": 1,
+        "text": "RAQAMLI HUQUQIY XIZMATLAR AGENTLIGI 100011, Toshkent shahri, Yangi hayot koʻchasi, 12-uy. Tel.: +998 (71) 000-12-30. E-mail: info@rhxa.example",
+        "bbox": [
+          222.0,
+          129.0,
+          1038.0,
+          194.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-2",
+        "page": 1,
+        "text": "08.09.2026 N№ 03-12/1456 《_____》_____ dagi _____-son xatga",
+        "bbox": [
+          138.0,
+          223.0,
+          522.0,
+          282.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-3",
+        "page": 1,
+        "text": "Adliya organlari va muassasalarda axborot texnologiyalarini rivojlantirish markaziga",
+        "bbox": [
+          606.0,
+          223.0,
+          1109.0,
+          291.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-4",
+        "page": 1,
+        "text": "Raqamli xizmatlarni takomillashtirish boʻyicha topshiriqlar toʻgʻrisida",
+        "bbox": [
+          150.0,
+          318.0,
+          865.0,
+          351.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-5",
+        "page": 1,
+        "text": "Hurmatli Markaz rahbariyati!",
+        "bbox": [
+          467.0,
+          365.0,
+          788.0,
+          398.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-6",
+        "page": 1,
+        "text": "Davlat xizmatlarini raqamlastirish boʻyicha amalga oshirilayotgan ishlarni jadallashtirish hamda Agentlik va Markaz oʻrtasidagi hamkorlikni kuchaytirish maqsadida quyidagi vazifalarni bajarishingizni soʻraymiz.",
+        "bbox": [
+          146.0,
+          408.0,
+          1107.0,
+          512.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-7",
+        "page": 1,
+        "text": "1. Markazning Tizim tahlili boʻlimi amaldagi murojaatlar portalining funksional imkoniyatlarini tahlil qilib, foydalanuvchilar eng koʻp murojaat qiladigan xizmatlar va mavjud muammolar boʻyicha tahlili maʼlumotni 2026-yil 20-sentabrga qadar Agentlikka taqdim etsin.",
+        "bbox": [
+          147.0,
+          519.0,
+          1107.0,
+          656.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-8",
+        "page": 1,
+        "text": "2. Sun'iy intellekt laboratoriyasi portalga kelib tushayotgan murojaatlarni mavzu va yoʻnalishlar boʻyicha avtomatik tasniflash imkoniyatini joriy etish yuzasidan texnik takliflarni 01.10.2026 yilgacha ishlab chiqsin.",
+        "bbox": [
+          147.0,
+          664.0,
+          1109.0,
+          768.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-9",
+        "page": 1,
+        "text": "3. Axborot xavfsizligi boʻlimi Sun'iy intellekt laboratoriyasi bilan birgalikda sunʼiy intellekt xizmatlariga uzatiladigan maʼlumotlar tashkilini oʻrganib, shaxsga doir va foydalanilishi cheklangan maʼlumotlarni himoya qilish boʻyicha takliflarni oʻn kun muddatda kiritsin.",
+        "bbox": [
+          148.0,
+          775.0,
+          1109.0,
+          913.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-10",
+        "page": 1,
+        "text": "4. Dasturiy ta’minotni ishlab chiqish boʻlimi fuqarolarga davlat va huquqiy xizmatlar boʻyicha maʼlumot beruvchi virtual yordamchining tajriba-sinov variantini tayyorlab, uni 2026-yil 25-oktabrga qadar sinovdan oʻtkazsin.",
+        "bbox": [
+          149.0,
+          921.0,
+          1108.0,
+          1024.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-11",
+        "page": 1,
+        "text": "5. Markaz yuqoridagi topshiriqlar ijrosi holati toʻgʻrisida har oyning 5-sanasiga qadar Agentlikning Loyihalarni boshqarish departmentiga maʼlumot berib borsin.",
+        "bbox": [
+          150.0,
+          1031.0,
+          1107.0,
+          1102.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-13",
+        "page": 1,
+        "text": "Shuningdek, ishlar natijalari boʻyicha umumlashtirilgan hisobot va keyingi bosqich uchun takliflarni 2026-yil 5-noyabrga qadar Agentlik rahbariyatinga taqdim etishingizni soʻraymiz.",
+        "bbox": [
+          148.0,
+          1109.0,
+          1109.0,
+          1211.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-12",
+        "page": 1,
+        "text": "Topshiriqlar ijrosi uchun mas'ul xodimlar to'g'risidagi ma'lumotni uch ish kuni ichida taqdim etishingiz so'raladi.",
+        "bbox": [
+          150.0,
+          1219.0,
+          1109.0,
+          1289.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-15",
+        "page": 1,
+        "text": "Sh. Qodirov",
+        "bbox": [
+          976.0,
+          1346.0,
+          1120.0,
+          1380.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-14",
+        "page": 1,
+        "text": "Direktor o'rinbosari",
+        "bbox": [
+          139.0,
+          1348.0,
+          378.0,
+          1379.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-16",
+        "page": 1,
+        "text": "Ijochi: N. Sobirova Tel.: +998 (71) 000-12-35",
+        "bbox": [
+          150.0,
+          1438.0,
+          363.0,
+          1488.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-17",
+        "page": 1,
+        "text": "Test uchun example — AI tizimini sinash uchun tuzilgan. Tashkilot nomlari, raqamlar, manzillar va shaxslar shartli.",
+        "bbox": [
+          198.0,
+          1624.0,
+          1004.0,
+          1650.0
+        ],
+        "parent_id": null
+      }
+    ],
+    "passages": [
+      {
+        "id": "p1-block-0",
+        "kind": "footer",
+        "span_ids": [
+          "p1-vl-0"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-1",
+        "kind": "header",
+        "span_ids": [
+          "p1-vl-1",
+          "p1-vl-2"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-2",
+        "kind": "header",
+        "span_ids": [
+          "p1-vl-3",
+          "p1-vl-4",
+          "p1-vl-5"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-3",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-vl-6"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-4",
+        "kind": "clause",
+        "span_ids": [
+          "p1-vl-7"
+        ],
+        "clause_ref": "1",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-5",
+        "kind": "clause",
+        "span_ids": [
+          "p1-vl-8"
+        ],
+        "clause_ref": "2",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-6",
+        "kind": "clause",
+        "span_ids": [
+          "p1-vl-9"
+        ],
+        "clause_ref": "3",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-7",
+        "kind": "clause",
+        "span_ids": [
+          "p1-vl-10"
+        ],
+        "clause_ref": "4",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-8",
+        "kind": "clause",
+        "span_ids": [
+          "p1-vl-11"
+        ],
+        "clause_ref": "5",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-9",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-vl-13"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-10",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-vl-12"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-11",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-vl-15"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-12",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-vl-14"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-13",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-vl-16"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-14",
+        "kind": "footer",
+        "span_ids": [
+          "p1-vl-17"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      }
+    ],
+    "warnings": [],
+    "provenance": {
+      "source_sha256": "5505170bda8a70bda234cc993ee189b4f2eade4ea02133f5025ea70f7081bb90",
+      "page_modes": [
+        "ocr"
+      ],
+      "ocr": "paddle-vl",
+      "ocr_raw_results": {
+        "1": {
+          "page_index": null,
+          "page_count": null,
+          "width": 1202,
+          "height": 1700,
+          "model_settings": {
+            "use_doc_preprocessor": false,
+            "use_layout_detection": true,
+            "use_chart_recognition": false,
+            "use_seal_recognition": false,
+            "use_ocr_for_image_block": false,
+            "format_block_content": false,
+            "merge_layout_blocks": false,
+            "markdown_ignore_labels": [
+              "number",
+              "footnote",
+              "header",
+              "header_image",
+              "footer",
+              "footer_image",
+              "aside_text"
+            ],
+            "return_layout_polygon_points": true
+          },
+          "parsing_res_list": [
+            {
+              "block_label": "header",
+              "block_content": "Test uchun example",
+              "block_bbox": [
+                955,
+                98,
+                1105,
+                121
+              ],
+              "block_id": 0,
+              "block_order": null,
+              "group_id": 0,
+              "block_polygon_points": [
+                [
+                  955.0,
+                  98.0
+                ],
+                [
+                  1105.0,
+                  98.0
+                ],
+                [
+                  1105.0,
+                  121.0
+                ],
+                [
+                  955.0,
+                  121.0
+                ]
+              ]
+            },
+            {
+              "block_label": "header",
+              "block_content": "RAQAMLI HUQUQIY XIZMATLAR AGENTLIGI\n100011, Toshkent shahri, Yangi hayot koʻchasi, 12-uy. Tel.: +998 (71) 000-12-30. E-mail: info@rhxa.example",
+              "block_bbox": [
+                222,
+                129,
+                1038,
+                194
+              ],
+              "block_id": 1,
+              "block_order": null,
+              "group_id": 1,
+              "block_polygon_points": [
+                [
+                  222.0,
+                  129.0
+                ],
+                [
+                  1038.0,
+                  129.0
+                ],
+                [
+                  1038.0,
+                  194.0
+                ],
+                [
+                  222.0,
+                  194.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": " $ \\underline{\\text{08.09.2026}} $ N№  $ \\underline{\\text{03-12/1456}} $\n《_____》_____ dagi _____-son xatga",
+              "block_bbox": [
+                138,
+                223,
+                522,
+                282
+              ],
+              "block_id": 2,
+              "block_order": 1,
+              "group_id": 2,
+              "block_polygon_points": [
+                [
+                  138.0,
+                  223.0
+                ],
+                [
+                  522.0,
+                  223.0
+                ],
+                [
+                  522.0,
+                  282.0
+                ],
+                [
+                  138.0,
+                  282.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "Adliya organlari va muassasalarda axborot texnologiyalarini rivojlantirish markaziga",
+              "block_bbox": [
+                606,
+                223,
+                1109,
+                291
+              ],
+              "block_id": 3,
+              "block_order": 2,
+              "group_id": 3,
+              "block_polygon_points": [
+                [
+                  606.0,
+                  223.0
+                ],
+                [
+                  1109.0,
+                  223.0
+                ],
+                [
+                  1109.0,
+                  291.0
+                ],
+                [
+                  606.0,
+                  291.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "Raqamli xizmatlarni takomillashtirish boʻyicha topshiriqlar toʻgʻrisida",
+              "block_bbox": [
+                150,
+                318,
+                865,
+                351
+              ],
+              "block_id": 4,
+              "block_order": 3,
+              "group_id": 4,
+              "block_polygon_points": [
+                [
+                  150.0,
+                  318.0
+                ],
+                [
+                  865.0,
+                  318.0
+                ],
+                [
+                  865.0,
+                  351.0
+                ],
+                [
+                  150.0,
+                  351.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "Hurmatli Markaz rahbariyati!",
+              "block_bbox": [
+                467,
+                365,
+                788,
+                398
+              ],
+              "block_id": 5,
+              "block_order": 4,
+              "group_id": 5,
+              "block_polygon_points": [
+                [
+                  467.0,
+                  365.0
+                ],
+                [
+                  788.0,
+                  365.0
+                ],
+                [
+                  788.0,
+                  398.0
+                ],
+                [
+                  467.0,
+                  398.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "Davlat xizmatlarini raqamlastirish boʻyicha amalga oshirilayotgan ishlarni jadallashtirish hamda Agentlik va Markaz oʻrtasidagi hamkorlikni kuchaytirish maqsadida quyidagi vazifalarni bajarishingizni soʻraymiz.",
+              "block_bbox": [
+                146,
+                408,
+                1107,
+                512
+              ],
+              "block_id": 6,
+              "block_order": 5,
+              "group_id": 6,
+              "block_polygon_points": [
+                [
+                  146.0,
+                  408.0
+                ],
+                [
+                  1107.0,
+                  408.0
+                ],
+                [
+                  1107.0,
+                  512.0
+                ],
+                [
+                  146.0,
+                  512.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "1. Markazning Tizim tahlili boʻlimi amaldagi murojaatlar portalining funksional imkoniyatlarini tahlil qilib, foydalanuvchilar eng koʻp murojaat qiladigan xizmatlar va mavjud muammolar boʻyicha tahlili maʼlumotni 2026-yil 20-sentabrga qadar Agentlikka taqdim etsin.",
+              "block_bbox": [
+                147,
+                519,
+                1107,
+                656
+              ],
+              "block_id": 7,
+              "block_order": 6,
+              "group_id": 7,
+              "block_polygon_points": [
+                [
+                  147.0,
+                  519.0
+                ],
+                [
+                  1107.0,
+                  519.0
+                ],
+                [
+                  1107.0,
+                  656.0
+                ],
+                [
+                  147.0,
+                  656.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "2. Sun'iy intellekt laboratoriyasi portalga kelib tushayotgan murojaatlarni mavzu va yoʻnalishlar boʻyicha avtomatik tasniflash imkoniyatini joriy etish yuzasidan texnik takliflarni 01.10.2026 yilgacha ishlab chiqsin.",
+              "block_bbox": [
+                147,
+                664,
+                1109,
+                768
+              ],
+              "block_id": 8,
+              "block_order": 7,
+              "group_id": 8,
+              "block_polygon_points": [
+                [
+                  147.0,
+                  664.0
+                ],
+                [
+                  1109.0,
+                  664.0
+                ],
+                [
+                  1109.0,
+                  768.0
+                ],
+                [
+                  147.0,
+                  768.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "3. Axborot xavfsizligi boʻlimi Sun'iy intellekt laboratoriyasi bilan birgalikda sunʼiy intellekt xizmatlariga uzatiladigan maʼlumotlar tashkilini oʻrganib, shaxsga doir va foydalanilishi cheklangan maʼlumotlarni himoya qilish boʻyicha takliflarni oʻn kun muddatda kiritsin.",
+              "block_bbox": [
+                148,
+                775,
+                1109,
+                913
+              ],
+              "block_id": 9,
+              "block_order": 8,
+              "group_id": 9,
+              "block_polygon_points": [
+                [
+                  148.0,
+                  775.0
+                ],
+                [
+                  1109.0,
+                  775.0
+                ],
+                [
+                  1109.0,
+                  913.0
+                ],
+                [
+                  148.0,
+                  913.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "4. Dasturiy ta’minotni ishlab chiqish boʻlimi fuqarolarga davlat va huquqiy xizmatlar boʻyicha maʼlumot beruvchi virtual yordamchining tajriba-sinov variantini tayyorlab, uni 2026-yil 25-oktabrga qadar sinovdan oʻtkazsin.",
+              "block_bbox": [
+                149,
+                921,
+                1108,
+                1024
+              ],
+              "block_id": 10,
+              "block_order": 9,
+              "group_id": 10,
+              "block_polygon_points": [
+                [
+                  149.0,
+                  921.0
+                ],
+                [
+                  1108.0,
+                  921.0
+                ],
+                [
+                  1108.0,
+                  1024.0
+                ],
+                [
+                  149.0,
+                  1024.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "5. Markaz yuqoridagi topshiriqlar ijrosi holati toʻgʻrisida har oyning 5-sanasiga qadar Agentlikning Loyihalarni boshqarish departmentiga maʼlumot berib borsin.",
+              "block_bbox": [
+                150,
+                1031,
+                1107,
+                1102
+              ],
+              "block_id": 11,
+              "block_order": 10,
+              "group_id": 11,
+              "block_polygon_points": [
+                [
+                  150.0,
+                  1031.0
+                ],
+                [
+                  1107.0,
+                  1031.0
+                ],
+                [
+                  1107.0,
+                  1102.0
+                ],
+                [
+                  150.0,
+                  1102.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "Topshiriqlar ijrosi uchun mas'ul xodimlar to'g'risidagi ma'lumotni uch ish kuni ichida taqdim etishingiz so'raladi.",
+              "block_bbox": [
+                150,
+                1219,
+                1109,
+                1289
+              ],
+              "block_id": 12,
+              "block_order": 11,
+              "group_id": 12,
+              "block_polygon_points": [
+                [
+                  150.0,
+                  1219.0
+                ],
+                [
+                  1109.0,
+                  1219.0
+                ],
+                [
+                  1109.0,
+                  1289.0
+                ],
+                [
+                  150.0,
+                  1289.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "Shuningdek, ishlar natijalari boʻyicha umumlashtirilgan hisobot va keyingi bosqich uchun takliflarni 2026-yil 5-noyabrga qadar Agentlik rahbariyatinga taqdim etishingizni soʻraymiz.",
+              "block_bbox": [
+                148,
+                1109,
+                1109,
+                1211
+              ],
+              "block_id": 13,
+              "block_order": 12,
+              "group_id": 13,
+              "block_polygon_points": [
+                [
+                  148.0,
+                  1109.0
+                ],
+                [
+                  1109.0,
+                  1109.0
+                ],
+                [
+                  1109.0,
+                  1211.0
+                ],
+                [
+                  148.0,
+                  1211.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "Direktor o'rinbosari",
+              "block_bbox": [
+                139,
+                1348,
+                378,
+                1379
+              ],
+              "block_id": 14,
+              "block_order": 13,
+              "group_id": 14,
+              "block_polygon_points": [
+                [
+                  139.0,
+                  1348.0
+                ],
+                [
+                  378.0,
+                  1348.0
+                ],
+                [
+                  378.0,
+                  1379.0
+                ],
+                [
+                  139.0,
+                  1379.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "Sh. Qodirov",
+              "block_bbox": [
+                976,
+                1346,
+                1120,
+                1380
+              ],
+              "block_id": 15,
+              "block_order": 14,
+              "group_id": 15,
+              "block_polygon_points": [
+                [
+                  976.0,
+                  1346.0
+                ],
+                [
+                  1120.0,
+                  1346.0
+                ],
+                [
+                  1120.0,
+                  1380.0
+                ],
+                [
+                  976.0,
+                  1380.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "Ijochi: N. Sobirova\nTel.: +998 (71) 000-12-35",
+              "block_bbox": [
+                150,
+                1438,
+                363,
+                1488
+              ],
+              "block_id": 16,
+              "block_order": 15,
+              "group_id": 16,
+              "block_polygon_points": [
+                [
+                  150.0,
+                  1438.0
+                ],
+                [
+                  363.0,
+                  1438.0
+                ],
+                [
+                  363.0,
+                  1488.0
+                ],
+                [
+                  150.0,
+                  1488.0
+                ]
+              ]
+            },
+            {
+              "block_label": "footer",
+              "block_content": "Test uchun example — AI tizimini sinash uchun tuzilgan. Tashkilot nomlari, raqamlar, manzillar va shaxslar shartli.",
+              "block_bbox": [
+                198,
+                1624,
+                1004,
+                1650
+              ],
+              "block_id": 17,
+              "block_order": null,
+              "group_id": 17,
+              "block_polygon_points": [
+                [
+                  198.0,
+                  1624.0
+                ],
+                [
+                  1004.0,
+                  1624.0
+                ],
+                [
+                  1004.0,
+                  1650.0
+                ],
+                [
+                  198.0,
+                  1650.0
+                ]
+              ]
+            }
+          ],
+          "layout_det_res": {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+              {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7875543236732483,
+                "coordinate": [
+                  955,
+                  98,
+                  1105,
+                  121
+                ],
+                "order": null,
+                "polygon_points": [
+                  [
+                    955.0,
+                    98.0
+                  ],
+                  [
+                    1105.0,
+                    98.0
+                  ],
+                  [
+                    1105.0,
+                    121.0
+                  ],
+                  [
+                    955.0,
+                    121.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.37452077865600586,
+                "coordinate": [
+                  303,
+                  129,
+                  952,
+                  161
+                ],
+                "order": null,
+                "polygon_points": [
+                  [
+                    303.0,
+                    129.0
+                  ],
+                  [
+                    952.0,
+                    129.0
+                  ],
+                  [
+                    952.0,
+                    161.0
+                  ],
+                  [
+                    303.0,
+                    161.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.573265016078949,
+                "coordinate": [
+                  222,
+                  129,
+                  1038,
+                  194
+                ],
+                "order": null,
+                "polygon_points": [
+                  [
+                    222.0,
+                    129.0
+                  ],
+                  [
+                    1038.0,
+                    129.0
+                  ],
+                  [
+                    1038.0,
+                    194.0
+                  ],
+                  [
+                    222.0,
+                    194.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.30387431383132935,
+                "coordinate": [
+                  221,
+                  166,
+                  1038,
+                  193
+                ],
+                "order": null,
+                "polygon_points": [
+                  [
+                    221.0,
+                    166.0
+                  ],
+                  [
+                    1038.0,
+                    166.0
+                  ],
+                  [
+                    1038.0,
+                    193.0
+                  ],
+                  [
+                    221.0,
+                    193.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.41425928473472595,
+                "coordinate": [
+                  138,
+                  223,
+                  384,
+                  251
+                ],
+                "order": 1,
+                "polygon_points": [
+                  [
+                    138.0,
+                    223.0
+                  ],
+                  [
+                    384.0,
+                    223.0
+                  ],
+                  [
+                    384.0,
+                    251.0
+                  ],
+                  [
+                    138.0,
+                    251.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5063860416412354,
+                "coordinate": [
+                  138,
+                  223,
+                  522,
+                  282
+                ],
+                "order": 2,
+                "polygon_points": [
+                  [
+                    138.0,
+                    223.0
+                  ],
+                  [
+                    522.0,
+                    223.0
+                  ],
+                  [
+                    522.0,
+                    282.0
+                  ],
+                  [
+                    138.0,
+                    282.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6658057570457458,
+                "coordinate": [
+                  606,
+                  223,
+                  1109,
+                  291
+                ],
+                "order": 3,
+                "polygon_points": [
+                  [
+                    606.0,
+                    223.0
+                  ],
+                  [
+                    1109.0,
+                    223.0
+                  ],
+                  [
+                    1109.0,
+                    291.0
+                  ],
+                  [
+                    606.0,
+                    291.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.44040051102638245,
+                "coordinate": [
+                  150,
+                  318,
+                  865,
+                  351
+                ],
+                "order": 4,
+                "polygon_points": [
+                  [
+                    150.0,
+                    318.0
+                  ],
+                  [
+                    865.0,
+                    318.0
+                  ],
+                  [
+                    865.0,
+                    351.0
+                  ],
+                  [
+                    150.0,
+                    351.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6501337289810181,
+                "coordinate": [
+                  467,
+                  365,
+                  788,
+                  398
+                ],
+                "order": 5,
+                "polygon_points": [
+                  [
+                    467.0,
+                    365.0
+                  ],
+                  [
+                    788.0,
+                    365.0
+                  ],
+                  [
+                    788.0,
+                    398.0
+                  ],
+                  [
+                    467.0,
+                    398.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9210281372070312,
+                "coordinate": [
+                  146,
+                  408,
+                  1107,
+                  512
+                ],
+                "order": 6,
+                "polygon_points": [
+                  [
+                    146.0,
+                    408.0
+                  ],
+                  [
+                    1107.0,
+                    408.0
+                  ],
+                  [
+                    1107.0,
+                    512.0
+                  ],
+                  [
+                    146.0,
+                    512.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.939331591129303,
+                "coordinate": [
+                  147,
+                  519,
+                  1107,
+                  656
+                ],
+                "order": 7,
+                "polygon_points": [
+                  [
+                    147.0,
+                    519.0
+                  ],
+                  [
+                    1107.0,
+                    519.0
+                  ],
+                  [
+                    1107.0,
+                    656.0
+                  ],
+                  [
+                    147.0,
+                    656.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9333323240280151,
+                "coordinate": [
+                  147,
+                  664,
+                  1109,
+                  768
+                ],
+                "order": 8,
+                "polygon_points": [
+                  [
+                    147.0,
+                    664.0
+                  ],
+                  [
+                    1109.0,
+                    664.0
+                  ],
+                  [
+                    1109.0,
+                    768.0
+                  ],
+                  [
+                    147.0,
+                    768.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9371500611305237,
+                "coordinate": [
+                  148,
+                  775,
+                  1109,
+                  913
+                ],
+                "order": 9,
+                "polygon_points": [
+                  [
+                    148.0,
+                    775.0
+                  ],
+                  [
+                    1109.0,
+                    775.0
+                  ],
+                  [
+                    1109.0,
+                    913.0
+                  ],
+                  [
+                    148.0,
+                    913.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9330693483352661,
+                "coordinate": [
+                  149,
+                  921,
+                  1108,
+                  1024
+                ],
+                "order": 10,
+                "polygon_points": [
+                  [
+                    149.0,
+                    921.0
+                  ],
+                  [
+                    1108.0,
+                    921.0
+                  ],
+                  [
+                    1108.0,
+                    1024.0
+                  ],
+                  [
+                    149.0,
+                    1024.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9091978669166565,
+                "coordinate": [
+                  150,
+                  1031,
+                  1107,
+                  1102
+                ],
+                "order": 11,
+                "polygon_points": [
+                  [
+                    150.0,
+                    1031.0
+                  ],
+                  [
+                    1107.0,
+                    1031.0
+                  ],
+                  [
+                    1107.0,
+                    1102.0
+                  ],
+                  [
+                    150.0,
+                    1102.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9118566513061523,
+                "coordinate": [
+                  150,
+                  1219,
+                  1109,
+                  1289
+                ],
+                "order": 12,
+                "polygon_points": [
+                  [
+                    150.0,
+                    1219.0
+                  ],
+                  [
+                    1109.0,
+                    1219.0
+                  ],
+                  [
+                    1109.0,
+                    1289.0
+                  ],
+                  [
+                    150.0,
+                    1289.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.930638313293457,
+                "coordinate": [
+                  148,
+                  1109,
+                  1109,
+                  1211
+                ],
+                "order": 13,
+                "polygon_points": [
+                  [
+                    148.0,
+                    1109.0
+                  ],
+                  [
+                    1109.0,
+                    1109.0
+                  ],
+                  [
+                    1109.0,
+                    1211.0
+                  ],
+                  [
+                    148.0,
+                    1211.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5444540977478027,
+                "coordinate": [
+                  139,
+                  1348,
+                  378,
+                  1379
+                ],
+                "order": 14,
+                "polygon_points": [
+                  [
+                    139.0,
+                    1348.0
+                  ],
+                  [
+                    378.0,
+                    1348.0
+                  ],
+                  [
+                    378.0,
+                    1379.0
+                  ],
+                  [
+                    139.0,
+                    1379.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7934019565582275,
+                "coordinate": [
+                  976,
+                  1346,
+                  1120,
+                  1380
+                ],
+                "order": 15,
+                "polygon_points": [
+                  [
+                    976.0,
+                    1346.0
+                  ],
+                  [
+                    1120.0,
+                    1346.0
+                  ],
+                  [
+                    1120.0,
+                    1380.0
+                  ],
+                  [
+                    976.0,
+                    1380.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.3383919596672058,
+                "coordinate": [
+                  151,
+                  1439,
+                  318,
+                  1463
+                ],
+                "order": 16,
+                "polygon_points": [
+                  [
+                    151.0,
+                    1439.0
+                  ],
+                  [
+                    318.0,
+                    1439.0
+                  ],
+                  [
+                    318.0,
+                    1463.0
+                  ],
+                  [
+                    151.0,
+                    1463.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4729800224304199,
+                "coordinate": [
+                  150,
+                  1438,
+                  363,
+                  1488
+                ],
+                "order": 17,
+                "polygon_points": [
+                  [
+                    150.0,
+                    1438.0
+                  ],
+                  [
+                    363.0,
+                    1438.0
+                  ],
+                  [
+                    363.0,
+                    1488.0
+                  ],
+                  [
+                    150.0,
+                    1488.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.38838493824005127,
+                "coordinate": [
+                  151,
+                  1462,
+                  362,
+                  1488
+                ],
+                "order": 18,
+                "polygon_points": [
+                  [
+                    151.0,
+                    1462.0
+                  ],
+                  [
+                    362.0,
+                    1462.0
+                  ],
+                  [
+                    362.0,
+                    1488.0
+                  ],
+                  [
+                    151.0,
+                    1488.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7080955505371094,
+                "coordinate": [
+                  198,
+                  1624,
+                  1004,
+                  1650
+                ],
+                "order": null,
+                "polygon_points": [
+                  [
+                    198.0,
+                    1624.0
+                  ],
+                  [
+                    1004.0,
+                    1624.0
+                  ],
+                  [
+                    1004.0,
+                    1650.0
+                  ],
+                  [
+                    198.0,
+                    1650.0
+                  ]
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "input_sha256": "866a13f0564e1b25c9f71a588448c90d413d1d74c91eac49a4ec9ebbe7d20486",
+  "code_sha256": "d28cb0f513f310e00d0edae3d69eaac8a4f93a049e8f0cb15a5ccac54ca674fe",
+  "seconds": 78.90444780001417,
+  "peak_process_tree_rss_bytes": 4806135808,
+  "peak_gpu_memory_mib": 5913,
+  "layout_sensitive_cer": 0.047724259832081305,
+  "critical_exact_present": 17,
+  "critical_total": 19,
+  "table_rows": 0,
+  "note": "CER includes reading-order differences. Critical exact coverage normalizes case/apostrophes/whitespace.",
+  "ocr_capture_code_sha256": "8d7b345d85ed642e187555e50ba9a877fec0f4a2661a93d47f5fdfd684da5dd4",
+  "passage_rebuild_note": "Current grouping applied to unchanged raw OCR/spans/cells; recognition timing remains the original capture timing."
+}

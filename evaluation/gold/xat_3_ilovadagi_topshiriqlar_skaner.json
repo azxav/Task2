@@ -1,0 +1,143 @@
+{
+  "family": "xat_3_ilovadagi_topshiriqlar",
+  "metadata": {
+    "sender": {
+      "text": "MA’LUMOTLAR XAVFSIZLIGI VA INTEGRATSIYA AGENTLIGI",
+      "page": 1
+    },
+    "number": {
+      "text": "07-04/2219",
+      "page": 1
+    },
+    "date": {
+      "text": "15.09.2026",
+      "page": 1
+    },
+    "signer": {
+      "text": "D. Ergasheva",
+      "page": 1
+    }
+  },
+  "tasks": [
+    {
+      "id": "page-2-table-1-row-1",
+      "page": 2,
+      "clause": "table-1/row-1",
+      "instruction": "Ichki axborot tizimlarida sun’iy intellekt qo‘llash mumkin bo‘lgan jarayonlarni aniqlash",
+      "executors": [
+        "Tizim tahlili bo‘limi"
+      ],
+      "deadline": "20.09.2026",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "page-2-table-1-row-2",
+      "page": 2,
+      "clause": "table-1/row-2",
+      "instruction": "Tanlangan jarayonlar uchun zarur ma’lumotlar manbalarini inventarizatsiya qilish",
+      "executors": [
+        "Ma’lumotlar bazalarini boshqarish bo‘limi"
+      ],
+      "deadline": "30.09.2026",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "page-2-table-1-row-3",
+      "page": 2,
+      "clause": "table-1/row-3",
+      "instruction": "Topshiriqlarni avtomatik aniqlash va atributlarini ajratish modulining tajriba-sinov variantini ishlab chiqish",
+      "executors": [
+        "Sun’iy intellekt laboratoriyasi",
+        "Dasturiy ta’minotni ishlab chiqish bo‘limi"
+      ],
+      "deadline": "2026-yil 15-oktabr",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "page-2-table-1-row-4",
+      "page": 2,
+      "clause": "table-1/row-4",
+      "instruction": "Taqsimlash modulida foydalaniladigan tarkibiy bo‘linmalar vakolatlari bazasini shakllantirish",
+      "executors": [
+        "Biznes-tahlil bo‘limi"
+      ],
+      "deadline": "25.10.2026",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "page-2-table-1-row-5",
+      "page": 2,
+      "clause": "table-1/row-5",
+      "instruction": "Modullarning axborot xavfsizligi talablariga muvofiqligini tekshirish",
+      "executors": [
+        "Axborot xavfsizligi bo‘limi"
+      ],
+      "deadline": "prototip tayyor bo‘lgandan so‘ng 10 kun ichida",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "page-2-table-1-row-6",
+      "page": 2,
+      "clause": "table-1/row-6",
+      "instruction": "Tajriba-sinov natijalarini tahlil qilib, keyingi joriy etish bosqichi bo‘yicha takliflar tayyorlash",
+      "executors": [
+        "Loyiha guruhi"
+      ],
+      "deadline": "10.11.2026",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "page-2-table-1-row-7",
+      "page": 2,
+      "clause": "table-1/row-7",
+      "instruction": "Xodimlarni yangi modullar bilan ishlashga o‘qitish",
+      "executors": [
+        "Kadrlar bo‘limi"
+      ],
+      "deadline": "doimiy",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "unnumbered-1",
+      "page": 1,
+      "clause": null,
+      "instruction": "Ilovada ko‘rsatilgan topshiriqlarning o‘z vaqtida va sifatli bajarilishini ta’minlash hamda ijro holati to‘g‘risida har oyning 25-sanasiga qadar Agentlikka axborot kiritib borishingizni so‘raymiz.",
+      "executors": [
+        "Adliya organlari va muassasalarida axborot texnologiyalarini rivojlantirish markaziga"
+      ],
+      "deadline": "har oyning 25-sanasiga qadar",
+      "kinds": [
+        "execution",
+        "reporting"
+      ],
+      "deadline_source_clause": null,
+      "annotation_note": "Preserve the complete compound instruction; periodic deadline qualifies its reporting action."
+    }
+  ],
+  "annotation_method": "Manually selected obligations/fields, text extracted from reference PDF, visually checked against all scan pages before model tuning.",
+  "notes": [],
+  "document_id": "xat_3_ilovadagi_topshiriqlar_skaner",
+  "split": "dev",
+  "source_sha256": "6babc860c19e279f9480df979f22e8bf38ea9aa9ff81a07da290efe1416a1ff0"
+}

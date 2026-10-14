@@ -1,0 +1,128 @@
+{
+  "family": "xat_2_jadvaldagi_topshiriqlar",
+  "metadata": {
+    "sender": {
+      "text": "“YANGI AVLOD RAQAMLI YECHIMLAR” DAVLAT UNITAR KORXONASI",
+      "page": 1
+    },
+    "number": {
+      "text": "15/2-784",
+      "page": 1
+    },
+    "date": {
+      "text": "11.09.2026",
+      "page": 1
+    },
+    "signer": {
+      "text": "A. Yusupov",
+      "page": 1
+    }
+  },
+  "tasks": [
+    {
+      "id": "page-1-table-1-row-1",
+      "page": 1,
+      "clause": "table-1/row-1",
+      "instruction": "Murojaatlar portalidagi mavjud klassifikatorlarni inventarizatsiya qilish va ularni takomillashtirish bo‘yicha taklif tayyorlash",
+      "executors": [
+        "Tizim tahlili bo‘limi"
+      ],
+      "deadline": "18.09.2026",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "page-1-table-1-row-2",
+      "page": 1,
+      "clause": "table-1/row-2",
+      "instruction": "Hujjatlardan topshiriq, muddat va ijrochi haqidagi ma’lumotlarni avtomatik ajratish bo‘yicha prototip ishlab chiqish",
+      "executors": [
+        "Sun’iy intellekt laboratoriyasi"
+      ],
+      "deadline": "30.09.2026",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "page-1-table-1-row-3",
+      "page": 1,
+      "clause": "table-1/row-3",
+      "instruction": "Topshiriqlarni tarkibiy bo‘linmalarga yo‘naltirish uchun vakolatlar va tashkiliy tuzilma ma’lumotlarini shakllantirish",
+      "executors": [
+        "Biznes-tahlil bo‘limi",
+        "Kadrlar bo‘limi"
+      ],
+      "deadline": "2026-yil 5-oktabr",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "page-1-table-1-row-4",
+      "page": 1,
+      "clause": "table-1/row-4",
+      "instruction": "AI modullarining mavjud axborot tizimlari bilan integratsiyasi bo‘yicha texnik talablarni tayyorlash",
+      "executors": [
+        "Integratsiya bo‘limi"
+      ],
+      "deadline": "prototip tayyor bo‘lgandan so‘ng 15 kun ichida",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "page-1-table-1-row-5",
+      "page": 1,
+      "clause": "table-1/row-5",
+      "instruction": "Tajriba-sinov natijalarini baholash va aniqlangan kamchiliklar bo‘yicha takliflar kiritish",
+      "executors": [
+        "Loyiha guruhi"
+      ],
+      "deadline": "01.11.2026",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "page-1-table-1-row-6",
+      "page": 1,
+      "clause": "table-1/row-6",
+      "instruction": "Bajarilgan ishlar holati to‘g‘risida qisqacha ma’lumot taqdim etish",
+      "executors": [
+        "Loyiha koordinatori"
+      ],
+      "deadline": "har haftaning juma kuni",
+      "kinds": [
+        "reporting"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "unnumbered-1",
+      "page": 1,
+      "clause": null,
+      "instruction": "Bajarilgan ishlar bo‘yicha umumlashtirilgan ma’lumot loyiha koordinatori orqali Korxonaning Raqamli loyihalar boshqarmasiga taqdim etilsin.",
+      "executors": [
+        "loyiha koordinatori"
+      ],
+      "deadline": null,
+      "kinds": [
+        "reporting"
+      ],
+      "deadline_source_clause": null,
+      "annotation_note": "Coordinator explicitly routes/submits the report; recipient department is not executor."
+    }
+  ],
+  "annotation_method": "Manually selected obligations/fields, text extracted from reference PDF, visually checked against all scan pages before model tuning.",
+  "notes": [],
+  "document_id": "xat_2_jadvaldagi_topshiriqlar",
+  "split": "test",
+  "source_sha256": "b86768d0f066ada18cec63e00c725466da6e0ad9d391b1db69333762bd96261d"
+}

@@ -1,0 +1,1451 @@
+{
+  "engine": "paddle-vl",
+  "split": "dev",
+  "document": {
+    "spans": [
+      {
+        "id": "p1-vl-0",
+        "page": 1,
+        "text": "Test uchun example",
+        "bbox": [
+          961.0,
+          103.0,
+          1114.0,
+          124.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-1",
+        "page": 1,
+        "text": "HUQUQIY XIZMATLARNI RAQAMLASHTIRISH MILLIY AGENTLIGI KENGASHINING",
+        "bbox": [
+          163.0,
+          130.0,
+          1104.0,
+          209.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-2",
+        "page": 1,
+        "text": "2026-yil 10-fevral",
+        "bbox": [
+          143.0,
+          270.0,
+          312.0,
+          299.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-3",
+        "page": 1,
+        "text": "Toshkent shahri",
+        "bbox": [
+          556.0,
+          272.0,
+          710.0,
+          303.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-4",
+        "page": 1,
+        "text": "No 121",
+        "bbox": [
+          1056.0,
+          277.0,
+          1122.0,
+          304.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-5",
+        "page": 1,
+        "text": "Yuridik shaxslarni roʻyxatdan oʻtkazish jarayonlarini soddalashtirish chora-tadbirlari toʻgʻrisida",
+        "bbox": [
+          223.0,
+          336.0,
+          1044.0,
+          408.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-6",
+        "page": 1,
+        "text": "Tadbirkorlik subyektlarini roʻyxatdan oʻtkazish jarayonlarini soddalashtirish, ushbu xizmatlarni raqamlashtirish va idoralararo hamkorlikni takomillashtirish maqsadida Agentlik Kengashi qaror qiladi:",
+        "bbox": [
+          151.0,
+          422.0,
+          1110.0,
+          526.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-7",
+        "page": 1,
+        "text": "1. Roʻyxatga olish departamenti yuridik shaxslarni roʻyxatdan oʻtkazish tartibini soddalashtirishni nazarda tutuvchi hujjat loyihasini bir oy muddatda ishlab chiqsin va Kengash muhokamasiga kiritsin.",
+        "bbox": [
+          151.0,
+          534.0,
+          1109.0,
+          636.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-8",
+        "page": 1,
+        "text": "2. Axborot texnologiyalari boshqarmasi Ro'yxatga olish departamenti bilan birgalikda ro'yxatdan o'tkazish axborot tizimining yagona interaktiv davlat xizmatlari portali bilan integratsiyasini 2026-yil 1-iyulga qadar ta' minlasin.",
+        "bbox": [
+          150.0,
+          644.0,
+          1109.0,
+          749.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-9",
+        "page": 1,
+        "text": "3. Huquqiy ekspertiza boshqarmasi roʻyxatdan oʻtkazishda taqdim etiladigan hujjatlarni avtomatik tekshirish modulini joriy etish yuzasidan takliflar tayyorlasin.",
+        "bbox": [
+          150.0,
+          754.0,
+          1107.0,
+          827.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-10",
+        "page": 1,
+        "text": "4. Hududiy boʻlinmalar yangi tartib boʻyicha amaliy qoʻllanmani tarqatish va aholiga tushuntirish ishlarini 2026-yil 15-mardan boshlab tashkil etsin.",
+        "bbox": [
+          149.0,
+          832.0,
+          1107.0,
+          902.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-11",
+        "page": 1,
+        "text": "5. Roʻyxatga olish departamenti mazkur qaror ijrosi toʻgʻrisida har oyda Kengashga maʼlumot berib borsin.",
+        "bbox": [
+          148.0,
+          909.0,
+          1106.0,
+          978.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-12",
+        "page": 1,
+        "text": "6. Mazkur qarorda muddati alohida koʻrsatilmagan topshiriqlar bir oy muddatda ijro etilsin.",
+        "bbox": [
+          148.0,
+          986.0,
+          1106.0,
+          1053.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-13",
+        "page": 1,
+        "text": "7. Mazkur qaror ijrosini nazorat qilish Agentlik direktorining birinchi oʻrinbosari zimmasiga yuklansin.",
+        "bbox": [
+          147.0,
+          1062.0,
+          1105.0,
+          1131.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-14",
+        "page": 1,
+        "text": "Kengash raisi",
+        "bbox": [
+          135.0,
+          1195.0,
+          299.0,
+          1228.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-15",
+        "page": 1,
+        "text": "M. Tursunov",
+        "bbox": [
+          961.0,
+          1201.0,
+          1117.0,
+          1233.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-16",
+        "page": 1,
+        "text": "Test uchun example — Al tizimini sinash uchun tuzilgan. Tashkilot nomlari, raqamlar, manzillar va shaxslar shartli.",
+        "bbox": [
+          191.0,
+          1622.0,
+          997.0,
+          1650.0
+        ],
+        "parent_id": null
+      }
+    ],
+    "passages": [
+      {
+        "id": "p1-block-0",
+        "kind": "footer",
+        "span_ids": [
+          "p1-vl-0"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-1",
+        "kind": "header",
+        "span_ids": [
+          "p1-vl-1",
+          "p1-vl-2"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-2",
+        "kind": "header",
+        "span_ids": [
+          "p1-vl-3"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-3",
+        "kind": "header",
+        "span_ids": [
+          "p1-vl-4"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-4",
+        "kind": "header",
+        "span_ids": [
+          "p1-vl-5"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-5",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-vl-6"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-6",
+        "kind": "clause",
+        "span_ids": [
+          "p1-vl-7"
+        ],
+        "clause_ref": "1",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-7",
+        "kind": "clause",
+        "span_ids": [
+          "p1-vl-8"
+        ],
+        "clause_ref": "2",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-8",
+        "kind": "clause",
+        "span_ids": [
+          "p1-vl-9"
+        ],
+        "clause_ref": "3",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-9",
+        "kind": "clause",
+        "span_ids": [
+          "p1-vl-10"
+        ],
+        "clause_ref": "4",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-10",
+        "kind": "clause",
+        "span_ids": [
+          "p1-vl-11"
+        ],
+        "clause_ref": "5",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-11",
+        "kind": "clause",
+        "span_ids": [
+          "p1-vl-12"
+        ],
+        "clause_ref": "6",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-12",
+        "kind": "clause",
+        "span_ids": [
+          "p1-vl-13"
+        ],
+        "clause_ref": "7",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-13",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-vl-14"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-14",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-vl-15"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-15",
+        "kind": "footer",
+        "span_ids": [
+          "p1-vl-16"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      }
+    ],
+    "warnings": [],
+    "provenance": {
+      "source_sha256": "67eb438811ff4d25edbcf0124a68b08bd9706b2c94fa7c71b4459cfa4de1edd0",
+      "page_modes": [
+        "ocr"
+      ],
+      "ocr": "paddle-vl",
+      "ocr_raw_results": {
+        "1": {
+          "page_index": null,
+          "page_count": null,
+          "width": 1202,
+          "height": 1700,
+          "model_settings": {
+            "use_doc_preprocessor": false,
+            "use_layout_detection": true,
+            "use_chart_recognition": false,
+            "use_seal_recognition": false,
+            "use_ocr_for_image_block": false,
+            "format_block_content": false,
+            "merge_layout_blocks": false,
+            "markdown_ignore_labels": [
+              "number",
+              "footnote",
+              "header",
+              "header_image",
+              "footer",
+              "footer_image",
+              "aside_text"
+            ],
+            "return_layout_polygon_points": true
+          },
+          "parsing_res_list": [
+            {
+              "block_label": "header",
+              "block_content": "Test uchun example",
+              "block_bbox": [
+                961,
+                103,
+                1114,
+                124
+              ],
+              "block_id": 0,
+              "block_order": null,
+              "group_id": 0,
+              "block_polygon_points": [
+                [
+                  961.0,
+                  103.0
+                ],
+                [
+                  1113.0,
+                  103.0
+                ],
+                [
+                  1113.0,
+                  123.0
+                ],
+                [
+                  961.0,
+                  123.0
+                ]
+              ]
+            },
+            {
+              "block_label": "doc_title",
+              "block_content": "HUQUQIY XIZMATLARNI RAQAMLASHTIRISH MILLIY AGENTLIGI\nKENGASHINING",
+              "block_bbox": [
+                163,
+                130,
+                1104,
+                209
+              ],
+              "block_id": 1,
+              "block_order": 1,
+              "group_id": 1,
+              "block_polygon_points": [
+                [
+                  163.0,
+                  130.00001525878906
+                ],
+                [
+                  1103.5361328125,
+                  138.0045623779297
+                ],
+                [
+                  1102.872802734375,
+                  215.94786071777344
+                ],
+                [
+                  162.336669921875,
+                  207.9433135986328
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "2026-yil 10-fevral",
+              "block_bbox": [
+                143,
+                270,
+                312,
+                299
+              ],
+              "block_id": 2,
+              "block_order": 2,
+              "group_id": 2,
+              "block_polygon_points": [
+                [
+                  143.0,
+                  270.0
+                ],
+                [
+                  312.0,
+                  270.0
+                ],
+                [
+                  312.0,
+                  299.0
+                ],
+                [
+                  143.0,
+                  299.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "Toshkent shahri",
+              "block_bbox": [
+                556,
+                272,
+                710,
+                303
+              ],
+              "block_id": 3,
+              "block_order": 3,
+              "group_id": 3,
+              "block_polygon_points": [
+                [
+                  556.0,
+                  272.0
+                ],
+                [
+                  710.0,
+                  272.0
+                ],
+                [
+                  710.0,
+                  303.0
+                ],
+                [
+                  556.0,
+                  303.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "No 121",
+              "block_bbox": [
+                1056,
+                277,
+                1122,
+                304
+              ],
+              "block_id": 4,
+              "block_order": 4,
+              "group_id": 4,
+              "block_polygon_points": [
+                [
+                  1056.0,
+                  277.0
+                ],
+                [
+                  1121.0,
+                  277.0
+                ],
+                [
+                  1121.0,
+                  303.0
+                ],
+                [
+                  1056.0,
+                  303.0
+                ]
+              ]
+            },
+            {
+              "block_label": "paragraph_title",
+              "block_content": "Yuridik shaxslarni roʻyxatdan oʻtkazish jarayonlarini soddalashtirish chora-tadbirlari toʻgʻrisida",
+              "block_bbox": [
+                223,
+                336,
+                1044,
+                408
+              ],
+              "block_id": 5,
+              "block_order": 5,
+              "group_id": 5,
+              "block_polygon_points": [
+                [
+                  223.0,
+                  336.0
+                ],
+                [
+                  1044.0,
+                  336.0
+                ],
+                [
+                  1044.0,
+                  408.0
+                ],
+                [
+                  223.0,
+                  408.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "Tadbirkorlik subyektlarini roʻyxatdan oʻtkazish jarayonlarini soddalashtirish, ushbu xizmatlarni raqamlashtirish va idoralararo hamkorlikni takomillashtirish maqsadida Agentlik Kengashi qaror qiladi:",
+              "block_bbox": [
+                151,
+                422,
+                1110,
+                526
+              ],
+              "block_id": 6,
+              "block_order": 6,
+              "group_id": 6,
+              "block_polygon_points": [
+                [
+                  151.0,
+                  422.0
+                ],
+                [
+                  1110.0,
+                  422.0
+                ],
+                [
+                  1110.0,
+                  526.0
+                ],
+                [
+                  151.0,
+                  526.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "1. Roʻyxatga olish departamenti yuridik shaxslarni roʻyxatdan oʻtkazish tartibini soddalashtirishni nazarda tutuvchi hujjat loyihasini bir oy muddatda ishlab chiqsin va Kengash muhokamasiga kiritsin.",
+              "block_bbox": [
+                151,
+                534,
+                1109,
+                636
+              ],
+              "block_id": 7,
+              "block_order": 7,
+              "group_id": 7,
+              "block_polygon_points": [
+                [
+                  151.0,
+                  534.0
+                ],
+                [
+                  1109.0,
+                  534.0
+                ],
+                [
+                  1109.0,
+                  636.0
+                ],
+                [
+                  151.0,
+                  636.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "2. Axborot texnologiyalari boshqarmasi Ro'yxatga olish departamenti bilan birgalikda ro'yxatdan o'tkazish axborot tizimining yagona interaktiv davlat xizmatlari portali bilan integratsiyasini 2026-yil 1-iyulga qadar ta' minlasin.",
+              "block_bbox": [
+                150,
+                644,
+                1109,
+                749
+              ],
+              "block_id": 8,
+              "block_order": 8,
+              "group_id": 8,
+              "block_polygon_points": [
+                [
+                  150.0,
+                  644.0
+                ],
+                [
+                  1109.0,
+                  644.0
+                ],
+                [
+                  1109.0,
+                  749.0
+                ],
+                [
+                  150.0,
+                  749.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "3. Huquqiy ekspertiza boshqarmasi roʻyxatdan oʻtkazishda taqdim etiladigan hujjatlarni avtomatik tekshirish modulini joriy etish yuzasidan takliflar tayyorlasin.",
+              "block_bbox": [
+                150,
+                754,
+                1107,
+                827
+              ],
+              "block_id": 9,
+              "block_order": 9,
+              "group_id": 9,
+              "block_polygon_points": [
+                [
+                  150.0,
+                  754.0
+                ],
+                [
+                  1107.0,
+                  754.0
+                ],
+                [
+                  1107.0,
+                  827.0
+                ],
+                [
+                  150.0,
+                  827.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "4. Hududiy boʻlinmalar yangi tartib boʻyicha amaliy qoʻllanmani tarqatish va aholiga tushuntirish ishlarini 2026-yil 15-mardan boshlab tashkil etsin.",
+              "block_bbox": [
+                149,
+                832,
+                1107,
+                902
+              ],
+              "block_id": 10,
+              "block_order": 10,
+              "group_id": 10,
+              "block_polygon_points": [
+                [
+                  149.0,
+                  832.0
+                ],
+                [
+                  1107.0,
+                  832.0
+                ],
+                [
+                  1107.0,
+                  902.0
+                ],
+                [
+                  149.0,
+                  902.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "5. Roʻyxatga olish departamenti mazkur qaror ijrosi toʻgʻrisida har oyda Kengashga maʼlumot berib borsin.",
+              "block_bbox": [
+                148,
+                909,
+                1106,
+                978
+              ],
+              "block_id": 11,
+              "block_order": 11,
+              "group_id": 11,
+              "block_polygon_points": [
+                [
+                  148.0,
+                  909.0
+                ],
+                [
+                  1106.0,
+                  909.0
+                ],
+                [
+                  1106.0,
+                  978.0
+                ],
+                [
+                  148.0,
+                  978.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "6. Mazkur qarorda muddati alohida koʻrsatilmagan topshiriqlar bir oy muddatda ijro etilsin.",
+              "block_bbox": [
+                148,
+                986,
+                1106,
+                1053
+              ],
+              "block_id": 12,
+              "block_order": 12,
+              "group_id": 12,
+              "block_polygon_points": [
+                [
+                  148.0,
+                  986.0
+                ],
+                [
+                  1106.0,
+                  986.0
+                ],
+                [
+                  1106.0,
+                  1053.0
+                ],
+                [
+                  148.0,
+                  1053.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "7. Mazkur qaror ijrosini nazorat qilish Agentlik direktorining birinchi oʻrinbosari zimmasiga yuklansin.",
+              "block_bbox": [
+                147,
+                1062,
+                1105,
+                1131
+              ],
+              "block_id": 13,
+              "block_order": 13,
+              "group_id": 13,
+              "block_polygon_points": [
+                [
+                  147.0,
+                  1062.0
+                ],
+                [
+                  1105.0,
+                  1062.0
+                ],
+                [
+                  1105.0,
+                  1131.0
+                ],
+                [
+                  147.0,
+                  1131.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "Kengash raisi",
+              "block_bbox": [
+                135,
+                1195,
+                299,
+                1228
+              ],
+              "block_id": 14,
+              "block_order": 14,
+              "group_id": 14,
+              "block_polygon_points": [
+                [
+                  135.0,
+                  1195.0
+                ],
+                [
+                  299.0,
+                  1195.0
+                ],
+                [
+                  299.0,
+                  1228.0
+                ],
+                [
+                  135.0,
+                  1228.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "M. Tursunov",
+              "block_bbox": [
+                961,
+                1201,
+                1117,
+                1233
+              ],
+              "block_id": 15,
+              "block_order": 15,
+              "group_id": 15,
+              "block_polygon_points": [
+                [
+                  961.0,
+                  1201.0
+                ],
+                [
+                  1117.0,
+                  1201.0
+                ],
+                [
+                  1117.0,
+                  1233.0
+                ],
+                [
+                  961.0,
+                  1233.0
+                ]
+              ]
+            },
+            {
+              "block_label": "footer",
+              "block_content": "Test uchun example — Al tizimini sinash uchun tuzilgan. Tashkilot nomlari, raqamlar, manzillar va shaxslar shartli.",
+              "block_bbox": [
+                191,
+                1622,
+                997,
+                1650
+              ],
+              "block_id": 16,
+              "block_order": null,
+              "group_id": 16,
+              "block_polygon_points": [
+                [
+                  191.0,
+                  1622.0
+                ],
+                [
+                  997.0,
+                  1622.0
+                ],
+                [
+                  997.0,
+                  1650.0
+                ],
+                [
+                  191.0,
+                  1650.0
+                ]
+              ]
+            }
+          ],
+          "layout_det_res": {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+              {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6371564269065857,
+                "coordinate": [
+                  961,
+                  103,
+                  1114,
+                  124
+                ],
+                "order": null,
+                "polygon_points": [
+                  [
+                    961.0,
+                    103.0
+                  ],
+                  [
+                    1113.0,
+                    103.0
+                  ],
+                  [
+                    1113.0,
+                    123.0
+                  ],
+                  [
+                    961.0,
+                    123.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.7754614949226379,
+                "coordinate": [
+                  163,
+                  130,
+                  1104,
+                  209
+                ],
+                "order": 1,
+                "polygon_points": [
+                  [
+                    163.0,
+                    130.00001525878906
+                  ],
+                  [
+                    1103.5361328125,
+                    138.0045623779297
+                  ],
+                  [
+                    1102.872802734375,
+                    215.94786071777344
+                  ],
+                  [
+                    162.336669921875,
+                    207.9433135986328
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7334976196289062,
+                "coordinate": [
+                  143,
+                  270,
+                  312,
+                  299
+                ],
+                "order": 2,
+                "polygon_points": [
+                  [
+                    143.0,
+                    270.0
+                  ],
+                  [
+                    312.0,
+                    270.0
+                  ],
+                  [
+                    312.0,
+                    299.0
+                  ],
+                  [
+                    143.0,
+                    299.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7834396958351135,
+                "coordinate": [
+                  556,
+                  272,
+                  710,
+                  303
+                ],
+                "order": 3,
+                "polygon_points": [
+                  [
+                    556.0,
+                    272.0
+                  ],
+                  [
+                    710.0,
+                    272.0
+                  ],
+                  [
+                    710.0,
+                    303.0
+                  ],
+                  [
+                    556.0,
+                    303.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7133435606956482,
+                "coordinate": [
+                  1056,
+                  277,
+                  1122,
+                  304
+                ],
+                "order": 4,
+                "polygon_points": [
+                  [
+                    1056.0,
+                    277.0
+                  ],
+                  [
+                    1121.0,
+                    277.0
+                  ],
+                  [
+                    1121.0,
+                    303.0
+                  ],
+                  [
+                    1056.0,
+                    303.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.866510808467865,
+                "coordinate": [
+                  223,
+                  336,
+                  1044,
+                  408
+                ],
+                "order": 5,
+                "polygon_points": [
+                  [
+                    223.0,
+                    336.0
+                  ],
+                  [
+                    1044.0,
+                    336.0
+                  ],
+                  [
+                    1044.0,
+                    408.0
+                  ],
+                  [
+                    223.0,
+                    408.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9130367040634155,
+                "coordinate": [
+                  151,
+                  422,
+                  1110,
+                  526
+                ],
+                "order": 6,
+                "polygon_points": [
+                  [
+                    151.0,
+                    422.0
+                  ],
+                  [
+                    1110.0,
+                    422.0
+                  ],
+                  [
+                    1110.0,
+                    526.0
+                  ],
+                  [
+                    151.0,
+                    526.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9201902747154236,
+                "coordinate": [
+                  151,
+                  534,
+                  1109,
+                  636
+                ],
+                "order": 7,
+                "polygon_points": [
+                  [
+                    151.0,
+                    534.0
+                  ],
+                  [
+                    1109.0,
+                    534.0
+                  ],
+                  [
+                    1109.0,
+                    636.0
+                  ],
+                  [
+                    151.0,
+                    636.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9259023070335388,
+                "coordinate": [
+                  150,
+                  644,
+                  1109,
+                  749
+                ],
+                "order": 8,
+                "polygon_points": [
+                  [
+                    150.0,
+                    644.0
+                  ],
+                  [
+                    1109.0,
+                    644.0
+                  ],
+                  [
+                    1109.0,
+                    749.0
+                  ],
+                  [
+                    150.0,
+                    749.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8988063335418701,
+                "coordinate": [
+                  150,
+                  754,
+                  1107,
+                  827
+                ],
+                "order": 9,
+                "polygon_points": [
+                  [
+                    150.0,
+                    754.0
+                  ],
+                  [
+                    1107.0,
+                    754.0
+                  ],
+                  [
+                    1107.0,
+                    827.0
+                  ],
+                  [
+                    150.0,
+                    827.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9051059484481812,
+                "coordinate": [
+                  149,
+                  832,
+                  1107,
+                  902
+                ],
+                "order": 10,
+                "polygon_points": [
+                  [
+                    149.0,
+                    832.0
+                  ],
+                  [
+                    1107.0,
+                    832.0
+                  ],
+                  [
+                    1107.0,
+                    902.0
+                  ],
+                  [
+                    149.0,
+                    902.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.896356999874115,
+                "coordinate": [
+                  148,
+                  909,
+                  1106,
+                  978
+                ],
+                "order": 11,
+                "polygon_points": [
+                  [
+                    148.0,
+                    909.0
+                  ],
+                  [
+                    1106.0,
+                    909.0
+                  ],
+                  [
+                    1106.0,
+                    978.0
+                  ],
+                  [
+                    148.0,
+                    978.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8998725414276123,
+                "coordinate": [
+                  148,
+                  986,
+                  1106,
+                  1053
+                ],
+                "order": 12,
+                "polygon_points": [
+                  [
+                    148.0,
+                    986.0
+                  ],
+                  [
+                    1106.0,
+                    986.0
+                  ],
+                  [
+                    1106.0,
+                    1053.0
+                  ],
+                  [
+                    148.0,
+                    1053.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9030497670173645,
+                "coordinate": [
+                  147,
+                  1062,
+                  1105,
+                  1131
+                ],
+                "order": 13,
+                "polygon_points": [
+                  [
+                    147.0,
+                    1062.0
+                  ],
+                  [
+                    1105.0,
+                    1062.0
+                  ],
+                  [
+                    1105.0,
+                    1131.0
+                  ],
+                  [
+                    147.0,
+                    1131.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8065750598907471,
+                "coordinate": [
+                  135,
+                  1195,
+                  299,
+                  1228
+                ],
+                "order": 14,
+                "polygon_points": [
+                  [
+                    135.0,
+                    1195.0
+                  ],
+                  [
+                    299.0,
+                    1195.0
+                  ],
+                  [
+                    299.0,
+                    1228.0
+                  ],
+                  [
+                    135.0,
+                    1228.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7800226211547852,
+                "coordinate": [
+                  961,
+                  1201,
+                  1117,
+                  1233
+                ],
+                "order": 15,
+                "polygon_points": [
+                  [
+                    961.0,
+                    1201.0
+                  ],
+                  [
+                    1117.0,
+                    1201.0
+                  ],
+                  [
+                    1117.0,
+                    1233.0
+                  ],
+                  [
+                    961.0,
+                    1233.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7080438137054443,
+                "coordinate": [
+                  191,
+                  1622,
+                  997,
+                  1650
+                ],
+                "order": null,
+                "polygon_points": [
+                  [
+                    191.0,
+                    1622.0
+                  ],
+                  [
+                    997.0,
+                    1622.0
+                  ],
+                  [
+                    997.0,
+                    1650.0
+                  ],
+                  [
+                    191.0,
+                    1650.0
+                  ]
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "input_sha256": "0c4330e35bf099ce7aa3d41ebae2cfc41b6b565b61d4a11d3752a3e7a1a99549",
+  "code_sha256": "d28cb0f513f310e00d0edae3d69eaac8a4f93a049e8f0cb15a5ccac54ca674fe",
+  "seconds": 68.58006990002468,
+  "peak_process_tree_rss_bytes": 4551319552,
+  "peak_gpu_memory_mib": 5913,
+  "layout_sensitive_cer": 0.010474430067775724,
+  "critical_exact_present": 17,
+  "critical_total": 18,
+  "table_rows": 0,
+  "note": "CER includes reading-order differences. Critical exact coverage normalizes case/apostrophes/whitespace.",
+  "ocr_capture_code_sha256": "6d33bbe114eb68a4d675048d73032de7d99670fa868ae9ef65b9db215efe35fa",
+  "passage_rebuild_note": "Current grouping applied to unchanged raw OCR/spans/cells; recognition timing remains the original capture timing."
+}

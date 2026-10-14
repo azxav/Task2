@@ -1,0 +1,1975 @@
+{
+  "engine": "tesseract",
+  "split": "test",
+  "document": {
+    "spans": [
+      {
+        "id": "p1-ocr-0",
+        "page": 1,
+        "text": "Test uchun example",
+        "bbox": [
+          1464.0,
+          160.0,
+          1675.0,
+          185.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-1",
+        "page": 1,
+        "text": "“YANGI AVLOD RAQAMLI YECHIMLAR”",
+        "bbox": [
+          532.0,
+          202.0,
+          1383.0,
+          241.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-2",
+        "page": 1,
+        "text": "DAVLAT UNITAR KORXONASI",
+        "bbox": [
+          641.0,
+          255.0,
+          1273.0,
+          288.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-3",
+        "page": 1,
+        "text": "100084, Toshkent shahri, Ilm-fan koʻchasi, 7-uy. Tel.: +998 (71) 000-45-60. E-mail: devonxona@yarye.example",
+        "bbox": [
+          339.0,
+          310.0,
+          1580.0,
+          340.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-4",
+        "page": 1,
+        "text": "11.09.2026 No 15/2-784",
+        "bbox": [
+          224.0,
+          395.0,
+          543.0,
+          420.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-5",
+        "page": 1,
+        "text": "Adliya organlari va muassasalarida axborot",
+        "bbox": [
+          932.0,
+          399.0,
+          1677.0,
+          437.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-6",
+        "page": 1,
+        "text": "dagi",
+        "bbox": [
+          497.0,
+          439.0,
+          546.0,
+          485.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-7",
+        "page": 1,
+        "text": "-son xatga",
+        "bbox": [
+          670.0,
+          449.0,
+          789.0,
+          471.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-8",
+        "page": 1,
+        "text": "texnologiyalarini rivojlantirish markaziga",
+        "bbox": [
+          932.0,
+          449.0,
+          1643.0,
+          490.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-9",
+        "page": 1,
+        "text": "«»",
+        "bbox": [
+          223.0,
+          450.0,
+          307.0,
+          461.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-10",
+        "page": 1,
+        "text": "Sun'iy intellekt modullarini tajriba-sinovdan oʻtkazish toʻgʻrisida",
+        "bbox": [
+          239.0,
+          538.0,
+          1226.0,
+          577.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-11",
+        "page": 1,
+        "text": "Korxona va Markaz oʻrtasida 2026-yil 2-sentabrda imzolangan hamkorlik",
+        "bbox": [
+          348.0,
+          612.0,
+          1674.0,
+          653.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-12",
+        "page": 1,
+        "text": "memorandumi doirasida sun'iy intellekt texnologiyalarini amaliy jarayonlarda sinovdan",
+        "bbox": [
+          239.0,
+          662.0,
+          1672.0,
+          704.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-13",
+        "page": 1,
+        "text": "oʻtkazish maqsadida quyidagi jadvalda koʻrsatilgan topshiriqlarning belgilangan",
+        "bbox": [
+          239.0,
+          713.0,
+          1672.0,
+          757.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-14",
+        "page": 1,
+        "text": "muddatlarda bajarilishini soʻraymiz.",
+        "bbox": [
+          239.0,
+          766.0,
+          811.0,
+          805.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-15",
+        "page": 1,
+        "text": "[Table header] Topshiriq mazmuni",
+        "bbox": [
+          562.0,
+          843.0,
+          845.0,
+          883.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-16",
+        "page": 1,
+        "text": "[Table header] T/r",
+        "bbox": [
+          248.0,
+          851.0,
+          293.0,
+          874.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-17",
+        "page": 1,
+        "text": "[Table header] Mas'ul ijrochi",
+        "bbox": [
+          1156.0,
+          855.0,
+          1360.0,
+          886.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-18",
+        "page": 1,
+        "text": "[Table header] Muddat",
+        "bbox": [
+          1504.0,
+          857.0,
+          1619.0,
+          882.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-19",
+        "page": 1,
+        "text": "Murojaatlar portalidagi mavjud klassifikatorlarni",
+        "bbox": [
+          342.0,
+          914.0,
+          998.0,
+          946.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-20",
+        "page": 1,
+        "text": "1",
+        "bbox": [
+          266.0,
+          955.0,
+          276.0,
+          977.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-21",
+        "page": 1,
+        "text": "inventarizatsiya qilish va ularni takomillashtirish",
+        "bbox": [
+          342.0,
+          955.0,
+          996.0,
+          986.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-22",
+        "page": 1,
+        "text": "Tizim tahlili bo`limi",
+        "bbox": [
+          1103.0,
+          958.0,
+          1376.0,
+          983.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-23",
+        "page": 1,
+        "text": "18.09.2026",
+        "bbox": [
+          1489.0,
+          961.0,
+          1636.0,
+          984.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-24",
+        "page": 1,
+        "text": "boʻyicha taklif tayyorlash",
+        "bbox": [
+          342.0,
+          995.0,
+          685.0,
+          1028.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-25",
+        "page": 1,
+        "text": "Hujjatlardan topshiriq, muddat va ijrochi haqidagi",
+        "bbox": [
+          342.0,
+          1058.0,
+          1012.0,
+          1093.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-26",
+        "page": 1,
+        "text": "Sun'iy intellekt",
+        "bbox": [
+          1103.0,
+          1083.0,
+          1309.0,
+          1113.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-27",
+        "page": 1,
+        "text": "2",
+        "bbox": [
+          263.0,
+          1099.0,
+          276.0,
+          1122.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-28",
+        "page": 1,
+        "text": "ma'lumotlarni avtomatik ajratish boʻyicha prototip",
+        "bbox": [
+          340.0,
+          1099.0,
+          1021.0,
+          1134.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-29",
+        "page": 1,
+        "text": "30.09.2026",
+        "bbox": [
+          1486.0,
+          1106.0,
+          1634.0,
+          1130.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-30",
+        "page": 1,
+        "text": "laboratoriyasi",
+        "bbox": [
+          1103.0,
+          1124.0,
+          1285.0,
+          1156.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-31",
+        "page": 1,
+        "text": "Ma",
+        "bbox": [
+          1225.0,
+          1125.0,
+          1284.0,
+          1130.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-32",
+        "page": 1,
+        "text": ".",
+        "bbox": [
+          342.0,
+          1141.0,
+          346.0,
+          1146.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-33",
+        "page": 1,
+        "text": "ishlab chiqish",
+        "bbox": [
+          342.0,
+          1141.0,
+          524.0,
+          1172.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-34",
+        "page": 1,
+        "text": "2",
+        "bbox": [
+          462.0,
+          1143.0,
+          491.0,
+          1146.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-35",
+        "page": 1,
+        "text": "Topshiriqlarni tarkibiy bo' linmalarga yo maltirish |",
+        "bbox": [
+          339.0,
+          1199.0,
+          1044.0,
+          1260.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-36",
+        "page": 1,
+        "text": "2026-yil",
+        "bbox": [
+          1504.0,
+          1206.0,
+          1614.0,
+          1266.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-37",
+        "page": 1,
+        "text": "Biznes-tahlil boʻlimi,",
+        "bbox": [
+          1102.0,
+          1228.0,
+          1386.0,
+          1257.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-38",
+        "page": 1,
+        "text": "3",
+        "bbox": [
+          261.0,
+          1244.0,
+          276.0,
+          1267.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-39",
+        "page": 1,
+        "text": "uchun vakolatlar va tashkiliy tuzilma ma'lumotlarini",
+        "bbox": [
+          340.0,
+          1244.0,
+          1046.0,
+          1276.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-40",
+        "page": 1,
+        "text": "Kadrlar boʻlimi",
+        "bbox": [
+          1102.0,
+          1269.0,
+          1310.0,
+          1294.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-41",
+        "page": 1,
+        "text": "origa",
+        "bbox": [
+          1248.0,
+          1272.0,
+          1307.0,
+          1279.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-42",
+        "page": 1,
+        "text": "5-oktabr",
+        "bbox": [
+          1504.0,
+          1272.0,
+          1615.0,
+          1295.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-43",
+        "page": 1,
+        "text": "shakllantirish",
+        "bbox": [
+          340.0,
+          1285.0,
+          519.0,
+          1310.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-44",
+        "page": 1,
+        "text": "prototip tayyor",
+        "bbox": [
+          1460.0,
+          1357.0,
+          1659.0,
+          1386.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-45",
+        "page": 1,
+        "text": "AI modullarining mavjud axborot tizimlari bilan",
+        "bbox": [
+          339.0,
+          1389.0,
+          989.0,
+          1421.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-46",
+        "page": 1,
+        "text": "bo`lgandan",
+        "bbox": [
+          1483.0,
+          1395.0,
+          1633.0,
+          1427.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-47",
+        "page": 1,
+        "text": "4",
+        "bbox": [
+          260.0,
+          1411.0,
+          276.0,
+          1433.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-48",
+        "page": 1,
+        "text": "Imegratgiya bo'limi",
+        "bbox": [
+          1102.0,
+          1416.0,
+          1364.0,
+          1446.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-49",
+        "page": 1,
+        "text": "integratsiyasi boʻyicha texnik talablarni tayyorlash",
+        "bbox": [
+          340.0,
+          1432.0,
+          1018.0,
+          1465.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-50",
+        "page": 1,
+        "text": "soʻng 15 kun",
+        "bbox": [
+          1471.0,
+          1438.0,
+          1644.0,
+          1468.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-51",
+        "page": 1,
+        "text": "ichida",
+        "bbox": [
+          1517.0,
+          1479.0,
+          1597.0,
+          1502.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-52",
+        "page": 1,
+        "text": "Tajriba-sinov natijalarini baholash va aniqlangan",
+        "bbox": [
+          337.0,
+          1534.0,
+          995.0,
+          1568.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-53",
+        "page": 1,
+        "text": ">",
+        "bbox": [
+          260.0,
+          1556.0,
+          274.0,
+          1578.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-54",
+        "page": 1,
+        "text": "Loyiba guruhi",
+        "bbox": [
+          1100.0,
+          1559.0,
+          1289.0,
+          1592.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-55",
+        "page": 1,
+        "text": ".",
+        "bbox": [
+          1156.0,
+          1561.0,
+          1159.0,
+          1565.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-56",
+        "page": 1,
+        "text": ".",
+        "bbox": [
+          1284.0,
+          1562.0,
+          1288.0,
+          1565.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-57",
+        "page": 1,
+        "text": "01.10.2028",
+        "bbox": [
+          1483.0,
+          1562.0,
+          1631.0,
+          1587.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-58",
+        "page": 1,
+        "text": "kamchiliklar boʻyicha takliflar kiritish",
+        "bbox": [
+          339.0,
+          1575.0,
+          851.0,
+          1608.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-59",
+        "page": 1,
+        "text": "Bajarilgan ishlar holati toʻgʻrisida qisqacha ma'lumot izoyiha koordinatori",
+        "bbox": [
+          339.0,
+          1639.0,
+          1366.0,
+          1694.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-60",
+        "page": 1,
+        "text": "har haftaning",
+        "bbox": [
+          1468.0,
+          1644.0,
+          1646.0,
+          1691.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-61",
+        "page": 1,
+        "text": "6",
+        "bbox": [
+          258.0,
+          1659.0,
+          274.0,
+          1683.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-62",
+        "page": 1,
+        "text": "taqdim etish",
+        "bbox": [
+          337.0,
+          1680.0,
+          500.0,
+          1710.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-63",
+        "page": 1,
+        "text": "juma kuni",
+        "bbox": [
+          1487.0,
+          1687.0,
+          1622.0,
+          1716.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-64",
+        "page": 1,
+        "text": "Bajarilgan ishlar boʻyicha umumlashtirilgan ma'lumot loyiha koordinatori orqali",
+        "bbox": [
+          342.0,
+          1759.0,
+          1666.0,
+          1803.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-65",
+        "page": 1,
+        "text": "Korxonaning Raqamli loyihalar boshqarmasiga taqdim etilsin.",
+        "bbox": [
+          233.0,
+          1812.0,
+          1219.0,
+          1853.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-66",
+        "page": 1,
+        "text": "Bosh direktor",
+        "bbox": [
+          213.0,
+          1951.0,
+          447.0,
+          1980.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-67",
+        "page": 1,
+        "text": "A. Yusupov",
+        "bbox": [
+          1486.0,
+          1958.0,
+          1684.0,
+          1995.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-68",
+        "page": 1,
+        "text": "Ijrochi: M. Karimova",
+        "bbox": [
+          232.0,
+          2089.0,
+          478.0,
+          2115.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-69",
+        "page": 1,
+        "text": "Tel.: 4998 (71) 000-45-62",
+        "bbox": [
+          230.0,
+          2123.0,
+          534.0,
+          2151.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-70",
+        "page": 1,
+        "text": "Test uchun example — Al tizimini sinash uchun tuzilgan. Tashkilot nomlari, raqamlar, manzillar va shaxslar shartli",
+        "bbox": [
+          302.0,
+          2464.0,
+          1501.0,
+          2491.0
+        ],
+        "parent_id": null
+      }
+    ],
+    "passages": [
+      {
+        "id": "p1-block-0",
+        "kind": "footer",
+        "span_ids": [
+          "p1-ocr-0"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-1",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-1",
+          "p1-ocr-2",
+          "p1-ocr-3"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-2",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-4"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-3",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-5",
+          "p1-ocr-6"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-4",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-7"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-5",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-8"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-6",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-9"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-7",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-10"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-8",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-11"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-9",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-ocr-12",
+          "p1-ocr-13",
+          "p1-ocr-14"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-10",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-ocr-15"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-11",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-ocr-16"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-12",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-ocr-17"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-13",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-ocr-18"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-ocr-table1-row1",
+        "kind": "table_row",
+        "span_ids": [
+          "p1-ocr-20",
+          "p1-ocr-19",
+          "p1-ocr-21",
+          "p1-ocr-24",
+          "p1-ocr-22",
+          "p1-ocr-23"
+        ],
+        "clause_ref": "table-1/row-1",
+        "table_cells": {
+          "reference": [
+            "p1-ocr-20"
+          ],
+          "instruction": [
+            "p1-ocr-19",
+            "p1-ocr-21",
+            "p1-ocr-24"
+          ],
+          "executor": [
+            "p1-ocr-22"
+          ],
+          "deadline": [
+            "p1-ocr-23"
+          ]
+        }
+      },
+      {
+        "id": "p1-ocr-table1-row2",
+        "kind": "table_row",
+        "span_ids": [
+          "p1-ocr-27",
+          "p1-ocr-25",
+          "p1-ocr-28",
+          "p1-ocr-32",
+          "p1-ocr-33",
+          "p1-ocr-34",
+          "p1-ocr-26",
+          "p1-ocr-30",
+          "p1-ocr-31",
+          "p1-ocr-29"
+        ],
+        "clause_ref": "table-1/row-2",
+        "table_cells": {
+          "reference": [
+            "p1-ocr-27"
+          ],
+          "instruction": [
+            "p1-ocr-25",
+            "p1-ocr-28",
+            "p1-ocr-32",
+            "p1-ocr-33",
+            "p1-ocr-34"
+          ],
+          "executor": [
+            "p1-ocr-26",
+            "p1-ocr-30",
+            "p1-ocr-31"
+          ],
+          "deadline": [
+            "p1-ocr-29"
+          ]
+        }
+      },
+      {
+        "id": "p1-ocr-table1-row3",
+        "kind": "table_row",
+        "span_ids": [
+          "p1-ocr-38",
+          "p1-ocr-35",
+          "p1-ocr-39",
+          "p1-ocr-43",
+          "p1-ocr-37",
+          "p1-ocr-40",
+          "p1-ocr-41",
+          "p1-ocr-36",
+          "p1-ocr-42"
+        ],
+        "clause_ref": "table-1/row-3",
+        "table_cells": {
+          "reference": [
+            "p1-ocr-38"
+          ],
+          "instruction": [
+            "p1-ocr-35",
+            "p1-ocr-39",
+            "p1-ocr-43"
+          ],
+          "executor": [
+            "p1-ocr-37",
+            "p1-ocr-40",
+            "p1-ocr-41"
+          ],
+          "deadline": [
+            "p1-ocr-36",
+            "p1-ocr-42"
+          ]
+        }
+      },
+      {
+        "id": "p1-ocr-table1-row4",
+        "kind": "table_row",
+        "span_ids": [
+          "p1-ocr-47",
+          "p1-ocr-45",
+          "p1-ocr-49",
+          "p1-ocr-48",
+          "p1-ocr-44",
+          "p1-ocr-46",
+          "p1-ocr-50",
+          "p1-ocr-51"
+        ],
+        "clause_ref": "table-1/row-4",
+        "table_cells": {
+          "reference": [
+            "p1-ocr-47"
+          ],
+          "instruction": [
+            "p1-ocr-45",
+            "p1-ocr-49"
+          ],
+          "executor": [
+            "p1-ocr-48"
+          ],
+          "deadline": [
+            "p1-ocr-44",
+            "p1-ocr-46",
+            "p1-ocr-50",
+            "p1-ocr-51"
+          ]
+        }
+      },
+      {
+        "id": "p1-ocr-table1-row5",
+        "kind": "table_row",
+        "span_ids": [
+          "p1-ocr-53",
+          "p1-ocr-52",
+          "p1-ocr-58",
+          "p1-ocr-54",
+          "p1-ocr-55",
+          "p1-ocr-56",
+          "p1-ocr-57"
+        ],
+        "clause_ref": "table-1/row-5",
+        "table_cells": {
+          "reference": [
+            "p1-ocr-53"
+          ],
+          "instruction": [
+            "p1-ocr-52",
+            "p1-ocr-58"
+          ],
+          "executor": [
+            "p1-ocr-54",
+            "p1-ocr-55",
+            "p1-ocr-56"
+          ],
+          "deadline": [
+            "p1-ocr-57"
+          ]
+        }
+      },
+      {
+        "id": "p1-ocr-table1-row6",
+        "kind": "table_row",
+        "span_ids": [
+          "p1-ocr-61",
+          "p1-ocr-59",
+          "p1-ocr-62",
+          "p1-ocr-60",
+          "p1-ocr-63"
+        ],
+        "clause_ref": "table-1/row-6",
+        "table_cells": {
+          "reference": [
+            "p1-ocr-61"
+          ],
+          "instruction": [
+            "p1-ocr-59",
+            "p1-ocr-62"
+          ],
+          "executor": [],
+          "deadline": [
+            "p1-ocr-60",
+            "p1-ocr-63"
+          ]
+        }
+      },
+      {
+        "id": "p1-block-14",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-ocr-64",
+          "p1-ocr-65"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-15",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-ocr-66"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-16",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-ocr-67"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-17",
+        "kind": "footer",
+        "span_ids": [
+          "p1-ocr-68"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-18",
+        "kind": "footer",
+        "span_ids": [
+          "p1-ocr-69"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-19",
+        "kind": "footer",
+        "span_ids": [
+          "p1-ocr-70"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      }
+    ],
+    "warnings": [
+      "Page 1, row table-1/row-6: executor cell missing"
+    ],
+    "provenance": {
+      "source_sha256": "fd7f749b8886ba380c1dbee6ac1921ac27e76c8ea83c5391a00ca0154d3bc24c",
+      "page_modes": [
+        "ocr"
+      ],
+      "ocr": "tesseract",
+      "ocr_raw_results": {
+        "1": {
+          "records": [
+            {
+              "text": "Test uchun example",
+              "bbox": [
+                1464.0,
+                160.0,
+                1675.0,
+                185.0
+              ],
+              "score": 0.9665001166666667
+            },
+            {
+              "text": "“YANGI AVLOD RAQAMLI YECHIMLAR”",
+              "bbox": [
+                532.0,
+                202.0,
+                1383.0,
+                241.0
+              ],
+              "score": 0.9627562325
+            },
+            {
+              "text": "DAVLAT UNITAR KORXONASI",
+              "bbox": [
+                641.0,
+                255.0,
+                1273.0,
+                288.0
+              ],
+              "score": 0.9644626866666668
+            },
+            {
+              "text": "100084, Toshkent shahri, Ilm-fan koʻchasi, 7-uy. Tel.: +998 (71) 000-45-60. E-mail: devonxona@yarye.example",
+              "bbox": [
+                339.0,
+                310.0,
+                1580.0,
+                340.0
+              ],
+              "score": 0.9434080308333335
+            },
+            {
+              "text": "11.09.2026 No 15/2-784",
+              "bbox": [
+                224.0,
+                395.0,
+                543.0,
+                420.0
+              ],
+              "score": 0.9344631433333335
+            },
+            {
+              "text": "Adliya organlari va muassasalarida axborot",
+              "bbox": [
+                932.0,
+                399.0,
+                1677.0,
+                437.0
+              ],
+              "score": 0.9657761239999999
+            },
+            {
+              "text": "«»",
+              "bbox": [
+                223.0,
+                450.0,
+                307.0,
+                461.0
+              ],
+              "score": 0.35909317
+            },
+            {
+              "text": "dagi",
+              "bbox": [
+                497.0,
+                439.0,
+                546.0,
+                485.0
+              ],
+              "score": 0.96962761
+            },
+            {
+              "text": "-son xatga",
+              "bbox": [
+                670.0,
+                449.0,
+                789.0,
+                471.0
+              ],
+              "score": 0.890758935
+            },
+            {
+              "text": "texnologiyalarini rivojlantirish markaziga",
+              "bbox": [
+                932.0,
+                449.0,
+                1643.0,
+                490.0
+              ],
+              "score": 0.95180715
+            },
+            {
+              "text": "Sun'iy intellekt modullarini tajriba-sinovdan oʻtkazish toʻgʻrisida",
+              "bbox": [
+                239.0,
+                538.0,
+                1226.0,
+                577.0
+              ],
+              "score": 0.9418617383333333
+            },
+            {
+              "text": "Korxona va Markaz oʻrtasida 2026-yil 2-sentabrda imzolangan hamkorlik",
+              "bbox": [
+                348.0,
+                612.0,
+                1674.0,
+                653.0
+              ],
+              "score": 0.9536724000000001
+            },
+            {
+              "text": "memorandumi doirasida sun'iy intellekt texnologiyalarini amaliy jarayonlarda sinovdan",
+              "bbox": [
+                239.0,
+                662.0,
+                1672.0,
+                704.0
+              ],
+              "score": 0.95546327625
+            },
+            {
+              "text": "oʻtkazish maqsadida quyidagi jadvalda koʻrsatilgan topshiriqlarning belgilangan",
+              "bbox": [
+                239.0,
+                713.0,
+                1672.0,
+                757.0
+              ],
+              "score": 0.9347160128571429
+            },
+            {
+              "text": "muddatlarda bajarilishini soʻraymiz.",
+              "bbox": [
+                239.0,
+                766.0,
+                811.0,
+                805.0
+              ],
+              "score": 0.8605268599999999
+            },
+            {
+              "text": "T/r",
+              "bbox": [
+                248.0,
+                851.0,
+                293.0,
+                874.0
+              ],
+              "score": 0.94502403
+            },
+            {
+              "text": "Topshiriq mazmuni",
+              "bbox": [
+                562.0,
+                843.0,
+                845.0,
+                883.0
+              ],
+              "score": 0.9651746
+            },
+            {
+              "text": "Mas'ul ijrochi",
+              "bbox": [
+                1156.0,
+                855.0,
+                1360.0,
+                886.0
+              ],
+              "score": 0.9601473250000001
+            },
+            {
+              "text": "Muddat",
+              "bbox": [
+                1504.0,
+                857.0,
+                1619.0,
+                882.0
+              ],
+              "score": 0.96861282
+            },
+            {
+              "text": "Murojaatlar portalidagi mavjud klassifikatorlarni",
+              "bbox": [
+                342.0,
+                914.0,
+                998.0,
+                946.0
+              ],
+              "score": 0.9481486125
+            },
+            {
+              "text": "1",
+              "bbox": [
+                266.0,
+                955.0,
+                276.0,
+                977.0
+              ],
+              "score": 0.96519096
+            },
+            {
+              "text": "inventarizatsiya qilish va ularni takomillashtirish",
+              "bbox": [
+                342.0,
+                955.0,
+                996.0,
+                986.0
+              ],
+              "score": 0.9088929900000001
+            },
+            {
+              "text": "Tizim tahlili bo`limi",
+              "bbox": [
+                1103.0,
+                958.0,
+                1376.0,
+                983.0
+              ],
+              "score": 0.8533301933333334
+            },
+            {
+              "text": "18.09.2026",
+              "bbox": [
+                1489.0,
+                961.0,
+                1636.0,
+                984.0
+              ],
+              "score": 0.96058617
+            },
+            {
+              "text": "boʻyicha taklif tayyorlash",
+              "bbox": [
+                342.0,
+                995.0,
+                685.0,
+                1028.0
+              ],
+              "score": 0.8984030166666668
+            },
+            {
+              "text": "Hujjatlardan topshiriq, muddat va ijrochi haqidagi",
+              "bbox": [
+                342.0,
+                1058.0,
+                1012.0,
+                1093.0
+              ],
+              "score": 0.965647075
+            },
+            {
+              "text": "Sun'iy intellekt",
+              "bbox": [
+                1103.0,
+                1083.0,
+                1309.0,
+                1113.0
+              ],
+              "score": 0.8497269850000001
+            },
+            {
+              "text": "2",
+              "bbox": [
+                263.0,
+                1099.0,
+                276.0,
+                1122.0
+              ],
+              "score": 0.96553696
+            },
+            {
+              "text": "ma'lumotlarni avtomatik ajratish boʻyicha prototip",
+              "bbox": [
+                340.0,
+                1099.0,
+                1021.0,
+                1134.0
+              ],
+              "score": 0.9205064980000001
+            },
+            {
+              "text": "Ma",
+              "bbox": [
+                1225.0,
+                1125.0,
+                1284.0,
+                1130.0
+              ],
+              "score": 0.20280601999999998
+            },
+            {
+              "text": "30.09.2026",
+              "bbox": [
+                1486.0,
+                1106.0,
+                1634.0,
+                1130.0
+              ],
+              "score": 0.95872574
+            },
+            {
+              "text": ".",
+              "bbox": [
+                342.0,
+                1141.0,
+                346.0,
+                1146.0
+              ],
+              "score": 0.29976402
+            },
+            {
+              "text": "2",
+              "bbox": [
+                462.0,
+                1143.0,
+                491.0,
+                1146.0
+              ],
+              "score": 0.30951317
+            },
+            {
+              "text": "laboratoriyasi",
+              "bbox": [
+                1103.0,
+                1124.0,
+                1285.0,
+                1156.0
+              ],
+              "score": 0.96738739
+            },
+            {
+              "text": "ishlab chiqish",
+              "bbox": [
+                342.0,
+                1141.0,
+                524.0,
+                1172.0
+              ],
+              "score": 0.9672961050000001
+            },
+            {
+              "text": "Topshiriqlarni tarkibiy bo' linmalarga yo maltirish |",
+              "bbox": [
+                339.0,
+                1199.0,
+                1044.0,
+                1260.0
+              ],
+              "score": 0.8302359985714286
+            },
+            {
+              "text": "Biznes-tahlil boʻlimi,",
+              "bbox": [
+                1102.0,
+                1228.0,
+                1386.0,
+                1257.0
+              ],
+              "score": 0.8290588
+            },
+            {
+              "text": "2026-yil",
+              "bbox": [
+                1504.0,
+                1206.0,
+                1614.0,
+                1266.0
+              ],
+              "score": 0.96922241
+            },
+            {
+              "text": "3",
+              "bbox": [
+                261.0,
+                1244.0,
+                276.0,
+                1267.0
+              ],
+              "score": 0.96851028
+            },
+            {
+              "text": "uchun vakolatlar va tashkiliy tuzilma ma'lumotlarini",
+              "bbox": [
+                340.0,
+                1244.0,
+                1046.0,
+                1276.0
+              ],
+              "score": 0.9639602533333335
+            },
+            {
+              "text": "origa",
+              "bbox": [
+                1248.0,
+                1272.0,
+                1307.0,
+                1279.0
+              ],
+              "score": 0.38283821
+            },
+            {
+              "text": "Kadrlar boʻlimi",
+              "bbox": [
+                1102.0,
+                1269.0,
+                1310.0,
+                1294.0
+              ],
+              "score": 0.915497285
+            },
+            {
+              "text": "5-oktabr",
+              "bbox": [
+                1504.0,
+                1272.0,
+                1615.0,
+                1295.0
+              ],
+              "score": 0.96496605
+            },
+            {
+              "text": "shakllantirish",
+              "bbox": [
+                340.0,
+                1285.0,
+                519.0,
+                1310.0
+              ],
+              "score": 0.9641481000000001
+            },
+            {
+              "text": "prototip tayyor",
+              "bbox": [
+                1460.0,
+                1357.0,
+                1659.0,
+                1386.0
+              ],
+              "score": 0.957486915
+            },
+            {
+              "text": "AI modullarining mavjud axborot tizimlari bilan",
+              "bbox": [
+                339.0,
+                1389.0,
+                989.0,
+                1421.0
+              ],
+              "score": 0.9601455666666667
+            },
+            {
+              "text": "bo`lgandan",
+              "bbox": [
+                1483.0,
+                1395.0,
+                1633.0,
+                1427.0
+              ],
+              "score": 0.63261391
+            },
+            {
+              "text": "4",
+              "bbox": [
+                260.0,
+                1411.0,
+                276.0,
+                1433.0
+              ],
+              "score": 0.93938927
+            },
+            {
+              "text": "integratsiyasi boʻyicha texnik talablarni tayyorlash",
+              "bbox": [
+                340.0,
+                1432.0,
+                1018.0,
+                1465.0
+              ],
+              "score": 0.912715592
+            },
+            {
+              "text": "Imegratgiya bo'limi",
+              "bbox": [
+                1102.0,
+                1416.0,
+                1364.0,
+                1446.0
+              ],
+              "score": 0.54062813
+            },
+            {
+              "text": "soʻng 15 kun",
+              "bbox": [
+                1471.0,
+                1438.0,
+                1644.0,
+                1468.0
+              ],
+              "score": 0.9433555833333332
+            },
+            {
+              "text": "ichida",
+              "bbox": [
+                1517.0,
+                1479.0,
+                1597.0,
+                1502.0
+              ],
+              "score": 0.96662308
+            },
+            {
+              "text": "Tajriba-sinov natijalarini baholash va aniqlangan",
+              "bbox": [
+                337.0,
+                1534.0,
+                995.0,
+                1568.0
+              ],
+              "score": 0.9660331419999999
+            },
+            {
+              "text": ".",
+              "bbox": [
+                1156.0,
+                1561.0,
+                1159.0,
+                1565.0
+              ],
+              "score": 0.32961464
+            },
+            {
+              "text": ".",
+              "bbox": [
+                1284.0,
+                1562.0,
+                1288.0,
+                1565.0
+              ],
+              "score": 0.39814129000000004
+            },
+            {
+              "text": ">",
+              "bbox": [
+                260.0,
+                1556.0,
+                274.0,
+                1578.0
+              ],
+              "score": 0.82870987
+            },
+            {
+              "text": "kamchiliklar boʻyicha takliflar kiritish",
+              "bbox": [
+                339.0,
+                1575.0,
+                851.0,
+                1608.0
+              ],
+              "score": 0.94168791
+            },
+            {
+              "text": "Loyiba guruhi",
+              "bbox": [
+                1100.0,
+                1559.0,
+                1289.0,
+                1592.0
+              ],
+              "score": 0.60125481
+            },
+            {
+              "text": "01.10.2028",
+              "bbox": [
+                1483.0,
+                1562.0,
+                1631.0,
+                1587.0
+              ],
+              "score": 0.5984808300000001
+            },
+            {
+              "text": "6",
+              "bbox": [
+                258.0,
+                1659.0,
+                274.0,
+                1683.0
+              ],
+              "score": 0.95219887
+            },
+            {
+              "text": "Bajarilgan ishlar holati toʻgʻrisida qisqacha ma'lumot izoyiha koordinatori",
+              "bbox": [
+                339.0,
+                1639.0,
+                1366.0,
+                1694.0
+              ],
+              "score": 0.75563446
+            },
+            {
+              "text": "har haftaning",
+              "bbox": [
+                1468.0,
+                1644.0,
+                1646.0,
+                1691.0
+              ],
+              "score": 0.965667495
+            },
+            {
+              "text": "taqdim etish",
+              "bbox": [
+                337.0,
+                1680.0,
+                500.0,
+                1710.0
+              ],
+              "score": 0.9680785399999999
+            },
+            {
+              "text": "juma kuni",
+              "bbox": [
+                1487.0,
+                1687.0,
+                1622.0,
+                1716.0
+              ],
+              "score": 0.96278442
+            },
+            {
+              "text": "Bajarilgan ishlar boʻyicha umumlashtirilgan ma'lumot loyiha koordinatori orqali",
+              "bbox": [
+                342.0,
+                1759.0,
+                1666.0,
+                1803.0
+              ],
+              "score": 0.8790569375
+            },
+            {
+              "text": "Korxonaning Raqamli loyihalar boshqarmasiga taqdim etilsin.",
+              "bbox": [
+                233.0,
+                1812.0,
+                1219.0,
+                1853.0
+              ],
+              "score": 0.9632959366666667
+            },
+            {
+              "text": "Bosh direktor",
+              "bbox": [
+                213.0,
+                1951.0,
+                447.0,
+                1980.0
+              ],
+              "score": 0.9661837750000001
+            },
+            {
+              "text": "A. Yusupov",
+              "bbox": [
+                1486.0,
+                1958.0,
+                1684.0,
+                1995.0
+              ],
+              "score": 0.9673687000000001
+            },
+            {
+              "text": "Ijrochi: M. Karimova",
+              "bbox": [
+                232.0,
+                2089.0,
+                478.0,
+                2115.0
+              ],
+              "score": 0.9651265466666666
+            },
+            {
+              "text": "Tel.: 4998 (71) 000-45-62",
+              "bbox": [
+                230.0,
+                2123.0,
+                534.0,
+                2151.0
+              ],
+              "score": 0.9476471525
+            },
+            {
+              "text": "Test uchun example — Al tizimini sinash uchun tuzilgan. Tashkilot nomlari, raqamlar, manzillar va shaxslar shartli",
+              "bbox": [
+                302.0,
+                2464.0,
+                1501.0,
+                2491.0
+              ],
+              "score": 0.9597216093750001
+            }
+          ]
+        }
+      }
+    }
+  },
+  "input_sha256": "8ef283f0cbc759a173e9632ba04c35e66211adefaadb43e9720ad21cf068c065",
+  "code_sha256": "d28cb0f513f310e00d0edae3d69eaac8a4f93a049e8f0cb15a5ccac54ca674fe",
+  "seconds": 6.4787880999501795,
+  "peak_process_tree_rss_bytes": 265650176,
+  "peak_gpu_memory_mib": 0,
+  "layout_sensitive_cer": 0.2706806282722513,
+  "critical_exact_present": 11,
+  "critical_total": 18,
+  "table_rows": 6,
+  "note": "CER includes reading-order differences. Critical exact coverage normalizes case/apostrophes/whitespace."
+}

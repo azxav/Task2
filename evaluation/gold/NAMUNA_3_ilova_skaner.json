@@ -1,0 +1,153 @@
+{
+  "family": "NAMUNA_3_ilova",
+  "metadata": {
+    "sender": {
+      "text": "NOTARIAT VA FHDYO FAOLIYATINI MUVOFIQLASHTIRISH KENGASHINING",
+      "page": 1
+    },
+    "number": {
+      "text": "160",
+      "page": 1
+    },
+    "date": {
+      "text": "2026-yil 5-mart",
+      "page": 1
+    },
+    "signer": {
+      "text": "G. Nazarova",
+      "page": 1
+    }
+  },
+  "tasks": [
+    {
+      "id": "clause-1",
+      "page": 1,
+      "clause": "1",
+      "instruction": "1. Notariat va fuqarolik holati dalolatnomalarini yozish (FHDYo) organlarida elektron hujjat aylanishini kengaytirish bo‘yicha chora-tadbirlar rejasi ilovaga muvofiq tasdiqlansin.",
+      "executors": [],
+      "deadline": null,
+      "kinds": [
+        "approval"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "clause-2",
+      "page": 1,
+      "clause": "2",
+      "instruction": "2. Ilovada belgilangan topshiriqlar mas’ul ijrochilar tomonidan o‘z vaqtida va sifatli ijro etilishi ta’minlansin.",
+      "executors": [
+        "mas’ul ijrochilar"
+      ],
+      "deadline": "o‘z vaqtida",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "clause-3",
+      "page": 1,
+      "clause": "3",
+      "instruction": "3. Kengash kotibiyati ilova ijrosi to‘g‘risida har chorakda Kengash yig‘ilishiga axborot kiritib borsin.",
+      "executors": [
+        "Kengash kotibiyati"
+      ],
+      "deadline": "har chorakda",
+      "kinds": [
+        "reporting"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "clause-4",
+      "page": 1,
+      "clause": "4",
+      "instruction": "4. Mazkur qaror ijrosini nazorat qilish Kengash raisining o‘rinbosari zimmasiga yuklansin.",
+      "executors": [
+        "Kengash raisining o‘rinbosari"
+      ],
+      "deadline": null,
+      "kinds": [
+        "oversight"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "page-2-table-1-row-1",
+      "page": 2,
+      "clause": "table-1/row-1",
+      "instruction": "Notariat harakatlarini elektron qayd etish modulini joriy etish",
+      "executors": [
+        "Notariat boshqarmasi"
+      ],
+      "deadline": "2026-yil 1-iyun",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "page-2-table-1-row-2",
+      "page": 2,
+      "clause": "table-1/row-2",
+      "instruction": "FHDYo yozuvlarini raqamli arxivga o‘tkazish",
+      "executors": [
+        "FHDYo boshqarmasi"
+      ],
+      "deadline": "2026-yil 1-avgust",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "page-2-table-1-row-3",
+      "page": 2,
+      "clause": "table-1/row-3",
+      "instruction": "Elektron hujjatlarni tizimlararo almashish integratsiyasini ta’minlash",
+      "executors": [
+        "Axborot texnologiyalari boshqarmasi"
+      ],
+      "deadline": "texnik topshiriq tasdiqlangandan so‘ng 3 oy ichida",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "page-2-table-1-row-4",
+      "page": 2,
+      "clause": "table-1/row-4",
+      "instruction": "Hududiy bo‘linmalar xodimlarini yangi tizimda ishlashga o‘qitish",
+      "executors": [
+        "Kadrlar boshqarmasi",
+        "hududiy bo‘linmalar"
+      ],
+      "deadline": "2026-yil 15-may",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "page-2-table-1-row-5",
+      "page": 2,
+      "clause": "table-1/row-5",
+      "instruction": "Fuqarolar uchun qo‘llanma va axborot materiallarini tayyorlash",
+      "executors": [
+        "Axborot xizmati"
+      ],
+      "deadline": "bir oy muddatda",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    }
+  ],
+  "annotation_method": "Manually selected obligations/fields, text extracted from reference PDF, visually checked against all scan pages before model tuning.",
+  "notes": [],
+  "document_id": "NAMUNA_3_ilova_skaner",
+  "split": "test",
+  "source_sha256": "4717945fd29644f231c0c32ce49eb338eb5e8ad93370c3f27706725587f14281"
+}

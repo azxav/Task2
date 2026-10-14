@@ -1,0 +1,118 @@
+{
+  "PP-OCRv5_mobile_det": {
+    "config.json": {
+      "sha256": "7ac1c33f377ba58561f4b89d3180b6add2b7c5c60a4edac90fa4e0ceccdc6665",
+      "bytes": 2871
+    },
+    "inference.json": {
+      "sha256": "05feef1acb00aa4cd7362b15f7f501fc4f99d7b1fa73c1c871e0c7b1504b0f5c",
+      "bytes": 229777
+    },
+    "inference.pdiparams": {
+      "sha256": "afa1820cb16c1fd0dad589d0f8b389139061c1ef6d68019685fd07be997dda5b",
+      "bytes": 4692937
+    },
+    "inference.yml": {
+      "sha256": "98069072e1b6b37d727fd9d9f11725faa46d6ea0de012f2ed26caea011c37699",
+      "bytes": 903
+    },
+    ".cache\\huggingface\\trees\\0d63e78e2b680928f6b1747d76a08db6e645efb7.json": {
+      "sha256": "52f183ab0177d44d00b03b1978572d9d4991b13fc7cc9854f3807acfab7d903b",
+      "bytes": 869
+    }
+  },
+  "latin_PP-OCRv5_mobile_rec": {
+    "config.json": {
+      "sha256": "e0f5ccc44fe86254956f27746058bc4cf88d86145668cecf22ba5dd962483c80",
+      "bytes": 17742
+    },
+    "inference.json": {
+      "sha256": "820b2ee8e5072de5156c3d55124c2b03c82ef278d59f453f857c0789bacb4da1",
+      "bytes": 217712
+    },
+    "inference.pdiparams": {
+      "sha256": "53cdc8b481a7394bb108f96d0fb3432b0a8f392e22c7d18f06dbb2d42b8b25f9",
+      "bytes": 7965915
+    },
+    "inference.yml": {
+      "sha256": "0bbe984570f597af3638e50bdf2e8276f3ab26a61966096538b3b0d1849f5c84",
+      "bytes": 6817
+    },
+    ".cache\\huggingface\\trees\\ab2cd5cc5fa6309be2e5acdfe66eca2c2c127d57.json": {
+      "sha256": "aef81a9d35b99aa3a49b35cc47a61ae19dc7c3e4c52bb01a8e61568f5fd3f593",
+      "bytes": 870
+    }
+  },
+  "PP-DocLayoutV3": {
+    "inference.json": {
+      "sha256": "2b68367c5b312a03de5a6e1642c597c8f95165a7e40cd59c6700cf4a5042f4fd",
+      "bytes": 1196890
+    },
+    "inference.pdiparams": {
+      "sha256": "70bd316b0582769ec968829fd1feb1a6a58b7c941b938327e551b6b12b45c137",
+      "bytes": 130806572
+    },
+    "inference.yml": {
+      "sha256": "506fcfac13b3b546ae40d7886b44126420f392adb694e3f8bb6a6286a1f90fdc",
+      "bytes": 1482
+    },
+    ".cache\\huggingface\\trees\\241f8bdfc77a7c7bee915a5057aaee58c235a8d3.json": {
+      "sha256": "813c0beb24fe86f64c5f873d291e7a91eba86d87851b4a997bee96a0586342b6",
+      "bytes": 773
+    }
+  },
+  "PaddleOCR-VL-1.6": {
+    "added_tokens.json": {
+      "sha256": "f59f889088e0fe21c523e7cf121bb6dca3b0bb148cb7159fbb4572c74dfc5644",
+      "bytes": 25381
+    },
+    "config.json": {
+      "sha256": "ce7f4565f8b1db78532ad5d1b9ebe55c2139d49bd4cb04778b580a08a598f171",
+      "bytes": 2059
+    },
+    "generation_config.json": {
+      "sha256": "a6701d78ab3b4d972307cdec3b69d4c13f46e0d5140514f50ab7d84259324b94",
+      "bytes": 133
+    },
+    "inference.yml": {
+      "sha256": "1587aece2d6442366efce34161d5f7d5f67f09ebfbf043168e5fade892c2780e",
+      "bytes": 43
+    },
+    "LICENSE": {
+      "sha256": "b8c4d7deccd236af023af1c88c4d4e8f0fc2f41914e0fb23a3ec9678fb5a8456",
+      "bytes": 11376
+    },
+    "model.safetensors": {
+      "sha256": "85a479d506a11e724e7285d395c551be69f41dbc16b6342d3cacfb189aed71db",
+      "bytes": 1917255968
+    },
+    "preprocessor_config.json": {
+      "sha256": "111872ab1e8bb7fd040ac5087bfced7ab8f011f02139b088cba294964c3b1d0e",
+      "bytes": 641
+    },
+    "processor_config.json": {
+      "sha256": "1568858960a9760c54431dae693a6152e601ff55cdf6d2eab97a4a99958faea0",
+      "bytes": 137
+    },
+    "special_tokens_map.json": {
+      "sha256": "d3a125c03103deb2acaf7730791bdbbf196f620e5a2213b664511ff9b4b25bab",
+      "bytes": 1151
+    },
+    "tokenizer.json": {
+      "sha256": "c8a215a59183d0d0781adc33bacd3ce6162716f7fd568fb30234a74d69803a7d",
+      "bytes": 11189060
+    },
+    "tokenizer_config.json": {
+      "sha256": "1f979337347cc0cb72a6282d8a23ed183539aa81a87a906f022aee2bab83c7c5",
+      "bytes": 186947
+    },
+    ".eval_results\\real5_omnidocbench.yaml": {
+      "sha256": "99219214a2793f849b55dc875a356917b8fc6d178455467e5a98e71a00689cf5",
+      "bytes": 1418
+    },
+    ".cache\\huggingface\\trees\\c5630abae1d940eafe0697512a0325494b02ab42.json": {
+      "sha256": "987beb82063fb887f606488161d50ed4e9e548dfde0bc104c1b725f124a60b57",
+      "bytes": 2864
+    }
+  }
+}

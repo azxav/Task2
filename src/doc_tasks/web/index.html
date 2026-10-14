@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="uz">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>2brain · Hujjatdan topshiriq</title><link rel="stylesheet" href="/assets/styles.css"><script src="/assets/app.js?v=2" type="module"></script></head>
+<body>
+<header><a class="brand" href="/" aria-label="2brain hujjatlar"><strong>2brain</strong><span>/</span> hujjatlar</a><span>Lokal tahlil</span></header>
+<main>
+  <div class="intro"><h1>HUJJATDAN TOPSHIRIQ.</h1><p>Hujjatni yuklang. Topshiriqlarni manbasi bilan ko‘ring.</p></div>
+  <div class="workspace">
+    <div class="results-column">
+      <section class="panel upload"><h2>PDF hujjat</h2><form id="upload-form"><label class="file-select" for="file"><svg aria-hidden="true" class="doc-icon" viewBox="0 0 28 36"><path d="M3 1h15l8 9v24H3zM18 1v10h8"/></svg><span id="filename">PDF tanlang</span><span class="chevron" aria-hidden="true">⌄</span></label><input id="file" type="file" accept="application/pdf,.pdf" required><button id="analyze" class="primary" type="submit">Tahlil qilish <span aria-hidden="true">→</span></button></form><p class="limits">20 MB · 20 sahifa</p><p id="status" role="status" aria-live="polite" hidden></p><p id="error" role="alert" hidden></p></section>
+      <section class="panel metadata"><h2>Hujjat ma’lumotlari</h2><dl id="metadata"><div><dt>Yuboruvchi</dt><dd>—</dd></div><div><dt>Hujjat raqami</dt><dd>—</dd></div><div><dt>Sana</dt><dd>—</dd></div><div><dt>Imzolovchi</dt><dd>—</dd></div></dl></section>
+      <section class="panel tasks"><div class="section-heading"><h2>Topshiriqlar <span id="task-count"></span></h2><button class="secondary" id="download" disabled><span aria-hidden="true">↓</span> JSON yuklab olish</button></div><div id="tasks"><div class="empty"><svg aria-hidden="true" class="doc-icon" viewBox="0 0 28 36"><path d="M3 1h15l8 9v24H3zM18 1v10h8"/></svg><p>Tahlildan so‘ng topshiriqlar shu yerda ko‘rinadi.</p></div></div></section>
+    </div>
+    <aside class="panel preview"><h2>Hujjat ko‘rinishi</h2><div id="page-controls" hidden><button id="previous-page" aria-label="Oldingi sahifa">←</button><span id="page-number" aria-live="polite"></span><button id="next-page" aria-label="Keyingi sahifa">→</button></div><div class="preview-surface"><div id="preview-empty" class="empty"><svg aria-hidden="true" class="doc-icon" viewBox="0 0 28 36"><path d="M3 1h15l8 9v24H3zM18 1v10h8"/></svg><p>PDF tanlang</p></div><canvas id="pdf-preview" tabindex="0" aria-label="Tanlangan PDF sahifasi" hidden></canvas></div><p class="privacy"><span aria-hidden="true">ⓘ</span> Fayl ushbu qurilmada qayta ishlanadi.</p><a id="open-pdf" hidden target="_blank" rel="noopener">PDFni alohida ochish ↗</a></aside>
+  </div>
+</main>
+</body></html>

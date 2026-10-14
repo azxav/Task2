@@ -1,0 +1,1122 @@
+{
+  "engine": "tesseract",
+  "split": "dev",
+  "document": {
+    "spans": [
+      {
+        "id": "p1-ocr-0",
+        "page": 1,
+        "text": "Test uchun example",
+        "bbox": [
+          1455.0,
+          155.0,
+          1668.0,
+          179.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-1",
+        "page": 1,
+        "text": "RAQAMLI HUQUQIY XIZMATLAR AGENTLIGI",
+        "bbox": [
+          468.0,
+          204.0,
+          1432.0,
+          241.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-2",
+        "page": 1,
+        "text": "100011, Toshkent shahri, Yangi hayot koʻchasi, 12-uy. Tel.: +998 (71) 000-12-30. E-mail: info@rhxa.example",
+        "bbox": [
+          343.0,
+          260.0,
+          1562.0,
+          286.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-3",
+        "page": 1,
+        "text": "Adliya organlari va muassasalarida axborot",
+        "bbox": [
+          926.0,
+          346.0,
+          1671.0,
+          384.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-4",
+        "page": 1,
+        "text": "08.09.2026 Ne 03-12/1456",
+        "bbox": [
+          216.0,
+          348.0,
+          571.0,
+          377.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-5",
+        "page": 1,
+        "text": "dagi",
+        "bbox": [
+          491.0,
+          395.0,
+          538.0,
+          421.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-6",
+        "page": 1,
+        "text": "texnologiyalarini rivojlantirish markaziga",
+        "bbox": [
+          926.0,
+          396.0,
+          1637.0,
+          433.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-7",
+        "page": 1,
+        "text": "~S0n xatga",
+        "bbox": [
+          665.0,
+          398.0,
+          783.0,
+          421.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-8",
+        "page": 1,
+        "text": "«",
+        "bbox": [
+          217.0,
+          403.0,
+          227.0,
+          414.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-9",
+        "page": 1,
+        "text": "Raqamli xizmatlarni takomillashtirish bo`yicha topshiriqlar to‘g‘risida",
+        "bbox": [
+          235.0,
+          490.0,
+          1301.0,
+          525.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-10",
+        "page": 1,
+        "text": "Hurmatli Markaz rahbariyati!",
+        "bbox": [
+          717.0,
+          562.0,
+          1182.0,
+          599.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-11",
+        "page": 1,
+        "text": "Davlat xizmatlarini raqamlashtirish boʻyicha amalga oshirilayotgan ishlarni",
+        "bbox": [
+          343.0,
+          625.0,
+          1668.0,
+          663.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-12",
+        "page": 1,
+        "text": "jadallashtirish hamda Agentlik va Markaz oʻrtasidagi hamkorlikni kuchaytirish maqsadida",
+        "bbox": [
+          232.0,
+          676.0,
+          1668.0,
+          714.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-13",
+        "page": 1,
+        "text": "quyidagi vazifalarni bajarishingizni soʻraymiz.",
+        "bbox": [
+          235.0,
+          729.0,
+          976.0,
+          767.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-14",
+        "page": 1,
+        "text": "1. Markazning Tizim tahlili bo'limi amaldagi murojaatlar portalining funksional",
+        "bbox": [
+          346.0,
+          792.0,
+          1668.0,
+          832.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-15",
+        "page": 1,
+        "text": "imkoniyatlarini tahlil qilib, foydalanuvchilar eng ko‘p murojaat qiladigan xizmatlar va",
+        "bbox": [
+          236.0,
+          845.0,
+          1668.0,
+          883.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-16",
+        "page": 1,
+        "text": "mavjud muammolar bo`yicha tahliliy ma'lumotni 2026-yil 20-sentabrga qadar Agentlikka",
+        "bbox": [
+          236.0,
+          896.0,
+          1668.0,
+          934.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-17",
+        "page": 1,
+        "text": "taqdim etsin.",
+        "bbox": [
+          235.0,
+          951.0,
+          437.0,
+          987.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-18",
+        "page": 1,
+        "text": "2. Sun'iy intellekt laboratoriyasi portalga kelib tushayotgan murojaatlarni mavzu",
+        "bbox": [
+          343.0,
+          1014.0,
+          1668.0,
+          1052.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-19",
+        "page": 1,
+        "text": "va yoʻnalishlar boʻyicha avtomatik tasniflash imkoniyatini joriy etish yuzasidan texnik",
+        "bbox": [
+          235.0,
+          1065.0,
+          1669.0,
+          1103.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-20",
+        "page": 1,
+        "text": "takliflarni 01.10.2026 yilgacha ishlab chiqsin.",
+        "bbox": [
+          235.0,
+          1118.0,
+          961.0,
+          1154.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-21",
+        "page": 1,
+        "text": "3. Axborot xavfsizligi boʻlimi Sun'iy intellekt laboratoriyasi bilan birgalikda sun'iy",
+        "bbox": [
+          345.0,
+          1181.0,
+          1669.0,
+          1219.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-22",
+        "page": 1,
+        "text": "intellekt xizmatlariga uzatiladigan ma'lumotlar tarkibini o'rganib, shaxsga doir va",
+        "bbox": [
+          236.0,
+          1232.0,
+          1668.0,
+          1272.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-23",
+        "page": 1,
+        "text": "foydalanilishi cheklangan ma'lumotlarni himoya qilish boʻyicha takliflarni o‘n kun",
+        "bbox": [
+          236.0,
+          1285.0,
+          1669.0,
+          1323.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-24",
+        "page": 1,
+        "text": "muddatda kiritsin.",
+        "bbox": [
+          236.0,
+          1338.0,
+          521.0,
+          1367.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-25",
+        "page": 1,
+        "text": "4. Dasturiy ta'minotni ishlab chiqish boʻlimi fuqarolarga davlat va huquqiy",
+        "bbox": [
+          343.0,
+          1401.0,
+          1669.0,
+          1439.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-26",
+        "page": 1,
+        "text": "xizmatlar boʻyicha ma'lumot beruvchi virtual yordamchining tajriba-sinov variantini",
+        "bbox": [
+          236.0,
+          1454.0,
+          1669.0,
+          1492.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-27",
+        "page": 1,
+        "text": "tayyorlab, uni 2026-yil 25-oktabrga qadar sinovdan o‘tkazsin.",
+        "bbox": [
+          236.0,
+          1505.0,
+          1216.0,
+          1543.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-28",
+        "page": 1,
+        "text": "5. Markaz yuqoridagi topshiriqlar ijrosi holati toʻgʻrisida har oyning 5-sanasiga",
+        "bbox": [
+          345.0,
+          1568.0,
+          1669.0,
+          1606.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-29",
+        "page": 1,
+        "text": "qadar Agentlikning Loyihalarni boshqarish departamentiga ma'lumot berib borsin,",
+        "bbox": [
+          236.0,
+          1621.0,
+          1548.0,
+          1661.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-30",
+        "page": 1,
+        "text": "Shuningdek, ishlar natijalari bo`yicha umumlashtirilgan hisobot va keyingi bosqich",
+        "bbox": [
+          346.0,
+          1686.0,
+          1669.0,
+          1724.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-31",
+        "page": 1,
+        "text": "uchun takliflarni 2026-yil 5-noyabrga qadar Agentlik rahbariyatiga taqdim etishingizni",
+        "bbox": [
+          236.0,
+          1737.0,
+          1669.0,
+          1775.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-32",
+        "page": 1,
+        "text": "soʻraymiz.",
+        "bbox": [
+          236.0,
+          1791.0,
+          402.0,
+          1826.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-33",
+        "page": 1,
+        "text": "Topshiriqlar ijrosi uchun mas'ul xodimlar toʻgʻrisidagi ma'lumotni uch ish kuni",
+        "bbox": [
+          345.0,
+          1853.0,
+          1669.0,
+          1892.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-34",
+        "page": 1,
+        "text": "ichida taqdim etishingiz soʻraladi.",
+        "bbox": [
+          236.0,
+          1906.0,
+          773.0,
+          1944.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-35",
+        "page": 1,
+        "text": "Sh. Qodirov",
+        "bbox": [
+          1486.0,
+          2046.0,
+          1690.0,
+          2080.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-36",
+        "page": 1,
+        "text": "Direktor oʻrinbosari",
+        "bbox": [
+          219.0,
+          2048.0,
+          565.0,
+          2076.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-37",
+        "page": 1,
+        "text": "Ijrochi: N. Sobirova",
+        "bbox": [
+          238.0,
+          2184.0,
+          468.0,
+          2212.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-38",
+        "page": 1,
+        "text": "Tel.: 4998 (71) 000-12-35",
+        "bbox": [
+          236.0,
+          2221.0,
+          540.0,
+          2246.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-39",
+        "page": 1,
+        "text": "Test uchun example — Al tizimini sinash uchun tuzilgan. Tashkilot nomlari, raqamlar, manzillar va shaxslar shartli.",
+        "bbox": [
+          310.0,
+          2466.0,
+          1514.0,
+          2491.0
+        ],
+        "parent_id": null
+      }
+    ],
+    "passages": [
+      {
+        "id": "p1-block-0",
+        "kind": "footer",
+        "span_ids": [
+          "p1-ocr-0"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-1",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-1",
+          "p1-ocr-2"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-2",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-3"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-3",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-4",
+          "p1-ocr-5"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-4",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-6"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-5",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-7"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-6",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-8"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-7",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-9"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-8",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-10"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-9",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-ocr-11",
+          "p1-ocr-12",
+          "p1-ocr-13"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-10",
+        "kind": "clause",
+        "span_ids": [
+          "p1-ocr-14",
+          "p1-ocr-15",
+          "p1-ocr-16",
+          "p1-ocr-17"
+        ],
+        "clause_ref": "1",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-11",
+        "kind": "clause",
+        "span_ids": [
+          "p1-ocr-18",
+          "p1-ocr-19",
+          "p1-ocr-20"
+        ],
+        "clause_ref": "2",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-12",
+        "kind": "clause",
+        "span_ids": [
+          "p1-ocr-21",
+          "p1-ocr-22",
+          "p1-ocr-23",
+          "p1-ocr-24"
+        ],
+        "clause_ref": "3",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-13",
+        "kind": "clause",
+        "span_ids": [
+          "p1-ocr-25",
+          "p1-ocr-26",
+          "p1-ocr-27"
+        ],
+        "clause_ref": "4",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-14",
+        "kind": "clause",
+        "span_ids": [
+          "p1-ocr-28",
+          "p1-ocr-29",
+          "p1-ocr-30",
+          "p1-ocr-31",
+          "p1-ocr-32"
+        ],
+        "clause_ref": "5",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-15",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-ocr-33",
+          "p1-ocr-34"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-16",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-ocr-35"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-17",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-ocr-36"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-18",
+        "kind": "footer",
+        "span_ids": [
+          "p1-ocr-37"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-19",
+        "kind": "footer",
+        "span_ids": [
+          "p1-ocr-38"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-20",
+        "kind": "footer",
+        "span_ids": [
+          "p1-ocr-39"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      }
+    ],
+    "warnings": [],
+    "provenance": {
+      "source_sha256": "5505170bda8a70bda234cc993ee189b4f2eade4ea02133f5025ea70f7081bb90",
+      "page_modes": [
+        "ocr"
+      ],
+      "ocr": "tesseract",
+      "ocr_raw_results": {
+        "1": {
+          "records": [
+            {
+              "text": "Test uchun example",
+              "bbox": [
+                1455.0,
+                155.0,
+                1668.0,
+                179.0
+              ],
+              "score": 0.9616504933333333
+            },
+            {
+              "text": "RAQAMLI HUQUQIY XIZMATLAR AGENTLIGI",
+              "bbox": [
+                468.0,
+                204.0,
+                1432.0,
+                241.0
+              ],
+              "score": 0.9646729875
+            },
+            {
+              "text": "100011, Toshkent shahri, Yangi hayot koʻchasi, 12-uy. Tel.: +998 (71) 000-12-30. E-mail: info@rhxa.example",
+              "bbox": [
+                343.0,
+                260.0,
+                1562.0,
+                286.0
+              ],
+              "score": 0.9492440376923077
+            },
+            {
+              "text": "08.09.2026 Ne 03-12/1456",
+              "bbox": [
+                216.0,
+                348.0,
+                571.0,
+                377.0
+              ],
+              "score": 0.9417013300000001
+            },
+            {
+              "text": "Adliya organlari va muassasalarida axborot",
+              "bbox": [
+                926.0,
+                346.0,
+                1671.0,
+                384.0
+              ],
+              "score": 0.923536912
+            },
+            {
+              "text": "«",
+              "bbox": [
+                217.0,
+                403.0,
+                227.0,
+                414.0
+              ],
+              "score": 0.48504635
+            },
+            {
+              "text": "dagi",
+              "bbox": [
+                491.0,
+                395.0,
+                538.0,
+                421.0
+              ],
+              "score": 0.9680761699999999
+            },
+            {
+              "text": "~S0n xatga",
+              "bbox": [
+                665.0,
+                398.0,
+                783.0,
+                421.0
+              ],
+              "score": 0.28549937999999997
+            },
+            {
+              "text": "texnologiyalarini rivojlantirish markaziga",
+              "bbox": [
+                926.0,
+                396.0,
+                1637.0,
+                433.0
+              ],
+              "score": 0.9532357033333334
+            },
+            {
+              "text": "Raqamli xizmatlarni takomillashtirish bo`yicha topshiriqlar to‘g‘risida",
+              "bbox": [
+                235.0,
+                490.0,
+                1301.0,
+                525.0
+              ],
+              "score": 0.8409534333333333
+            },
+            {
+              "text": "Hurmatli Markaz rahbariyati!",
+              "bbox": [
+                717.0,
+                562.0,
+                1182.0,
+                599.0
+              ],
+              "score": 0.9663900233333333
+            },
+            {
+              "text": "Davlat xizmatlarini raqamlashtirish boʻyicha amalga oshirilayotgan ishlarni",
+              "bbox": [
+                343.0,
+                625.0,
+                1668.0,
+                663.0
+              ],
+              "score": 0.9094596100000001
+            },
+            {
+              "text": "jadallashtirish hamda Agentlik va Markaz oʻrtasidagi hamkorlikni kuchaytirish maqsadida",
+              "bbox": [
+                232.0,
+                676.0,
+                1668.0,
+                714.0
+              ],
+              "score": 0.96047499
+            },
+            {
+              "text": "quyidagi vazifalarni bajarishingizni soʻraymiz.",
+              "bbox": [
+                235.0,
+                729.0,
+                976.0,
+                767.0
+              ],
+              "score": 0.8597441949999998
+            },
+            {
+              "text": "1. Markazning Tizim tahlili bo'limi amaldagi murojaatlar portalining funksional",
+              "bbox": [
+                346.0,
+                792.0,
+                1668.0,
+                832.0
+              ],
+              "score": 0.9305793166666666
+            },
+            {
+              "text": "imkoniyatlarini tahlil qilib, foydalanuvchilar eng ko‘p murojaat qiladigan xizmatlar va",
+              "bbox": [
+                236.0,
+                845.0,
+                1668.0,
+                883.0
+              ],
+              "score": 0.9558216319999999
+            },
+            {
+              "text": "mavjud muammolar bo`yicha tahliliy ma'lumotni 2026-yil 20-sentabrga qadar Agentlikka",
+              "bbox": [
+                236.0,
+                896.0,
+                1668.0,
+                934.0
+              ],
+              "score": 0.9229182277777778
+            },
+            {
+              "text": "taqdim etsin.",
+              "bbox": [
+                235.0,
+                951.0,
+                437.0,
+                987.0
+              ],
+              "score": 0.96686684
+            },
+            {
+              "text": "2. Sun'iy intellekt laboratoriyasi portalga kelib tushayotgan murojaatlarni mavzu",
+              "bbox": [
+                343.0,
+                1014.0,
+                1668.0,
+                1052.0
+              ],
+              "score": 0.9654708511111112
+            },
+            {
+              "text": "va yoʻnalishlar boʻyicha avtomatik tasniflash imkoniyatini joriy etish yuzasidan texnik",
+              "bbox": [
+                235.0,
+                1065.0,
+                1669.0,
+                1103.0
+              ],
+              "score": 0.909126115
+            },
+            {
+              "text": "takliflarni 01.10.2026 yilgacha ishlab chiqsin.",
+              "bbox": [
+                235.0,
+                1118.0,
+                961.0,
+                1154.0
+              ],
+              "score": 0.964835876
+            },
+            {
+              "text": "3. Axborot xavfsizligi boʻlimi Sun'iy intellekt laboratoriyasi bilan birgalikda sun'iy",
+              "bbox": [
+                345.0,
+                1181.0,
+                1669.0,
+                1219.0
+              ],
+              "score": 0.9415273049999999
+            },
+            {
+              "text": "intellekt xizmatlariga uzatiladigan ma'lumotlar tarkibini o'rganib, shaxsga doir va",
+              "bbox": [
+                236.0,
+                1232.0,
+                1668.0,
+                1272.0
+              ],
+              "score": 0.9186905666666665
+            },
+            {
+              "text": "foydalanilishi cheklangan ma'lumotlarni himoya qilish boʻyicha takliflarni o‘n kun",
+              "bbox": [
+                236.0,
+                1285.0,
+                1669.0,
+                1323.0
+              ],
+              "score": 0.9407378144444445
+            },
+            {
+              "text": "muddatda kiritsin.",
+              "bbox": [
+                236.0,
+                1338.0,
+                521.0,
+                1367.0
+              ],
+              "score": 0.9661038999999999
+            },
+            {
+              "text": "4. Dasturiy ta'minotni ishlab chiqish boʻlimi fuqarolarga davlat va huquqiy",
+              "bbox": [
+                343.0,
+                1401.0,
+                1669.0,
+                1439.0
+              ],
+              "score": 0.9413026259999999
+            },
+            {
+              "text": "xizmatlar boʻyicha ma'lumot beruvchi virtual yordamchining tajriba-sinov variantini",
+              "bbox": [
+                236.0,
+                1454.0,
+                1669.0,
+                1492.0
+              ],
+              "score": 0.91398093125
+            },
+            {
+              "text": "tayyorlab, uni 2026-yil 25-oktabrga qadar sinovdan o‘tkazsin.",
+              "bbox": [
+                236.0,
+                1505.0,
+                1216.0,
+                1543.0
+              ],
+              "score": 0.9399869328571429
+            },
+            {
+              "text": "5. Markaz yuqoridagi topshiriqlar ijrosi holati toʻgʻrisida har oyning 5-sanasiga",
+              "bbox": [
+                345.0,
+                1568.0,
+                1669.0,
+                1606.0
+              ],
+              "score": 0.932137947
+            },
+            {
+              "text": "qadar Agentlikning Loyihalarni boshqarish departamentiga ma'lumot berib borsin,",
+              "bbox": [
+                236.0,
+                1621.0,
+                1548.0,
+                1661.0
+              ],
+              "score": 0.9300054362500001
+            },
+            {
+              "text": "Shuningdek, ishlar natijalari bo`yicha umumlashtirilgan hisobot va keyingi bosqich",
+              "bbox": [
+                346.0,
+                1686.0,
+                1669.0,
+                1724.0
+              ],
+              "score": 0.91559739
+            },
+            {
+              "text": "uchun takliflarni 2026-yil 5-noyabrga qadar Agentlik rahbariyatiga taqdim etishingizni",
+              "bbox": [
+                236.0,
+                1737.0,
+                1669.0,
+                1775.0
+              ],
+              "score": 0.9571511655555553
+            },
+            {
+              "text": "soʻraymiz.",
+              "bbox": [
+                236.0,
+                1791.0,
+                402.0,
+                1826.0
+              ],
+              "score": 0.81178421
+            },
+            {
+              "text": "Topshiriqlar ijrosi uchun mas'ul xodimlar toʻgʻrisidagi ma'lumotni uch ish kuni",
+              "bbox": [
+                345.0,
+                1853.0,
+                1669.0,
+                1892.0
+              ],
+              "score": 0.9585883090000001
+            },
+            {
+              "text": "ichida taqdim etishingiz soʻraladi.",
+              "bbox": [
+                236.0,
+                1906.0,
+                773.0,
+                1944.0
+              ],
+              "score": 0.95595318
+            },
+            {
+              "text": "Direktor oʻrinbosari",
+              "bbox": [
+                219.0,
+                2048.0,
+                565.0,
+                2076.0
+              ],
+              "score": 0.9480797200000001
+            },
+            {
+              "text": "Sh. Qodirov",
+              "bbox": [
+                1486.0,
+                2046.0,
+                1690.0,
+                2080.0
+              ],
+              "score": 0.964795915
+            },
+            {
+              "text": "Ijrochi: N. Sobirova",
+              "bbox": [
+                238.0,
+                2184.0,
+                468.0,
+                2212.0
+              ],
+              "score": 0.9358089966666665
+            },
+            {
+              "text": "Tel.: 4998 (71) 000-12-35",
+              "bbox": [
+                236.0,
+                2221.0,
+                540.0,
+                2246.0
+              ],
+              "score": 0.9333172024999999
+            },
+            {
+              "text": "Test uchun example — Al tizimini sinash uchun tuzilgan. Tashkilot nomlari, raqamlar, manzillar va shaxslar shartli.",
+              "bbox": [
+                310.0,
+                2466.0,
+                1514.0,
+                2491.0
+              ],
+              "score": 0.958900208125
+            }
+          ]
+        }
+      }
+    }
+  },
+  "input_sha256": "5919f35c82f4ad0c452bb88f33ddb92d0c629dc1d7528b482275fb5f45992087",
+  "code_sha256": "6bd8afe9eaed61ad66393780fdf9766872147ebc1c7a1c7b01fbedb894cec78f",
+  "seconds": 8.288537699962035,
+  "peak_process_tree_rss_bytes": 256868352,
+  "peak_gpu_memory_mib": 0,
+  "layout_sensitive_cer": 0.04507291206363235,
+  "critical_exact_present": 17,
+  "critical_total": 19,
+  "table_rows": 0,
+  "note": "CER includes reading-order differences. Critical exact coverage normalizes case/apostrophes/whitespace."
+}

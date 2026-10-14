@@ -1,0 +1,128 @@
+{
+  "family": "NAMUNA_1_abzats",
+  "metadata": {
+    "sender": {
+      "text": "HUQUQIY XIZMATLARNI RAQAMLASHTIRISH MILLIY AGENTLIGI KENGASHINING",
+      "page": 1
+    },
+    "number": {
+      "text": "121",
+      "page": 1
+    },
+    "date": {
+      "text": "2026-yil 10-fevral",
+      "page": 1
+    },
+    "signer": {
+      "text": "M. Tursunov",
+      "page": 1
+    }
+  },
+  "tasks": [
+    {
+      "id": "clause-1",
+      "page": 1,
+      "clause": "1",
+      "instruction": "1. Ro‘yxatga olish departamenti yuridik shaxslarni ro‘yxatdan o‘tkazish tartibini soddalashtirishni nazarda tutuvchi hujjat loyihasini bir oy muddatda ishlab chiqsin va Kengash muhokamasiga kiritsin.",
+      "executors": [
+        "Ro‘yxatga olish departamenti"
+      ],
+      "deadline": "bir oy muddatda",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "clause-2",
+      "page": 1,
+      "clause": "2",
+      "instruction": "2. Axborot texnologiyalari boshqarmasi Ro‘yxatga olish departamenti bilan birgalikda ro‘yxatdan o‘tkazish axborot tizimining yagona interaktiv davlat xizmatlari portali bilan integratsiyasini 2026-yil 1-iyulga qadar ta’minlasin.",
+      "executors": [
+        "Axborot texnologiyalari boshqarmasi",
+        "Ro‘yxatga olish departamenti"
+      ],
+      "deadline": "2026-yil 1-iyulga qadar",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "clause-3",
+      "page": 1,
+      "clause": "3",
+      "instruction": "3. Huquqiy ekspertiza boshqarmasi ro‘yxatdan o‘tkazishda taqdim etiladigan hujjatlarni avtomatik tekshirish modulini joriy etish yuzasidan takliflar tayyorlasin.",
+      "executors": [
+        "Huquqiy ekspertiza boshqarmasi"
+      ],
+      "deadline": "bir oy muddatda",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": "6"
+    },
+    {
+      "id": "clause-4",
+      "page": 1,
+      "clause": "4",
+      "instruction": "4. Hududiy bo‘linmalar yangi tartib bo‘yicha amaliy qo‘llanmani tarqatish va aholiga tushuntirish ishlarini 2026-yil 15-martdan boshlab tashkil etsin.",
+      "executors": [
+        "Hududiy bo‘linmalar"
+      ],
+      "deadline": "2026-yil 15-martdan boshlab",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "clause-5",
+      "page": 1,
+      "clause": "5",
+      "instruction": "5. Ro‘yxatga olish departamenti mazkur qaror ijrosi to‘g‘risida har oyda Kengashga ma’lumot berib borsin.",
+      "executors": [
+        "Ro‘yxatga olish departamenti"
+      ],
+      "deadline": "har oyda",
+      "kinds": [
+        "reporting"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "clause-6",
+      "page": 1,
+      "clause": "6",
+      "instruction": "6. Mazkur qarorda muddati alohida ko‘rsatilmagan topshiriqlar bir oy muddatda ijro etilsin.",
+      "executors": [],
+      "deadline": "bir oy muddatda",
+      "kinds": [
+        "other"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "clause-7",
+      "page": 1,
+      "clause": "7",
+      "instruction": "7. Mazkur qaror ijrosini nazorat qilish Agentlik direktorining birinchi o‘rinbosari zimmasiga yuklansin.",
+      "executors": [
+        "Agentlik direktorining birinchi o‘rinbosari"
+      ],
+      "deadline": "bir oy muddatda",
+      "kinds": [
+        "oversight"
+      ],
+      "deadline_source_clause": "6"
+    }
+  ],
+  "annotation_method": "Manually selected obligations/fields, text extracted from reference PDF, visually checked against all scan pages before model tuning.",
+  "notes": [
+    "Line-wrap whitespace may collapse; source punctuation and deadline expressions remain unchanged.",
+    "Global one-month default applies to unspecified obligations, including oversight, without computing dates."
+  ],
+  "document_id": "NAMUNA_1_abzats_skaner",
+  "split": "dev",
+  "source_sha256": "67eb438811ff4d25edbcf0124a68b08bd9706b2c94fa7c71b4459cfa4de1edd0"
+}

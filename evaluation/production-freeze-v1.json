@@ -1,0 +1,8 @@
+{
+  "code_sha256": "d28cb0f513f310e00d0edae3d69eaac8a4f93a049e8f0cb15a5ccac54ca674fe",
+  "model": "tev1:4b-q4_K_M",
+  "ocr": "paddle-vl",
+  "frozen_at": "2026-10-13T03:49:33.254085+00:00",
+  "decision_threshold": 0.5,
+  "note": "Noul threshold is a decision rule, not calibrated correctness. Structural disagreements require review."
+}

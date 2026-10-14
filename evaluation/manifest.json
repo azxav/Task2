@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "frozen_before_model_tuning": true,
+  "documents": [
+    {
+      "id": "NAMUNA_1_abzats",
+      "family": "NAMUNA_1_abzats",
+      "split": "dev",
+      "scanned": false,
+      "path": "source/Files Task_2/matnli/NAMUNA_1_abzats.pdf",
+      "gold": "gold/NAMUNA_1_abzats.json"
+    },
+    {
+      "id": "NAMUNA_2_jadval",
+      "family": "NAMUNA_2_jadval",
+      "split": "dev",
+      "scanned": false,
+      "path": "source/Files Task_2/matnli/NAMUNA_2_jadval.pdf",
+      "gold": "gold/NAMUNA_2_jadval.json"
+    },
+    {
+      "id": "NAMUNA_3_ilova",
+      "family": "NAMUNA_3_ilova",
+      "split": "test",
+      "scanned": false,
+      "path": "source/Files Task_2/matnli/NAMUNA_3_ilova.pdf",
+      "gold": "gold/NAMUNA_3_ilova.json"
+    },
+    {
+      "id": "xat_1_abzatsdagi_topshiriqlar",
+      "family": "xat_1_abzatsdagi_topshiriqlar",
+      "split": "dev",
+      "scanned": false,
+      "path": "source/Files Task_2/matnli/xat_1_abzatsdagi_topshiriqlar.pdf",
+      "gold": "gold/xat_1_abzatsdagi_topshiriqlar.json"
+    },
+    {
+      "id": "xat_2_jadvaldagi_topshiriqlar",
+      "family": "xat_2_jadvaldagi_topshiriqlar",
+      "split": "test",
+      "scanned": false,
+      "path": "source/Files Task_2/matnli/xat_2_jadvaldagi_topshiriqlar.pdf",
+      "gold": "gold/xat_2_jadvaldagi_topshiriqlar.json"
+    },
+    {
+      "id": "xat_3_ilovadagi_topshiriqlar",
+      "family": "xat_3_ilovadagi_topshiriqlar",
+      "split": "dev",
+      "scanned": false,
+      "path": "source/Files Task_2/matnli/xat_3_ilovadagi_topshiriqlar.pdf",
+      "gold": "gold/xat_3_ilovadagi_topshiriqlar.json"
+    },
+    {
+      "id": "NAMUNA_1_abzats_skaner",
+      "family": "NAMUNA_1_abzats",
+      "split": "dev",
+      "scanned": true,
+      "path": "source/Files Task_2/skaner/NAMUNA_1_abzats_skaner.pdf",
+      "gold": "gold/NAMUNA_1_abzats_skaner.json"
+    },
+    {
+      "id": "NAMUNA_2_jadval_skaner",
+      "family": "NAMUNA_2_jadval",
+      "split": "dev",
+      "scanned": true,
+      "path": "source/Files Task_2/skaner/NAMUNA_2_jadval_skaner.pdf",
+      "gold": "gold/NAMUNA_2_jadval_skaner.json"
+    },
+    {
+      "id": "NAMUNA_3_ilova_skaner",
+      "family": "NAMUNA_3_ilova",
+      "split": "test",
+      "scanned": true,
+      "path": "source/Files Task_2/skaner/NAMUNA_3_ilova_skaner.pdf",
+      "gold": "gold/NAMUNA_3_ilova_skaner.json"
+    },
+    {
+      "id": "xat_1_abzatsdagi_topshiriqlar_skaner",
+      "family": "xat_1_abzatsdagi_topshiriqlar",
+      "split": "dev",
+      "scanned": true,
+      "path": "source/Files Task_2/skaner/xat_1_abzatsdagi_topshiriqlar_skaner.pdf",
+      "gold": "gold/xat_1_abzatsdagi_topshiriqlar_skaner.json"
+    },
+    {
+      "id": "xat_2_jadvaldagi_topshiriqlar_skaner",
+      "family": "xat_2_jadvaldagi_topshiriqlar",
+      "split": "test",
+      "scanned": true,
+      "path": "source/Files Task_2/skaner/xat_2_jadvaldagi_topshiriqlar_skaner.pdf",
+      "gold": "gold/xat_2_jadvaldagi_topshiriqlar_skaner.json"
+    },
+    {
+      "id": "xat_3_ilovadagi_topshiriqlar_skaner",
+      "family": "xat_3_ilovadagi_topshiriqlar",
+      "split": "dev",
+      "scanned": true,
+      "path": "source/Files Task_2/skaner/xat_3_ilovadagi_topshiriqlar_skaner.pdf",
+      "gold": "gold/xat_3_ilovadagi_topshiriqlar_skaner.json"
+    }
+  ]
+}

@@ -1,0 +1,2015 @@
+{
+  "engine": "paddle-vl",
+  "split": "test",
+  "document": {
+    "spans": [
+      {
+        "id": "p1-vl-0",
+        "page": 1,
+        "text": "Test uchun example",
+        "bbox": [
+          951.0,
+          97.0,
+          1103.0,
+          119.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-1",
+        "page": 1,
+        "text": "NOTARIAT VA FHDYO FAOLIYATINI MUVOFIQLASHTIRISH KENGASHINING OARORI",
+        "bbox": [
+          205.0,
+          132.0,
+          1044.0,
+          239.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-4",
+        "page": 1,
+        "text": "No 160",
+        "bbox": [
+          1048.0,
+          271.0,
+          1116.0,
+          297.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-3",
+        "page": 1,
+        "text": "Toshkent shahri",
+        "bbox": [
+          549.0,
+          272.0,
+          703.0,
+          302.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-2",
+        "page": 1,
+        "text": "2026-yil 5-mart",
+        "bbox": [
+          136.0,
+          276.0,
+          284.0,
+          304.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-5",
+        "page": 1,
+        "text": "Notariat va fuqarolik holati dalolatnomalarini yozish organlarida elektron hujjat aylanishini kengaytirish toʻgʻrisida",
+        "bbox": [
+          149.0,
+          337.0,
+          1103.0,
+          409.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-6",
+        "page": 1,
+        "text": "Notariat harakatlari va fuqarolik holati dalolatnomalarini yozish jarayonlarida elektron hujjat aylanishini kengaytirish hamda raqamlashtirish maqsadida Kengash qaror qiladi:",
+        "bbox": [
+          147.0,
+          421.0,
+          1106.0,
+          527.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-7",
+        "page": 1,
+        "text": "1. Notariat va fuqarolik holati dalolatnomalarini yozish (FHDYo) organlarida elektron hujjat aylanishini kengaytirish boʻyicha chora-tadbirlar rejasi ilovaga muvofiq tasdiqlansin.",
+        "bbox": [
+          146.0,
+          532.0,
+          1106.0,
+          639.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-8",
+        "page": 1,
+        "text": "2. Ilovada belgilangan topshiriqlar mas'ul ijrochilar tomonidan oʻz vaqtida va sifatli ijro etilishi taʼminlansin.",
+        "bbox": [
+          148.0,
+          643.0,
+          1106.0,
+          716.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-9",
+        "page": 1,
+        "text": "3. Kengash kotibiyati ilova ijrosi toʻgʻrisida har chorakda Kengash yigʻilishiga axborot kiritib borsin.",
+        "bbox": [
+          150.0,
+          720.0,
+          1105.0,
+          791.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-10",
+        "page": 1,
+        "text": "4. Mazkur qaror ijrosini nazorat qilish Kengash raising oʻrinbosari zimmasiga yuklansin.",
+        "bbox": [
+          149.0,
+          796.0,
+          1106.0,
+          870.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-12",
+        "page": 1,
+        "text": "G. Nazarova",
+        "bbox": [
+          971.0,
+          932.0,
+          1120.0,
+          963.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-11",
+        "page": 1,
+        "text": "Kengash raisi",
+        "bbox": [
+          138.0,
+          936.0,
+          301.0,
+          970.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-vl-13",
+        "page": 1,
+        "text": "Test uchun example — AI tizimini sinash uchun tuzilgan. Tashkilot nomlari, raqamlar, manzillar va shaxslar shartli.",
+        "bbox": [
+          201.0,
+          1623.0,
+          1008.0,
+          1650.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-0",
+        "page": 2,
+        "text": "Notariat va FHDYo faoliyatini muvofiqlashtirish kengashining 2026-yil 5-martdagi 160-son qaroriga ILOVA",
+        "bbox": [
+          527.0,
+          96.0,
+          1122.0,
+          195.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-1",
+        "page": 2,
+        "text": "Elektron hujjat aylanishini kengaytirish boʻyicha CHORA-TADBIRLAR REJASI",
+        "bbox": [
+          347.0,
+          214.0,
+          933.0,
+          286.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-table1-r1-c0",
+        "page": 2,
+        "text": "1",
+        "bbox": [
+          146.0,
+          289.0,
+          1127.0,
+          720.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-table1-r1-c1",
+        "page": 2,
+        "text": "Notariat harakatlarini elektron qayd etish\\nmodulini joriy etish",
+        "bbox": [
+          146.0,
+          289.0,
+          1127.0,
+          720.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-table1-r1-c2",
+        "page": 2,
+        "text": "Notariat boshqarmasi",
+        "bbox": [
+          146.0,
+          289.0,
+          1127.0,
+          720.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-table1-r1-c3",
+        "page": 2,
+        "text": "2026-yil 1-iyun",
+        "bbox": [
+          146.0,
+          289.0,
+          1127.0,
+          720.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-table1-r2-c0",
+        "page": 2,
+        "text": "2",
+        "bbox": [
+          146.0,
+          289.0,
+          1127.0,
+          720.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-table1-r2-c1",
+        "page": 2,
+        "text": "FHDYo yozuvlarini raqamli arxivga oʻtkazish",
+        "bbox": [
+          146.0,
+          289.0,
+          1127.0,
+          720.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-table1-r2-c2",
+        "page": 2,
+        "text": "FHDYo boshqarmasi",
+        "bbox": [
+          146.0,
+          289.0,
+          1127.0,
+          720.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-table1-r2-c3",
+        "page": 2,
+        "text": "2026-yil 1-avgust",
+        "bbox": [
+          146.0,
+          289.0,
+          1127.0,
+          720.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-table1-r3-c0",
+        "page": 2,
+        "text": "3",
+        "bbox": [
+          146.0,
+          289.0,
+          1127.0,
+          720.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-table1-r3-c1",
+        "page": 2,
+        "text": "Elektron hujjatlarni tizimlararo almashish\\nintegratsiyasini ta'minlash",
+        "bbox": [
+          146.0,
+          289.0,
+          1127.0,
+          720.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-table1-r3-c2",
+        "page": 2,
+        "text": "Axborot texnologiyalari\\nboshqarmasi",
+        "bbox": [
+          146.0,
+          289.0,
+          1127.0,
+          720.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-table1-r3-c3",
+        "page": 2,
+        "text": "texnik topshiriq\\ntasdiqlangandansoʻng 3 oy ichida",
+        "bbox": [
+          146.0,
+          289.0,
+          1127.0,
+          720.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-table1-r4-c0",
+        "page": 2,
+        "text": "4",
+        "bbox": [
+          146.0,
+          289.0,
+          1127.0,
+          720.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-table1-r4-c1",
+        "page": 2,
+        "text": "Hududiy boʻlinmalar xodimlarini yangi\\ntizimda ishlashga oʻqitish",
+        "bbox": [
+          146.0,
+          289.0,
+          1127.0,
+          720.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-table1-r4-c2",
+        "page": 2,
+        "text": "Kadrlar boshqarmasi, hududiy boʻlinmalar",
+        "bbox": [
+          146.0,
+          289.0,
+          1127.0,
+          720.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-table1-r4-c3",
+        "page": 2,
+        "text": "2026-yil 15-may",
+        "bbox": [
+          146.0,
+          289.0,
+          1127.0,
+          720.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-table1-r5-c0",
+        "page": 2,
+        "text": "5",
+        "bbox": [
+          146.0,
+          289.0,
+          1127.0,
+          720.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-table1-r5-c1",
+        "page": 2,
+        "text": "Fuqarolar uchun qoʻllanma va axborot\\nmateriallarini tayyorlash",
+        "bbox": [
+          146.0,
+          289.0,
+          1127.0,
+          720.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-table1-r5-c2",
+        "page": 2,
+        "text": "Axborot xizmati",
+        "bbox": [
+          146.0,
+          289.0,
+          1127.0,
+          720.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-table1-r5-c3",
+        "page": 2,
+        "text": "bir oy muddatda",
+        "bbox": [
+          146.0,
+          289.0,
+          1127.0,
+          720.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-3",
+        "page": 2,
+        "text": "Test uchun example — AI tizimini sinash uchun tuzilgan. Tashkilot nomlari, raqamlar, manzillar va shaxslar shartli.",
+        "bbox": [
+          181.0,
+          1618.0,
+          990.0,
+          1656.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-vl-4",
+        "page": 2,
+        "text": "2",
+        "bbox": [
+          1072.0,
+          1633.0,
+          1090.0,
+          1655.0
+        ],
+        "parent_id": null
+      }
+    ],
+    "passages": [
+      {
+        "id": "p1-block-0",
+        "kind": "footer",
+        "span_ids": [
+          "p1-vl-0"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-1",
+        "kind": "header",
+        "span_ids": [
+          "p1-vl-1",
+          "p1-vl-4"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-2",
+        "kind": "header",
+        "span_ids": [
+          "p1-vl-3"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-3",
+        "kind": "header",
+        "span_ids": [
+          "p1-vl-2"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-4",
+        "kind": "header",
+        "span_ids": [
+          "p1-vl-5"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-5",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-vl-6"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-6",
+        "kind": "clause",
+        "span_ids": [
+          "p1-vl-7"
+        ],
+        "clause_ref": "1",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-7",
+        "kind": "clause",
+        "span_ids": [
+          "p1-vl-8"
+        ],
+        "clause_ref": "2",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-8",
+        "kind": "clause",
+        "span_ids": [
+          "p1-vl-9"
+        ],
+        "clause_ref": "3",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-9",
+        "kind": "clause",
+        "span_ids": [
+          "p1-vl-10"
+        ],
+        "clause_ref": "4",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-10",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-vl-12"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-11",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-vl-11"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-12",
+        "kind": "footer",
+        "span_ids": [
+          "p1-vl-13"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-0",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-vl-0",
+          "p2-vl-1"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-vl-table1-row1",
+        "kind": "table_row",
+        "span_ids": [
+          "p2-vl-table1-r1-c0",
+          "p2-vl-table1-r1-c1",
+          "p2-vl-table1-r1-c2",
+          "p2-vl-table1-r1-c3"
+        ],
+        "clause_ref": "table-1/row-1",
+        "table_cells": {
+          "reference": [
+            "p2-vl-table1-r1-c0"
+          ],
+          "instruction": [
+            "p2-vl-table1-r1-c1"
+          ],
+          "executor": [
+            "p2-vl-table1-r1-c2"
+          ],
+          "deadline": [
+            "p2-vl-table1-r1-c3"
+          ]
+        }
+      },
+      {
+        "id": "p2-vl-table1-row2",
+        "kind": "table_row",
+        "span_ids": [
+          "p2-vl-table1-r2-c0",
+          "p2-vl-table1-r2-c1",
+          "p2-vl-table1-r2-c2",
+          "p2-vl-table1-r2-c3"
+        ],
+        "clause_ref": "table-1/row-2",
+        "table_cells": {
+          "reference": [
+            "p2-vl-table1-r2-c0"
+          ],
+          "instruction": [
+            "p2-vl-table1-r2-c1"
+          ],
+          "executor": [
+            "p2-vl-table1-r2-c2"
+          ],
+          "deadline": [
+            "p2-vl-table1-r2-c3"
+          ]
+        }
+      },
+      {
+        "id": "p2-vl-table1-row3",
+        "kind": "table_row",
+        "span_ids": [
+          "p2-vl-table1-r3-c0",
+          "p2-vl-table1-r3-c1",
+          "p2-vl-table1-r3-c2",
+          "p2-vl-table1-r3-c3"
+        ],
+        "clause_ref": "table-1/row-3",
+        "table_cells": {
+          "reference": [
+            "p2-vl-table1-r3-c0"
+          ],
+          "instruction": [
+            "p2-vl-table1-r3-c1"
+          ],
+          "executor": [
+            "p2-vl-table1-r3-c2"
+          ],
+          "deadline": [
+            "p2-vl-table1-r3-c3"
+          ]
+        }
+      },
+      {
+        "id": "p2-vl-table1-row4",
+        "kind": "table_row",
+        "span_ids": [
+          "p2-vl-table1-r4-c0",
+          "p2-vl-table1-r4-c1",
+          "p2-vl-table1-r4-c2",
+          "p2-vl-table1-r4-c3"
+        ],
+        "clause_ref": "table-1/row-4",
+        "table_cells": {
+          "reference": [
+            "p2-vl-table1-r4-c0"
+          ],
+          "instruction": [
+            "p2-vl-table1-r4-c1"
+          ],
+          "executor": [
+            "p2-vl-table1-r4-c2"
+          ],
+          "deadline": [
+            "p2-vl-table1-r4-c3"
+          ]
+        }
+      },
+      {
+        "id": "p2-vl-table1-row5",
+        "kind": "table_row",
+        "span_ids": [
+          "p2-vl-table1-r5-c0",
+          "p2-vl-table1-r5-c1",
+          "p2-vl-table1-r5-c2",
+          "p2-vl-table1-r5-c3"
+        ],
+        "clause_ref": "table-1/row-5",
+        "table_cells": {
+          "reference": [
+            "p2-vl-table1-r5-c0"
+          ],
+          "instruction": [
+            "p2-vl-table1-r5-c1"
+          ],
+          "executor": [
+            "p2-vl-table1-r5-c2"
+          ],
+          "deadline": [
+            "p2-vl-table1-r5-c3"
+          ]
+        }
+      },
+      {
+        "id": "p2-block-1",
+        "kind": "footer",
+        "span_ids": [
+          "p2-vl-3"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-2",
+        "kind": "footer",
+        "span_ids": [
+          "p2-vl-4"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      }
+    ],
+    "warnings": [
+      "Page 2: VL cell text linked to table box; exact cell geometry unavailable"
+    ],
+    "provenance": {
+      "source_sha256": "4717945fd29644f231c0c32ce49eb338eb5e8ad93370c3f27706725587f14281",
+      "page_modes": [
+        "ocr",
+        "ocr"
+      ],
+      "ocr": "paddle-vl",
+      "ocr_raw_results": {
+        "1": {
+          "page_index": null,
+          "page_count": null,
+          "width": 1202,
+          "height": 1700,
+          "model_settings": {
+            "use_doc_preprocessor": false,
+            "use_layout_detection": true,
+            "use_chart_recognition": false,
+            "use_seal_recognition": false,
+            "use_ocr_for_image_block": false,
+            "format_block_content": false,
+            "merge_layout_blocks": false,
+            "markdown_ignore_labels": [
+              "number",
+              "footnote",
+              "header",
+              "header_image",
+              "footer",
+              "footer_image",
+              "aside_text"
+            ],
+            "return_layout_polygon_points": true
+          },
+          "parsing_res_list": [
+            {
+              "block_label": "header",
+              "block_content": "Test uchun example",
+              "block_bbox": [
+                951,
+                97,
+                1103,
+                119
+              ],
+              "block_id": 0,
+              "block_order": null,
+              "group_id": 0,
+              "block_polygon_points": [
+                [
+                  951.0,
+                  97.0
+                ],
+                [
+                  1102.0,
+                  97.0
+                ],
+                [
+                  1102.0,
+                  118.0
+                ],
+                [
+                  951.0,
+                  118.0
+                ]
+              ]
+            },
+            {
+              "block_label": "doc_title",
+              "block_content": "NOTARIAT VA FHDYO FAOLIYATINI MUVOFIQLASHTIRISH KENGASHINING OARORI",
+              "block_bbox": [
+                205,
+                132,
+                1044,
+                239
+              ],
+              "block_id": 1,
+              "block_order": 1,
+              "group_id": 1,
+              "block_polygon_points": [
+                [
+                  205.0,
+                  132.0
+                ],
+                [
+                  1044.0,
+                  132.0
+                ],
+                [
+                  1044.0,
+                  239.0
+                ],
+                [
+                  205.0,
+                  239.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "2026-yil 5-mart",
+              "block_bbox": [
+                136,
+                276,
+                284,
+                304
+              ],
+              "block_id": 2,
+              "block_order": 2,
+              "group_id": 2,
+              "block_polygon_points": [
+                [
+                  136.0,
+                  276.0
+                ],
+                [
+                  284.0,
+                  276.0
+                ],
+                [
+                  284.0,
+                  304.0
+                ],
+                [
+                  136.0,
+                  304.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "Toshkent shahri",
+              "block_bbox": [
+                549,
+                272,
+                703,
+                302
+              ],
+              "block_id": 3,
+              "block_order": 3,
+              "group_id": 3,
+              "block_polygon_points": [
+                [
+                  549.0,
+                  272.0
+                ],
+                [
+                  703.0,
+                  272.0
+                ],
+                [
+                  703.0,
+                  302.0
+                ],
+                [
+                  549.0,
+                  302.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "No 160",
+              "block_bbox": [
+                1048,
+                271,
+                1116,
+                297
+              ],
+              "block_id": 4,
+              "block_order": 4,
+              "group_id": 4,
+              "block_polygon_points": [
+                [
+                  1048.0,
+                  271.0
+                ],
+                [
+                  1115.0,
+                  271.0
+                ],
+                [
+                  1115.0,
+                  296.0
+                ],
+                [
+                  1048.0,
+                  296.0
+                ]
+              ]
+            },
+            {
+              "block_label": "paragraph_title",
+              "block_content": "Notariat va fuqarolik holati dalolatnomalarini yozish organlarida elektron hujjat aylanishini kengaytirish toʻgʻrisida",
+              "block_bbox": [
+                149,
+                337,
+                1103,
+                409
+              ],
+              "block_id": 5,
+              "block_order": 5,
+              "group_id": 5,
+              "block_polygon_points": [
+                [
+                  149.0,
+                  337.0
+                ],
+                [
+                  1103.0,
+                  337.0
+                ],
+                [
+                  1103.0,
+                  409.0
+                ],
+                [
+                  149.0,
+                  409.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "Notariat harakatlari va fuqarolik holati dalolatnomalarini yozish jarayonlarida elektron hujjat aylanishini kengaytirish hamda raqamlashtirish maqsadida Kengash qaror qiladi:",
+              "block_bbox": [
+                147,
+                421,
+                1106,
+                527
+              ],
+              "block_id": 6,
+              "block_order": 6,
+              "group_id": 6,
+              "block_polygon_points": [
+                [
+                  147.0,
+                  421.0
+                ],
+                [
+                  1106.0,
+                  421.0
+                ],
+                [
+                  1106.0,
+                  527.0
+                ],
+                [
+                  147.0,
+                  527.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "1. Notariat va fuqarolik holati dalolatnomalarini yozish (FHDYo) organlarida elektron hujjat aylanishini kengaytirish boʻyicha chora-tadbirlar rejasi ilovaga muvofiq tasdiqlansin.",
+              "block_bbox": [
+                146,
+                532,
+                1106,
+                639
+              ],
+              "block_id": 7,
+              "block_order": 7,
+              "group_id": 7,
+              "block_polygon_points": [
+                [
+                  146.0,
+                  532.0
+                ],
+                [
+                  1106.0,
+                  532.0
+                ],
+                [
+                  1106.0,
+                  639.0
+                ],
+                [
+                  146.0,
+                  639.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "2. Ilovada belgilangan topshiriqlar mas'ul ijrochilar tomonidan oʻz vaqtida va sifatli ijro etilishi taʼminlansin.",
+              "block_bbox": [
+                148,
+                643,
+                1106,
+                716
+              ],
+              "block_id": 8,
+              "block_order": 8,
+              "group_id": 8,
+              "block_polygon_points": [
+                [
+                  148.0,
+                  643.0
+                ],
+                [
+                  1106.0,
+                  643.0
+                ],
+                [
+                  1106.0,
+                  716.0
+                ],
+                [
+                  148.0,
+                  716.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "3. Kengash kotibiyati ilova ijrosi toʻgʻrisida har chorakda Kengash yigʻilishiga axborot kiritib borsin.",
+              "block_bbox": [
+                150,
+                720,
+                1105,
+                791
+              ],
+              "block_id": 9,
+              "block_order": 9,
+              "group_id": 9,
+              "block_polygon_points": [
+                [
+                  150.0,
+                  720.0
+                ],
+                [
+                  1105.0,
+                  720.0
+                ],
+                [
+                  1105.0,
+                  791.0
+                ],
+                [
+                  150.0,
+                  791.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "4. Mazkur qaror ijrosini nazorat qilish Kengash raising oʻrinbosari zimmasiga yuklansin.",
+              "block_bbox": [
+                149,
+                796,
+                1106,
+                870
+              ],
+              "block_id": 10,
+              "block_order": 10,
+              "group_id": 10,
+              "block_polygon_points": [
+                [
+                  149.0,
+                  796.0
+                ],
+                [
+                  1106.0,
+                  796.0
+                ],
+                [
+                  1106.0,
+                  870.0
+                ],
+                [
+                  149.0,
+                  870.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "Kengash raisi",
+              "block_bbox": [
+                138,
+                936,
+                301,
+                970
+              ],
+              "block_id": 11,
+              "block_order": 11,
+              "group_id": 11,
+              "block_polygon_points": [
+                [
+                  138.0,
+                  936.0
+                ],
+                [
+                  301.0,
+                  936.0
+                ],
+                [
+                  301.0,
+                  970.0
+                ],
+                [
+                  138.0,
+                  970.0
+                ]
+              ]
+            },
+            {
+              "block_label": "text",
+              "block_content": "G. Nazarova",
+              "block_bbox": [
+                971,
+                932,
+                1120,
+                963
+              ],
+              "block_id": 12,
+              "block_order": 12,
+              "group_id": 12,
+              "block_polygon_points": [
+                [
+                  971.0,
+                  932.0
+                ],
+                [
+                  1120.0,
+                  932.0
+                ],
+                [
+                  1120.0,
+                  963.0
+                ],
+                [
+                  971.0,
+                  963.0
+                ]
+              ]
+            },
+            {
+              "block_label": "footer",
+              "block_content": "Test uchun example — AI tizimini sinash uchun tuzilgan. Tashkilot nomlari, raqamlar, manzillar va shaxslar shartli.",
+              "block_bbox": [
+                201,
+                1623,
+                1008,
+                1650
+              ],
+              "block_id": 13,
+              "block_order": null,
+              "group_id": 13,
+              "block_polygon_points": [
+                [
+                  201.0,
+                  1623.0
+                ],
+                [
+                  1008.0,
+                  1623.0
+                ],
+                [
+                  1008.0,
+                  1650.0
+                ],
+                [
+                  201.0,
+                  1650.0
+                ]
+              ]
+            }
+          ],
+          "layout_det_res": {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+              {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7634698748588562,
+                "coordinate": [
+                  951,
+                  97,
+                  1103,
+                  119
+                ],
+                "order": null,
+                "polygon_points": [
+                  [
+                    951.0,
+                    97.0
+                  ],
+                  [
+                    1102.0,
+                    97.0
+                  ],
+                  [
+                    1102.0,
+                    118.0
+                  ],
+                  [
+                    951.0,
+                    118.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.7103025913238525,
+                "coordinate": [
+                  205,
+                  132,
+                  1044,
+                  239
+                ],
+                "order": 1,
+                "polygon_points": [
+                  [
+                    205.0,
+                    132.0
+                  ],
+                  [
+                    1044.0,
+                    132.0
+                  ],
+                  [
+                    1044.0,
+                    239.0
+                  ],
+                  [
+                    205.0,
+                    239.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7343702912330627,
+                "coordinate": [
+                  136,
+                  276,
+                  284,
+                  304
+                ],
+                "order": 2,
+                "polygon_points": [
+                  [
+                    136.0,
+                    276.0
+                  ],
+                  [
+                    284.0,
+                    276.0
+                  ],
+                  [
+                    284.0,
+                    304.0
+                  ],
+                  [
+                    136.0,
+                    304.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6477700471878052,
+                "coordinate": [
+                  549,
+                  272,
+                  703,
+                  302
+                ],
+                "order": 3,
+                "polygon_points": [
+                  [
+                    549.0,
+                    272.0
+                  ],
+                  [
+                    703.0,
+                    272.0
+                  ],
+                  [
+                    703.0,
+                    302.0
+                  ],
+                  [
+                    549.0,
+                    302.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7038816213607788,
+                "coordinate": [
+                  1048,
+                  271,
+                  1116,
+                  297
+                ],
+                "order": 4,
+                "polygon_points": [
+                  [
+                    1048.0,
+                    271.0
+                  ],
+                  [
+                    1115.0,
+                    271.0
+                  ],
+                  [
+                    1115.0,
+                    296.0
+                  ],
+                  [
+                    1048.0,
+                    296.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.45628800988197327,
+                "coordinate": [
+                  149,
+                  337,
+                  1103,
+                  409
+                ],
+                "order": 5,
+                "polygon_points": [
+                  [
+                    149.0,
+                    337.0
+                  ],
+                  [
+                    1103.0,
+                    337.0
+                  ],
+                  [
+                    1103.0,
+                    409.0
+                  ],
+                  [
+                    149.0,
+                    409.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9097084403038025,
+                "coordinate": [
+                  147,
+                  421,
+                  1106,
+                  527
+                ],
+                "order": 6,
+                "polygon_points": [
+                  [
+                    147.0,
+                    421.0
+                  ],
+                  [
+                    1106.0,
+                    421.0
+                  ],
+                  [
+                    1106.0,
+                    527.0
+                  ],
+                  [
+                    147.0,
+                    527.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9177719354629517,
+                "coordinate": [
+                  146,
+                  532,
+                  1106,
+                  639
+                ],
+                "order": 7,
+                "polygon_points": [
+                  [
+                    146.0,
+                    532.0
+                  ],
+                  [
+                    1106.0,
+                    532.0
+                  ],
+                  [
+                    1106.0,
+                    639.0
+                  ],
+                  [
+                    146.0,
+                    639.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8902099132537842,
+                "coordinate": [
+                  148,
+                  643,
+                  1106,
+                  716
+                ],
+                "order": 8,
+                "polygon_points": [
+                  [
+                    148.0,
+                    643.0
+                  ],
+                  [
+                    1106.0,
+                    643.0
+                  ],
+                  [
+                    1106.0,
+                    716.0
+                  ],
+                  [
+                    148.0,
+                    716.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.885825514793396,
+                "coordinate": [
+                  150,
+                  720,
+                  1105,
+                  791
+                ],
+                "order": 9,
+                "polygon_points": [
+                  [
+                    150.0,
+                    720.0
+                  ],
+                  [
+                    1105.0,
+                    720.0
+                  ],
+                  [
+                    1105.0,
+                    791.0
+                  ],
+                  [
+                    150.0,
+                    791.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8832298517227173,
+                "coordinate": [
+                  149,
+                  796,
+                  1106,
+                  870
+                ],
+                "order": 10,
+                "polygon_points": [
+                  [
+                    149.0,
+                    796.0
+                  ],
+                  [
+                    1106.0,
+                    796.0
+                  ],
+                  [
+                    1106.0,
+                    870.0
+                  ],
+                  [
+                    149.0,
+                    870.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7992975115776062,
+                "coordinate": [
+                  138,
+                  936,
+                  301,
+                  970
+                ],
+                "order": 11,
+                "polygon_points": [
+                  [
+                    138.0,
+                    936.0
+                  ],
+                  [
+                    301.0,
+                    936.0
+                  ],
+                  [
+                    301.0,
+                    970.0
+                  ],
+                  [
+                    138.0,
+                    970.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7689381241798401,
+                "coordinate": [
+                  971,
+                  932,
+                  1120,
+                  963
+                ],
+                "order": 12,
+                "polygon_points": [
+                  [
+                    971.0,
+                    932.0
+                  ],
+                  [
+                    1120.0,
+                    932.0
+                  ],
+                  [
+                    1120.0,
+                    963.0
+                  ],
+                  [
+                    971.0,
+                    963.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.707892894744873,
+                "coordinate": [
+                  201,
+                  1623,
+                  1008,
+                  1650
+                ],
+                "order": null,
+                "polygon_points": [
+                  [
+                    201.0,
+                    1623.0
+                  ],
+                  [
+                    1008.0,
+                    1623.0
+                  ],
+                  [
+                    1008.0,
+                    1650.0
+                  ],
+                  [
+                    201.0,
+                    1650.0
+                  ]
+                ]
+              }
+            ]
+          }
+        },
+        "2": {
+          "page_index": null,
+          "page_count": null,
+          "width": 1202,
+          "height": 1700,
+          "model_settings": {
+            "use_doc_preprocessor": false,
+            "use_layout_detection": true,
+            "use_chart_recognition": false,
+            "use_seal_recognition": false,
+            "use_ocr_for_image_block": false,
+            "format_block_content": false,
+            "merge_layout_blocks": false,
+            "markdown_ignore_labels": [
+              "number",
+              "footnote",
+              "header",
+              "header_image",
+              "footer",
+              "footer_image",
+              "aside_text"
+            ],
+            "return_layout_polygon_points": true
+          },
+          "parsing_res_list": [
+            {
+              "block_label": "header",
+              "block_content": "Notariat va FHDYo faoliyatini muvofiqlashtirish kengashining 2026-yil 5-martdagi 160-son qaroriga ILOVA",
+              "block_bbox": [
+                527,
+                96,
+                1122,
+                195
+              ],
+              "block_id": 0,
+              "block_order": null,
+              "group_id": 0,
+              "block_polygon_points": [
+                [
+                  527.04443359375,
+                  93.69315338134766
+                ],
+                [
+                  1122.0743408203125,
+                  105.13603210449219
+                ],
+                [
+                  1120.23291015625,
+                  200.88909912109375
+                ],
+                [
+                  525.2030029296875,
+                  189.4462127685547
+                ]
+              ]
+            },
+            {
+              "block_label": "figure_title",
+              "block_content": "Elektron hujjat aylanishini kengaytirish boʻyicha CHORA-TADBIRLAR REJASI",
+              "block_bbox": [
+                347,
+                214,
+                933,
+                286
+              ],
+              "block_id": 1,
+              "block_order": null,
+              "group_id": 1,
+              "block_polygon_points": [
+                [
+                  347.0000305175781,
+                  214.00001525878906
+                ],
+                [
+                  932.861328125,
+                  222.01177978515625
+                ],
+                [
+                  932.0,
+                  285.0
+                ],
+                [
+                  346.1387023925781,
+                  276.9882507324219
+                ]
+              ]
+            },
+            {
+              "block_label": "table",
+              "block_content": "<table><tr><td>№</td><td>Topshiriq mazmuni</td><td>Mas&#x27;ul ijrochi</td><td>Muddat</td></tr><tr><td>1</td><td>Notariat harakatlarini elektron qayd etish\\nmodulini joriy etish</td><td>Notariat boshqarmasi</td><td>2026-yil 1-iyun</td></tr><tr><td>2</td><td>FHDYo yozuvlarini raqamli arxivga oʻtkazish</td><td>FHDYo boshqarmasi</td><td>2026-yil 1-avgust</td></tr><tr><td>3</td><td>Elektron hujjatlarni tizimlararo almashish\\nintegratsiyasini ta&#x27;minlash</td><td>Axborot texnologiyalari\\nboshqarmasi</td><td>texnik topshiriq\\ntasdiqlangandansoʻng 3 oy ichida</td></tr><tr><td>4</td><td>Hududiy boʻlinmalar xodimlarini yangi\\ntizimda ishlashga oʻqitish</td><td>Kadrlar boshqarmasi, hududiy boʻlinmalar</td><td>2026-yil 15-may</td></tr><tr><td>5</td><td>Fuqarolar uchun qoʻllanma va axborot\\nmateriallarini tayyorlash</td><td>Axborot xizmati</td><td>bir oy muddatda</td></tr></table>",
+              "block_bbox": [
+                146,
+                289,
+                1127,
+                720
+              ],
+              "block_id": 2,
+              "block_order": null,
+              "group_id": 2,
+              "block_polygon_points": [
+                [
+                  146.0,
+                  289.0
+                ],
+                [
+                  1127.0,
+                  289.0
+                ],
+                [
+                  1127.0,
+                  720.0
+                ],
+                [
+                  146.0,
+                  720.0
+                ]
+              ]
+            },
+            {
+              "block_label": "footer",
+              "block_content": "Test uchun example — AI tizimini sinash uchun tuzilgan. Tashkilot nomlari, raqamlar, manzillar va shaxslar shartli.",
+              "block_bbox": [
+                181,
+                1618,
+                990,
+                1656
+              ],
+              "block_id": 3,
+              "block_order": null,
+              "group_id": 3,
+              "block_polygon_points": [
+                [
+                  181.0,
+                  1618.0001220703125
+                ],
+                [
+                  989.2598876953125,
+                  1625.0023193359375
+                ],
+                [
+                  989.0,
+                  1655.0001220703125
+                ],
+                [
+                  180.7401123046875,
+                  1647.9979248046875
+                ]
+              ]
+            },
+            {
+              "block_label": "number",
+              "block_content": "2",
+              "block_bbox": [
+                1072,
+                1633,
+                1090,
+                1655
+              ],
+              "block_id": 4,
+              "block_order": null,
+              "group_id": 4,
+              "block_polygon_points": [
+                [
+                  1072.0,
+                  1633.0
+                ],
+                [
+                  1089.0,
+                  1633.0
+                ],
+                [
+                  1089.0,
+                  1654.0
+                ],
+                [
+                  1072.0,
+                  1654.0
+                ]
+              ]
+            }
+          ],
+          "layout_det_res": {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+              {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7907215356826782,
+                "coordinate": [
+                  527,
+                  96,
+                  1122,
+                  195
+                ],
+                "order": null,
+                "polygon_points": [
+                  [
+                    527.04443359375,
+                    93.69315338134766
+                  ],
+                  [
+                    1122.0743408203125,
+                    105.13603210449219
+                  ],
+                  [
+                    1120.23291015625,
+                    200.88909912109375
+                  ],
+                  [
+                    525.2030029296875,
+                    189.4462127685547
+                  ]
+                ]
+              },
+              {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.4099124073982239,
+                "coordinate": [
+                  1036,
+                  165,
+                  1119,
+                  192
+                ],
+                "order": null,
+                "polygon_points": [
+                  [
+                    1036.0,
+                    165.0
+                  ],
+                  [
+                    1119.0,
+                    165.0
+                  ],
+                  [
+                    1119.0,
+                    192.0
+                  ],
+                  [
+                    1036.0,
+                    192.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7151221036911011,
+                "coordinate": [
+                  347,
+                  214,
+                  933,
+                  286
+                ],
+                "order": null,
+                "polygon_points": [
+                  [
+                    347.0000305175781,
+                    214.00001525878906
+                  ],
+                  [
+                    932.861328125,
+                    222.01177978515625
+                  ],
+                  [
+                    932.0,
+                    285.0
+                  ],
+                  [
+                    346.1387023925781,
+                    276.9882507324219
+                  ]
+                ]
+              },
+              {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9544633030891418,
+                "coordinate": [
+                  146,
+                  289,
+                  1127,
+                  720
+                ],
+                "order": null,
+                "polygon_points": [
+                  [
+                    146.0,
+                    289.0
+                  ],
+                  [
+                    1127.0,
+                    289.0
+                  ],
+                  [
+                    1127.0,
+                    720.0
+                  ],
+                  [
+                    146.0,
+                    720.0
+                  ]
+                ]
+              },
+              {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7106917500495911,
+                "coordinate": [
+                  181,
+                  1618,
+                  990,
+                  1656
+                ],
+                "order": null,
+                "polygon_points": [
+                  [
+                    181.0,
+                    1618.0001220703125
+                  ],
+                  [
+                    989.2598876953125,
+                    1625.0023193359375
+                  ],
+                  [
+                    989.0,
+                    1655.0001220703125
+                  ],
+                  [
+                    180.7401123046875,
+                    1647.9979248046875
+                  ]
+                ]
+              },
+              {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.47424057126045227,
+                "coordinate": [
+                  1072,
+                  1633,
+                  1090,
+                  1655
+                ],
+                "order": 1,
+                "polygon_points": [
+                  [
+                    1072.0,
+                    1633.0
+                  ],
+                  [
+                    1089.0,
+                    1633.0
+                  ],
+                  [
+                    1089.0,
+                    1654.0
+                  ],
+                  [
+                    1072.0,
+                    1654.0
+                  ]
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "input_sha256": "a80c4a9651cdff508dd55924a67a1cfff2d864b069f980e84d708cec90c5d31d",
+  "code_sha256": "d28cb0f513f310e00d0edae3d69eaac8a4f93a049e8f0cb15a5ccac54ca674fe",
+  "seconds": 114.54527199990116,
+  "peak_process_tree_rss_bytes": 5356294144,
+  "peak_gpu_memory_mib": 5913,
+  "layout_sensitive_cer": 0.0381201044386423,
+  "critical_exact_present": 17,
+  "critical_total": 20,
+  "table_rows": 5,
+  "note": "CER includes reading-order differences. Critical exact coverage normalizes case/apostrophes/whitespace."
+}

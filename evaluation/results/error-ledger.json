@@ -1,0 +1,1197 @@
+[
+  {
+    "split": "dev",
+    "mode": "native",
+    "model": "qwen3.5:4b",
+    "document": "NAMUNA_1_abzats",
+    "field": "kinds",
+    "task_index": 5,
+    "expected": [
+      "other"
+    ],
+    "actual": [
+      "execution"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "dev",
+    "mode": "native",
+    "model": "qwen3.5:4b",
+    "document": "xat_1_abzatsdagi_topshiriqlar",
+    "field": "kinds",
+    "task_index": 6,
+    "expected": [
+      "reporting"
+    ],
+    "actual": [
+      "execution"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "dev",
+    "mode": "native",
+    "model": "qwen3.5:4b",
+    "document": "xat_3_ilovadagi_topshiriqlar",
+    "field": "kinds",
+    "task_index": 7,
+    "expected": [
+      "execution",
+      "reporting"
+    ],
+    "actual": [
+      "reporting"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "dev",
+    "mode": "native",
+    "model": "tev1:0.8b-q8_0",
+    "document": "NAMUNA_1_abzats",
+    "field": "kinds",
+    "task_index": 3,
+    "expected": [
+      "execution"
+    ],
+    "actual": [
+      "approval"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "dev",
+    "mode": "native",
+    "model": "tev1:0.8b-q8_0",
+    "document": "NAMUNA_2_jadval",
+    "field": "kinds",
+    "task_index": 0,
+    "expected": [
+      "approval"
+    ],
+    "actual": [
+      "execution"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "dev",
+    "mode": "native",
+    "model": "tev1:0.8b-q8_0",
+    "document": "xat_1_abzatsdagi_topshiriqlar",
+    "field": "number",
+    "task_index": null,
+    "expected": "03-12/1456",
+    "actual": null,
+    "gold_text_in_source": true,
+    "gold_candidate_available": null,
+    "attribution": "decision/candidate/linking"
+  },
+  {
+    "split": "dev",
+    "mode": "native",
+    "model": "tev1:0.8b-q8_0",
+    "document": "xat_1_abzatsdagi_topshiriqlar",
+    "field": "signer",
+    "task_index": null,
+    "expected": "Sh. Qodirov",
+    "actual": null,
+    "gold_text_in_source": true,
+    "gold_candidate_available": null,
+    "attribution": "decision/candidate/linking"
+  },
+  {
+    "split": "dev",
+    "mode": "native",
+    "model": "tev1:0.8b-q8_0",
+    "document": "xat_1_abzatsdagi_topshiriqlar",
+    "field": "kinds",
+    "task_index": 2,
+    "expected": [
+      "execution"
+    ],
+    "actual": [
+      "other"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "dev",
+    "mode": "native",
+    "model": "tev1:0.8b-q8_0",
+    "document": "xat_3_ilovadagi_topshiriqlar",
+    "field": "kinds",
+    "task_index": 7,
+    "expected": [
+      "execution",
+      "reporting"
+    ],
+    "actual": [
+      "reporting"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "dev",
+    "mode": "native",
+    "model": "tev1:0.8b-q8_0",
+    "document": "xat_3_ilovadagi_topshiriqlar",
+    "field": "kinds",
+    "task_index": 4,
+    "expected": [
+      "execution"
+    ],
+    "actual": [
+      "other"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "dev",
+    "mode": "native",
+    "model": "tev1:4b-q4_K_M",
+    "document": "xat_1_abzatsdagi_topshiriqlar",
+    "field": "kinds",
+    "task_index": 0,
+    "expected": [
+      "execution"
+    ],
+    "actual": [
+      "reporting"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "dev",
+    "mode": "native",
+    "model": "tev1:4b-q4_K_M",
+    "document": "xat_3_ilovadagi_topshiriqlar",
+    "field": "kinds",
+    "task_index": 0,
+    "expected": [
+      "execution"
+    ],
+    "actual": [
+      "other"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "qwen3.5:4b",
+    "document": "NAMUNA_1_abzats_skaner",
+    "field": "kinds",
+    "task_index": 5,
+    "expected": [
+      "other"
+    ],
+    "actual": [
+      "execution"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "qwen3.5:4b",
+    "document": "NAMUNA_1_abzats_skaner",
+    "field": "deadline",
+    "task_index": 3,
+    "expected": "2026-yil 15-martdan boshlab",
+    "actual": "2026-yil 15-mardan boshlab",
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "qwen3.5:4b",
+    "document": "xat_1_abzatsdagi_topshiriqlar_skaner",
+    "field": "executors",
+    "task_index": 6,
+    "expected": [
+      "Adliya organlari va muassasalarida axborot texnologiyalarini rivojlantirish markaziga"
+    ],
+    "actual": [
+      "Adliya organlari va muassasalarda axborot texnologiyalarini rivojlantirish markaziga"
+    ],
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "qwen3.5:4b",
+    "document": "xat_1_abzatsdagi_topshiriqlar_skaner",
+    "field": "kinds",
+    "task_index": 6,
+    "expected": [
+      "reporting"
+    ],
+    "actual": [
+      "execution"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "qwen3.5:4b",
+    "document": "xat_1_abzatsdagi_topshiriqlar_skaner",
+    "field": "executors",
+    "task_index": 5,
+    "expected": [
+      "Adliya organlari va muassasalarida axborot texnologiyalarini rivojlantirish markaziga"
+    ],
+    "actual": [
+      "Adliya organlari va muassasalarda axborot texnologiyalarini rivojlantirish markaziga"
+    ],
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "qwen3.5:4b",
+    "document": "xat_3_ilovadagi_topshiriqlar_skaner",
+    "field": "executors",
+    "task_index": 7,
+    "expected": [
+      "Adliya organlari va muassasalarida axborot texnologiyalarini rivojlantirish markaziga"
+    ],
+    "actual": [
+      "Adliya organlari va muassasalarda axborot texnologiyalarini rivojlantirish markaziga"
+    ],
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "qwen3.5:4b",
+    "document": "xat_3_ilovadagi_topshiriqlar_skaner",
+    "field": "kinds",
+    "task_index": 7,
+    "expected": [
+      "execution",
+      "reporting"
+    ],
+    "actual": [
+      "reporting"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "qwen3.5:4b",
+    "document": "xat_3_ilovadagi_topshiriqlar_skaner",
+    "field": "executors",
+    "task_index": 5,
+    "expected": [
+      "Loyiha guruhi"
+    ],
+    "actual": [
+      "Loyiha gurahi"
+    ],
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "qwen3.5:4b",
+    "document": "xat_3_ilovadagi_topshiriqlar_skaner",
+    "field": "executors",
+    "task_index": 2,
+    "expected": [
+      "Sun’iy intellekt laboratoriyasi",
+      "Dasturiy ta’minotni ishlab chiqish bo‘limi"
+    ],
+    "actual": [
+      "Sun'iy intellekt laboratoriyasi",
+      "Dasturiy ta' minotni ishlab chiqish boʻlimi"
+    ],
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "tev1:0.8b-q8_0",
+    "document": "NAMUNA_1_abzats_skaner",
+    "field": "deadline",
+    "task_index": 3,
+    "expected": "2026-yil 15-martdan boshlab",
+    "actual": "2026-yil 15-mardan boshlab",
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "tev1:0.8b-q8_0",
+    "document": "NAMUNA_1_abzats_skaner",
+    "field": "kinds",
+    "task_index": 3,
+    "expected": [
+      "execution"
+    ],
+    "actual": [
+      "approval"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "tev1:0.8b-q8_0",
+    "document": "NAMUNA_2_jadval_skaner",
+    "field": "kinds",
+    "task_index": 0,
+    "expected": [
+      "approval"
+    ],
+    "actual": [
+      "execution"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "tev1:0.8b-q8_0",
+    "document": "xat_1_abzatsdagi_topshiriqlar_skaner",
+    "field": "number",
+    "task_index": null,
+    "expected": "03-12/1456",
+    "actual": null,
+    "gold_text_in_source": true,
+    "gold_candidate_available": true,
+    "attribution": "decision/candidate/linking"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "tev1:0.8b-q8_0",
+    "document": "xat_1_abzatsdagi_topshiriqlar_skaner",
+    "field": "executors",
+    "task_index": 6,
+    "expected": [
+      "Adliya organlari va muassasalarida axborot texnologiyalarini rivojlantirish markaziga"
+    ],
+    "actual": [
+      "Adliya organlari va muassasalarda axborot texnologiyalarini rivojlantirish markaziga"
+    ],
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "tev1:0.8b-q8_0",
+    "document": "xat_1_abzatsdagi_topshiriqlar_skaner",
+    "field": "kinds",
+    "task_index": 0,
+    "expected": [
+      "execution"
+    ],
+    "actual": [
+      "reporting"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "tev1:0.8b-q8_0",
+    "document": "xat_1_abzatsdagi_topshiriqlar_skaner",
+    "field": "executors",
+    "task_index": 5,
+    "expected": [
+      "Adliya organlari va muassasalarida axborot texnologiyalarini rivojlantirish markaziga"
+    ],
+    "actual": [
+      "Adliya organlari va muassasalarda axborot texnologiyalarini rivojlantirish markaziga"
+    ],
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "tev1:0.8b-q8_0",
+    "document": "xat_3_ilovadagi_topshiriqlar_skaner",
+    "field": "executors",
+    "task_index": 7,
+    "expected": [
+      "Adliya organlari va muassasalarida axborot texnologiyalarini rivojlantirish markaziga"
+    ],
+    "actual": [
+      "Adliya organlari va muassasalarda axborot texnologiyalarini rivojlantirish markaziga"
+    ],
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "tev1:0.8b-q8_0",
+    "document": "xat_3_ilovadagi_topshiriqlar_skaner",
+    "field": "executors",
+    "task_index": 5,
+    "expected": [
+      "Loyiha guruhi"
+    ],
+    "actual": [
+      "Loyiha gurahi"
+    ],
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "tev1:0.8b-q8_0",
+    "document": "xat_3_ilovadagi_topshiriqlar_skaner",
+    "field": "kinds",
+    "task_index": 4,
+    "expected": [
+      "execution"
+    ],
+    "actual": [
+      "other"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "tev1:0.8b-q8_0",
+    "document": "xat_3_ilovadagi_topshiriqlar_skaner",
+    "field": "executors",
+    "task_index": 2,
+    "expected": [
+      "Sun’iy intellekt laboratoriyasi",
+      "Dasturiy ta’minotni ishlab chiqish bo‘limi"
+    ],
+    "actual": [
+      "Sun'iy intellekt laboratoriyasi",
+      "Dasturiy ta' minotni ishlab chiqish boʻlimi"
+    ],
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "tev1:4b-q4_K_M",
+    "document": "NAMUNA_1_abzats_skaner",
+    "field": "deadline",
+    "task_index": 3,
+    "expected": "2026-yil 15-martdan boshlab",
+    "actual": "2026-yil 15-mardan boshlab",
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "tev1:4b-q4_K_M",
+    "document": "xat_1_abzatsdagi_topshiriqlar_skaner",
+    "field": "executors",
+    "task_index": 6,
+    "expected": [
+      "Adliya organlari va muassasalarida axborot texnologiyalarini rivojlantirish markaziga"
+    ],
+    "actual": [
+      "Adliya organlari va muassasalarda axborot texnologiyalarini rivojlantirish markaziga"
+    ],
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "tev1:4b-q4_K_M",
+    "document": "xat_1_abzatsdagi_topshiriqlar_skaner",
+    "field": "kinds",
+    "task_index": 0,
+    "expected": [
+      "execution"
+    ],
+    "actual": [
+      "reporting"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "tev1:4b-q4_K_M",
+    "document": "xat_1_abzatsdagi_topshiriqlar_skaner",
+    "field": "executors",
+    "task_index": 5,
+    "expected": [
+      "Adliya organlari va muassasalarida axborot texnologiyalarini rivojlantirish markaziga"
+    ],
+    "actual": [
+      "Adliya organlari va muassasalarda axborot texnologiyalarini rivojlantirish markaziga"
+    ],
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "tev1:4b-q4_K_M",
+    "document": "xat_3_ilovadagi_topshiriqlar_skaner",
+    "field": "executors",
+    "task_index": 7,
+    "expected": [
+      "Adliya organlari va muassasalarida axborot texnologiyalarini rivojlantirish markaziga"
+    ],
+    "actual": [
+      "Adliya organlari va muassasalarda axborot texnologiyalarini rivojlantirish markaziga"
+    ],
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "tev1:4b-q4_K_M",
+    "document": "xat_3_ilovadagi_topshiriqlar_skaner",
+    "field": "executors",
+    "task_index": 5,
+    "expected": [
+      "Loyiha guruhi"
+    ],
+    "actual": [
+      "Loyiha gurahi"
+    ],
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "tev1:4b-q4_K_M",
+    "document": "xat_3_ilovadagi_topshiriqlar_skaner",
+    "field": "executors",
+    "task_index": 2,
+    "expected": [
+      "Sun’iy intellekt laboratoriyasi",
+      "Dasturiy ta’minotni ishlab chiqish bo‘limi"
+    ],
+    "actual": [
+      "Sun'iy intellekt laboratoriyasi",
+      "Dasturiy ta' minotni ishlab chiqish boʻlimi"
+    ],
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "dev",
+    "mode": "ocr",
+    "model": "tev1:4b-q4_K_M",
+    "document": "xat_3_ilovadagi_topshiriqlar_skaner",
+    "field": "kinds",
+    "task_index": 0,
+    "expected": [
+      "execution"
+    ],
+    "actual": [
+      "other"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "test",
+    "mode": "native",
+    "model": "qwen3.5:4b",
+    "document": "NAMUNA_3_ilova",
+    "field": "executors",
+    "task_index": 1,
+    "expected": [
+      "mas’ul ijrochilar"
+    ],
+    "actual": [],
+    "gold_text_in_source": true,
+    "gold_candidate_available": null,
+    "attribution": "decision/candidate/linking"
+  },
+  {
+    "split": "test",
+    "mode": "native",
+    "model": "qwen3.5:4b",
+    "document": "NAMUNA_3_ilova",
+    "field": "kinds",
+    "task_index": 1,
+    "expected": [
+      "execution"
+    ],
+    "actual": [
+      "oversight"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "test",
+    "mode": "native",
+    "model": "qwen3.5:4b",
+    "document": "xat_2_jadvaldagi_topshiriqlar",
+    "field": "date",
+    "task_index": null,
+    "expected": "11.09.2026",
+    "actual": "2026-yil 2-sentabr",
+    "gold_text_in_source": true,
+    "gold_candidate_available": null,
+    "attribution": "decision/candidate/linking"
+  },
+  {
+    "split": "test",
+    "mode": "native",
+    "model": "qwen3.5:4b",
+    "document": "xat_2_jadvaldagi_topshiriqlar",
+    "field": "executors",
+    "task_index": 6,
+    "expected": [
+      "loyiha koordinatori"
+    ],
+    "actual": [],
+    "gold_text_in_source": true,
+    "gold_candidate_available": null,
+    "attribution": "decision/candidate/linking"
+  },
+  {
+    "split": "test",
+    "mode": "native",
+    "model": "qwen3.5:4b",
+    "document": "xat_2_jadvaldagi_topshiriqlar",
+    "field": "kinds",
+    "task_index": 5,
+    "expected": [
+      "reporting"
+    ],
+    "actual": [
+      "execution"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "test",
+    "mode": "native",
+    "model": "tev1:0.8b-q8_0",
+    "document": "NAMUNA_3_ilova",
+    "field": "kinds",
+    "task_index": 5,
+    "expected": [
+      "execution"
+    ],
+    "actual": [
+      "reporting"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "test",
+    "mode": "native",
+    "model": "tev1:0.8b-q8_0",
+    "document": "NAMUNA_3_ilova",
+    "field": "kinds",
+    "task_index": 0,
+    "expected": [
+      "approval"
+    ],
+    "actual": [
+      "execution"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "test",
+    "mode": "native",
+    "model": "tev1:0.8b-q8_0",
+    "document": "xat_2_jadvaldagi_topshiriqlar",
+    "field": "number",
+    "task_index": null,
+    "expected": "15/2-784",
+    "actual": null,
+    "gold_text_in_source": true,
+    "gold_candidate_available": null,
+    "attribution": "decision/candidate/linking"
+  },
+  {
+    "split": "test",
+    "mode": "native",
+    "model": "tev1:0.8b-q8_0",
+    "document": "xat_2_jadvaldagi_topshiriqlar",
+    "field": "signer",
+    "task_index": null,
+    "expected": "A. Yusupov",
+    "actual": null,
+    "gold_text_in_source": true,
+    "gold_candidate_available": null,
+    "attribution": "decision/candidate/linking"
+  },
+  {
+    "split": "test",
+    "mode": "native",
+    "model": "tev1:0.8b-q8_0",
+    "document": "xat_2_jadvaldagi_topshiriqlar",
+    "field": "kinds",
+    "task_index": 5,
+    "expected": [
+      "reporting"
+    ],
+    "actual": [
+      "other"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "test",
+    "mode": "native",
+    "model": "tev1:4b-q4_K_M",
+    "document": "NAMUNA_3_ilova",
+    "field": "kinds",
+    "task_index": 1,
+    "expected": [
+      "execution"
+    ],
+    "actual": [
+      "oversight"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "test",
+    "mode": "native",
+    "model": "tev1:4b-q4_K_M",
+    "document": "xat_2_jadvaldagi_topshiriqlar",
+    "field": "kinds",
+    "task_index": 1,
+    "expected": [
+      "execution"
+    ],
+    "actual": [
+      "other"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "qwen3.5:4b",
+    "document": "NAMUNA_3_ilova_skaner",
+    "field": "sender",
+    "task_index": null,
+    "expected": "NOTARIAT VA FHDYO FAOLIYATINI MUVOFIQLASHTIRISH KENGASHINING",
+    "actual": "NOTARIAT VA FHDYO FAOLIYATINI MUVOFIQLASHTIRISH KENGASHINING OARORI",
+    "gold_text_in_source": true,
+    "gold_candidate_available": true,
+    "attribution": "decision/candidate/linking"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "qwen3.5:4b",
+    "document": "NAMUNA_3_ilova_skaner",
+    "field": "deadline",
+    "task_index": 6,
+    "expected": "texnik topshiriq tasdiqlangandan so‘ng 3 oy ichida",
+    "actual": "texnik topshiriq tasdiqlangandansoʻng 3 oy ichida",
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "qwen3.5:4b",
+    "document": "NAMUNA_3_ilova_skaner",
+    "field": "executors",
+    "task_index": 1,
+    "expected": [
+      "mas’ul ijrochilar"
+    ],
+    "actual": [],
+    "gold_text_in_source": true,
+    "gold_candidate_available": true,
+    "attribution": "decision/candidate/linking"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "qwen3.5:4b",
+    "document": "NAMUNA_3_ilova_skaner",
+    "field": "kinds",
+    "task_index": 1,
+    "expected": [
+      "execution"
+    ],
+    "actual": [
+      "oversight"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "qwen3.5:4b",
+    "document": "NAMUNA_3_ilova_skaner",
+    "field": "executors",
+    "task_index": 3,
+    "expected": [
+      "Kengash raisining o‘rinbosari"
+    ],
+    "actual": [
+      "Kengash raising oʻrinbosari"
+    ],
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "qwen3.5:4b",
+    "document": "xat_2_jadvaldagi_topshiriqlar_skaner",
+    "field": "executors",
+    "task_index": 5,
+    "expected": [
+      "Loyiha koordinatori"
+    ],
+    "actual": [
+      "Loyihaga koordinatori"
+    ],
+    "gold_text_in_source": true,
+    "gold_candidate_available": true,
+    "attribution": "decision/candidate/linking"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "qwen3.5:4b",
+    "document": "xat_2_jadvaldagi_topshiriqlar_skaner",
+    "field": "kinds",
+    "task_index": 5,
+    "expected": [
+      "reporting"
+    ],
+    "actual": [
+      "execution"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "qwen3.5:4b",
+    "document": "xat_2_jadvaldagi_topshiriqlar_skaner",
+    "field": "executors",
+    "task_index": 4,
+    "expected": [
+      "Loyiha guruhi"
+    ],
+    "actual": [
+      "Loyihaga guruhi"
+    ],
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "qwen3.5:4b",
+    "document": "xat_2_jadvaldagi_topshiriqlar_skaner",
+    "field": "executors",
+    "task_index": 6,
+    "expected": [
+      "loyiha koordinatori"
+    ],
+    "actual": [],
+    "gold_text_in_source": true,
+    "gold_candidate_available": true,
+    "attribution": "decision/candidate/linking"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "qwen3.5:4b",
+    "document": "xat_2_jadvaldagi_topshiriqlar_skaner",
+    "field": "kinds",
+    "task_index": 6,
+    "expected": [
+      "reporting"
+    ],
+    "actual": [
+      "execution"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "tev1:0.8b-q8_0",
+    "document": "NAMUNA_3_ilova_skaner",
+    "field": "sender",
+    "task_index": null,
+    "expected": "NOTARIAT VA FHDYO FAOLIYATINI MUVOFIQLASHTIRISH KENGASHINING",
+    "actual": "NOTARIAT VA FHDYO FAOLIYATINI MUVOFIQLASHTIRISH KENGASHINING OARORI",
+    "gold_text_in_source": true,
+    "gold_candidate_available": true,
+    "attribution": "decision/candidate/linking"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "tev1:0.8b-q8_0",
+    "document": "NAMUNA_3_ilova_skaner",
+    "field": "deadline",
+    "task_index": 6,
+    "expected": "texnik topshiriq tasdiqlangandan so‘ng 3 oy ichida",
+    "actual": "texnik topshiriq tasdiqlangandansoʻng 3 oy ichida",
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "tev1:0.8b-q8_0",
+    "document": "NAMUNA_3_ilova_skaner",
+    "field": "kinds",
+    "task_index": 5,
+    "expected": [
+      "execution"
+    ],
+    "actual": [
+      "reporting"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "tev1:0.8b-q8_0",
+    "document": "NAMUNA_3_ilova_skaner",
+    "field": "kinds",
+    "task_index": 0,
+    "expected": [
+      "approval"
+    ],
+    "actual": [
+      "execution"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "tev1:0.8b-q8_0",
+    "document": "NAMUNA_3_ilova_skaner",
+    "field": "executors",
+    "task_index": 3,
+    "expected": [
+      "Kengash raisining o‘rinbosari"
+    ],
+    "actual": [
+      "Kengash raising oʻrinbosari"
+    ],
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "tev1:0.8b-q8_0",
+    "document": "xat_2_jadvaldagi_topshiriqlar_skaner",
+    "field": "number",
+    "task_index": null,
+    "expected": "15/2-784",
+    "actual": null,
+    "gold_text_in_source": true,
+    "gold_candidate_available": true,
+    "attribution": "decision/candidate/linking"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "tev1:0.8b-q8_0",
+    "document": "xat_2_jadvaldagi_topshiriqlar_skaner",
+    "field": "signer",
+    "task_index": null,
+    "expected": "A. Yusupov",
+    "actual": null,
+    "gold_text_in_source": true,
+    "gold_candidate_available": true,
+    "attribution": "decision/candidate/linking"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "tev1:0.8b-q8_0",
+    "document": "xat_2_jadvaldagi_topshiriqlar_skaner",
+    "field": "executors",
+    "task_index": 5,
+    "expected": [
+      "Loyiha koordinatori"
+    ],
+    "actual": [
+      "Loyihaga koordinatori"
+    ],
+    "gold_text_in_source": true,
+    "gold_candidate_available": true,
+    "attribution": "decision/candidate/linking"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "tev1:0.8b-q8_0",
+    "document": "xat_2_jadvaldagi_topshiriqlar_skaner",
+    "field": "kinds",
+    "task_index": 5,
+    "expected": [
+      "reporting"
+    ],
+    "actual": [
+      "execution"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "tev1:0.8b-q8_0",
+    "document": "xat_2_jadvaldagi_topshiriqlar_skaner",
+    "field": "executors",
+    "task_index": 4,
+    "expected": [
+      "Loyiha guruhi"
+    ],
+    "actual": [
+      "Loyihaga guruhi"
+    ],
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "tev1:4b-q4_K_M",
+    "document": "NAMUNA_3_ilova_skaner",
+    "field": "deadline",
+    "task_index": 6,
+    "expected": "texnik topshiriq tasdiqlangandan so‘ng 3 oy ichida",
+    "actual": "texnik topshiriq tasdiqlangandansoʻng 3 oy ichida",
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "tev1:4b-q4_K_M",
+    "document": "NAMUNA_3_ilova_skaner",
+    "field": "kinds",
+    "task_index": 1,
+    "expected": [
+      "execution"
+    ],
+    "actual": [
+      "oversight"
+    ],
+    "attribution": "decision classification"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "tev1:4b-q4_K_M",
+    "document": "NAMUNA_3_ilova_skaner",
+    "field": "executors",
+    "task_index": 3,
+    "expected": [
+      "Kengash raisining o‘rinbosari"
+    ],
+    "actual": [
+      "Kengash raising oʻrinbosari"
+    ],
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "tev1:4b-q4_K_M",
+    "document": "xat_2_jadvaldagi_topshiriqlar_skaner",
+    "field": "executors",
+    "task_index": 5,
+    "expected": [
+      "Loyiha koordinatori"
+    ],
+    "actual": [
+      "Loyihaga koordinatori"
+    ],
+    "gold_text_in_source": true,
+    "gold_candidate_available": true,
+    "attribution": "decision/candidate/linking"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "tev1:4b-q4_K_M",
+    "document": "xat_2_jadvaldagi_topshiriqlar_skaner",
+    "field": "executors",
+    "task_index": 4,
+    "expected": [
+      "Loyiha guruhi"
+    ],
+    "actual": [
+      "Loyihaga guruhi"
+    ],
+    "gold_text_in_source": false,
+    "gold_candidate_available": false,
+    "attribution": "OCR/source transcription"
+  },
+  {
+    "split": "test",
+    "mode": "ocr",
+    "model": "tev1:4b-q4_K_M",
+    "document": "xat_2_jadvaldagi_topshiriqlar_skaner",
+    "field": "kinds",
+    "task_index": 1,
+    "expected": [
+      "execution"
+    ],
+    "actual": [
+      "other"
+    ],
+    "attribution": "decision classification"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "method": "Inspect matched instructions, field-specific source IDs and original scan/gold. No predictions or gold were changed.",
+  "grouping": "All twelve Tev1-4B outputs inspected against gold: no split/merge or unmatched obligation in revised results. Original frozen v1 scan xat_2 duplicated its table introduction.",
+  "critical_field_override": {
+    "model": "tev1:4b-q4_K_M",
+    "document": "xat_2_jadvaldagi_topshiriqlar_skaner",
+    "gold_task_index": 5,
+    "field": "executors",
+    "automatic_attribution": "decision/candidate/linking",
+    "manual_attribution": "OCR/source transcription in explicit executor cell",
+    "expected": "Loyiha koordinatori",
+    "actual": "Loyihaga koordinatori",
+    "reason": "The correct phrase exists elsewhere in the document's reporting instruction. This table row's executor cell says Loyihaga koordinatori in OCR; production copied that cell. Document-wide candidate presence alone cannot establish a linking error."
+  },
+  "production_total": {
+    "native_executor_errors": 0,
+    "native_deadline_errors": 0,
+    "native_metadata_errors": 0,
+    "scan_executor_set_errors": 8,
+    "scan_deadline_errors": 2,
+    "scan_metadata_errors": 0,
+    "remaining_critical_errors_attributable_to_ocr_source_transcription": 10,
+    "native_kind_errors": 4,
+    "scan_kind_errors": 4
+  },
+  "caveat": "This attribution applies to the selected production model and supplied examples; it does not prove general linking correctness or perfect automatic review coverage."
+}

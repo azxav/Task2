@@ -1,0 +1,1833 @@
+{
+  "engine": "paddle-v5",
+  "split": "test",
+  "document": {
+    "spans": [
+      {
+        "id": "p1-ocr-0",
+        "page": 1,
+        "text": "Test uchun example",
+        "bbox": [
+          1443.0,
+          145.0,
+          1666.0,
+          179.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-1",
+        "page": 1,
+        "text": "NOTARIAT VA FHDYO FAOLIYATINI MUVOFIQLASHTIRISH",
+        "bbox": [
+          310.0,
+          195.0,
+          1578.0,
+          253.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-2",
+        "page": 1,
+        "text": "KENGASHINING",
+        "bbox": [
+          768.0,
+          252.0,
+          1118.0,
+          300.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-3",
+        "page": 1,
+        "text": "QARORI",
+        "bbox": [
+          817.0,
+          320.0,
+          1075.0,
+          377.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-4",
+        "page": 1,
+        "text": "No 160",
+        "bbox": [
+          1581.0,
+          407.0,
+          1688.0,
+          450.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-5",
+        "page": 1,
+        "text": "Toshkent shahri",
+        "bbox": [
+          835.0,
+          413.0,
+          1060.0,
+          451.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-6",
+        "page": 1,
+        "text": "2026-yil-5-mart",
+        "bbox": [
+          207.0,
+          417.0,
+          440.0,
+          458.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-7",
+        "page": 1,
+        "text": "Notariat va fuqarolik holati dalolatnomalarini yozish organlarida elektron hujjat",
+        "bbox": [
+          227.0,
+          506.0,
+          1666.0,
+          567.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-8",
+        "page": 1,
+        "text": "aylanishini kengaytirish togrisida",
+        "bbox": [
+          635.0,
+          563.0,
+          1258.0,
+          615.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-9",
+        "page": 1,
+        "text": "Notariat harakatlari va fuqarolik holati dalolatnomalarini yozish jarayonlarida",
+        "bbox": [
+          331.0,
+          636.0,
+          1670.0,
+          690.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-10",
+        "page": 1,
+        "text": "elektron hujjat aylanishini kengaytirish hamda raqamlashtirish maqsadida Kengash qaror",
+        "bbox": [
+          226.0,
+          687.0,
+          1672.0,
+          746.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-11",
+        "page": 1,
+        "text": "qiladi:",
+        "bbox": [
+          226.0,
+          745.0,
+          374.0,
+          798.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-12",
+        "page": 1,
+        "text": "1. Notariat va fuqarolik holati dalolatnomalarini yozish (FHDYo) organlarida",
+        "bbox": [
+          332.0,
+          804.0,
+          1669.0,
+          856.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-13",
+        "page": 1,
+        "text": "elektron hujjat aylanishini kengaytirish boyicha chora-tadbirlar rejasi ilovaga muvofiq",
+        "bbox": [
+          227.0,
+          855.0,
+          1680.0,
+          915.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-14",
+        "page": 1,
+        "text": "tasdiqlansin.",
+        "bbox": [
+          229.0,
+          919.0,
+          440.0,
+          964.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-16",
+        "page": 1,
+        "text": "2. Ilovada belgilangan topshiriqlar mas'ul ijrochilar tomonidan o‘z vaqtida va",
+        "bbox": [
+          333.0,
+          970.0,
+          1673.0,
+          1027.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-17",
+        "page": 1,
+        "text": "sifatli ijro etilishi ta'minlansin.",
+        "bbox": [
+          229.0,
+          1028.0,
+          728.0,
+          1082.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-18",
+        "page": 1,
+        "text": "3. Kengash kotibiyati ilova ijrosi togrisida har chorakda Kengash yigilishiga",
+        "bbox": [
+          334.0,
+          1086.0,
+          1671.0,
+          1145.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-19",
+        "page": 1,
+        "text": "axborot kiritib borsin.",
+        "bbox": [
+          234.0,
+          1152.0,
+          583.0,
+          1190.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-20",
+        "page": 1,
+        "text": "4. Mazkur qaror ijrosini nazorat qilish Kengash raisining orinbosari zimmasiga",
+        "bbox": [
+          333.0,
+          1204.0,
+          1672.0,
+          1258.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-21",
+        "page": 1,
+        "text": "yuklansin.",
+        "bbox": [
+          221.0,
+          1262.0,
+          406.0,
+          1315.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-22",
+        "page": 1,
+        "text": "G. Nazarova",
+        "bbox": [
+          1472.0,
+          1410.0,
+          1694.0,
+          1457.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-23",
+        "page": 1,
+        "text": "Kengash raisi",
+        "bbox": [
+          206.0,
+          1415.0,
+          454.0,
+          1468.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p1-ocr-25",
+        "page": 1,
+        "text": "Test uchun example — AI tizimini-sinsh uchun tuzilgan. Tashkilot nomlari, raqamlar, manzillar va shaxslar shartli.",
+        "bbox": [
+          307.0,
+          2452.0,
+          1524.0,
+          2498.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-0",
+        "page": 2,
+        "text": "Notariat va FíDYo faoliyatini muvofiqlashtirish kengashining",
+        "bbox": [
+          799.0,
+          144.0,
+          1695.0,
+          208.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-1",
+        "page": 2,
+        "text": "2026-yil 5-martdagi 160-son qaroriga",
+        "bbox": [
+          1155.0,
+          198.0,
+          1693.0,
+          252.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-2",
+        "page": 2,
+        "text": "ILOVA",
+        "bbox": [
+          1565.0,
+          247.0,
+          1693.0,
+          290.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-3",
+        "page": 2,
+        "text": "Elektron hujjat aylanishini kengaytirish boyicha",
+        "bbox": [
+          528.0,
+          321.0,
+          1408.0,
+          387.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-4",
+        "page": 2,
+        "text": "CHORA-TADBIRLAR REJASI",
+        "bbox": [
+          676.0,
+          377.0,
+          1262.0,
+          432.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-5",
+        "page": 2,
+        "text": "No",
+        "bbox": [
+          256.0,
+          454.0,
+          299.0,
+          496.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-6",
+        "page": 2,
+        "text": "Topshiriq mazmuni",
+        "bbox": [
+          489.0,
+          454.0,
+          783.0,
+          509.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-7",
+        "page": 2,
+        "text": "Mas'ul ijrochi",
+        "bbox": [
+          1067.0,
+          465.0,
+          1280.0,
+          515.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-8",
+        "page": 2,
+        "text": "Muddat",
+        "bbox": [
+          1487.0,
+          474.0,
+          1616.0,
+          519.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-9",
+        "page": 2,
+        "text": "Notariat harakatlarini elektron qayd etish",
+        "bbox": [
+          337.0,
+          512.0,
+          900.0,
+          570.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-10",
+        "page": 2,
+        "text": "Notariat boshqarmasi",
+        "bbox": [
+          957.0,
+          546.0,
+          1261.0,
+          600.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-11",
+        "page": 2,
+        "text": "2026-yil 1-iyun",
+        "bbox": [
+          1437.0,
+          556.0,
+          1657.0,
+          608.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-12",
+        "page": 2,
+        "text": "modulini joriy etish",
+        "bbox": [
+          338.0,
+          557.0,
+          614.0,
+          606.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-13",
+        "page": 2,
+        "text": "FHDYo yozuvlarini raqamli arxivga",
+        "bbox": [
+          336.0,
+          617.0,
+          835.0,
+          674.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-14",
+        "page": 2,
+        "text": "FHDYo boshqarmasi",
+        "bbox": [
+          959.0,
+          650.0,
+          1254.0,
+          701.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-15",
+        "page": 2,
+        "text": "2026-yil 1-avgust",
+        "bbox": [
+          1425.0,
+          658.0,
+          1672.0,
+          710.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-16",
+        "page": 2,
+        "text": "otkazish",
+        "bbox": [
+          335.0,
+          662.0,
+          474.0,
+          705.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-17",
+        "page": 2,
+        "text": "texnik topshiriq",
+        "bbox": [
+          1434.0,
+          743.0,
+          1658.0,
+          791.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-18",
+        "page": 2,
+        "text": "Elektron hujjatlarni tizimlararo almashish",
+        "bbox": [
+          336.0,
+          746.0,
+          906.0,
+          794.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-19",
+        "page": 2,
+        "text": "Axborot texnologiyalari",
+        "bbox": [
+          959.0,
+          754.0,
+          1291.0,
+          804.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-20",
+        "page": 2,
+        "text": "3",
+        "bbox": [
+          260.0,
+          767.0,
+          285.0,
+          801.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-21",
+        "page": 2,
+        "text": "tasdiqlangandan",
+        "bbox": [
+          1430.0,
+          787.0,
+          1657.0,
+          831.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-22",
+        "page": 2,
+        "text": "integratsiyasini ta'minlash",
+        "bbox": [
+          334.0,
+          790.0,
+          697.0,
+          830.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-23",
+        "page": 2,
+        "text": "boshqarmasi",
+        "bbox": [
+          957.0,
+          797.0,
+          1137.0,
+          844.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-24",
+        "page": 2,
+        "text": "song 3 oy ichida",
+        "bbox": [
+          1422.0,
+          828.0,
+          1666.0,
+          875.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-25",
+        "page": 2,
+        "text": "Hududiy bolinmalar xodimlarini yangi",
+        "bbox": [
+          331.0,
+          866.0,
+          876.0,
+          925.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-26",
+        "page": 2,
+        "text": "Kadrlar boshqarmasi, hududiy",
+        "bbox": [
+          954.0,
+          876.0,
+          1371.0,
+          931.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-27",
+        "page": 2,
+        "text": "2026-yil 15-may",
+        "bbox": [
+          1425.0,
+          906.0,
+          1660.0,
+          961.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-28",
+        "page": 2,
+        "text": "tizimda ishlashga oqitish",
+        "bbox": [
+          331.0,
+          909.0,
+          687.0,
+          962.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-29",
+        "page": 2,
+        "text": "bolinmalar",
+        "bbox": [
+          955.0,
+          922.0,
+          1121.0,
+          964.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-30",
+        "page": 2,
+        "text": "Fuqarolar uchun qollanma va axborot",
+        "bbox": [
+          330.0,
+          974.0,
+          855.0,
+          1022.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-31",
+        "page": 2,
+        "text": "5",
+        "bbox": [
+          257.0,
+          998.0,
+          282.0,
+          1029.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-32",
+        "page": 2,
+        "text": "Axborot xizmati",
+        "bbox": [
+          956.0,
+          1008.0,
+          1181.0,
+          1049.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-33",
+        "page": 2,
+        "text": "bir oy muddatda",
+        "bbox": [
+          1425.0,
+          1013.0,
+          1655.0,
+          1062.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-34",
+        "page": 2,
+        "text": "materiallarini tayyorlash",
+        "bbox": [
+          331.0,
+          1015.0,
+          667.0,
+          1065.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-36",
+        "page": 2,
+        "text": "CHUN",
+        "bbox": [
+          578.0,
+          1132.0,
+          999.0,
+          1516.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-37",
+        "page": 2,
+        "text": "Tešt ucun example — AI tizimini sinash uchun tuzilgan. Tashkilot nomlari; raqamlar, manzillar va shaxslar shartli.",
+        "bbox": [
+          280.0,
+          2448.0,
+          1494.0,
+          2504.0
+        ],
+        "parent_id": null
+      },
+      {
+        "id": "p2-ocr-38",
+        "page": 2,
+        "text": "2",
+        "bbox": [
+          1625.0,
+          2477.0,
+          1645.0,
+          2502.0
+        ],
+        "parent_id": null
+      }
+    ],
+    "passages": [
+      {
+        "id": "p1-block-0",
+        "kind": "footer",
+        "span_ids": [
+          "p1-ocr-0"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-1",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-1",
+          "p1-ocr-2"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-2",
+        "kind": "heading",
+        "span_ids": [
+          "p1-ocr-3"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-3",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-4"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-4",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-5"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-5",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-6"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-6",
+        "kind": "header",
+        "span_ids": [
+          "p1-ocr-7",
+          "p1-ocr-8"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-7",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-ocr-9",
+          "p1-ocr-10",
+          "p1-ocr-11"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-8",
+        "kind": "clause",
+        "span_ids": [
+          "p1-ocr-12",
+          "p1-ocr-13",
+          "p1-ocr-14"
+        ],
+        "clause_ref": "1",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-9",
+        "kind": "clause",
+        "span_ids": [
+          "p1-ocr-16",
+          "p1-ocr-17"
+        ],
+        "clause_ref": "2",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-10",
+        "kind": "clause",
+        "span_ids": [
+          "p1-ocr-18",
+          "p1-ocr-19"
+        ],
+        "clause_ref": "3",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-11",
+        "kind": "clause",
+        "span_ids": [
+          "p1-ocr-20",
+          "p1-ocr-21"
+        ],
+        "clause_ref": "4",
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-12",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-ocr-22"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-13",
+        "kind": "paragraph",
+        "span_ids": [
+          "p1-ocr-23"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p1-block-14",
+        "kind": "footer",
+        "span_ids": [
+          "p1-ocr-25"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-0",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-0",
+          "p2-ocr-1"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-1",
+        "kind": "heading",
+        "span_ids": [
+          "p2-ocr-2"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-2",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-3"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-3",
+        "kind": "heading",
+        "span_ids": [
+          "p2-ocr-4"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-4",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-5"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-5",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-6"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-6",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-7"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-7",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-8",
+          "p2-ocr-9",
+          "p2-ocr-10"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-8",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-11"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-9",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-12",
+          "p2-ocr-13",
+          "p2-ocr-14"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-10",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-15"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-11",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-16"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-12",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-17"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-13",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-18"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-14",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-19"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-15",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-20",
+          "p2-ocr-21"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-16",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-22"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-17",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-23",
+          "p2-ocr-24",
+          "p2-ocr-25"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-18",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-26",
+          "p2-ocr-27"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-19",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-28"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-20",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-29",
+          "p2-ocr-30",
+          "p2-ocr-31"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-21",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-32"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-22",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-33"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-23",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-34"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-24",
+        "kind": "paragraph",
+        "span_ids": [
+          "p2-ocr-36"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-25",
+        "kind": "footer",
+        "span_ids": [
+          "p2-ocr-37"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      },
+      {
+        "id": "p2-block-26",
+        "kind": "footer",
+        "span_ids": [
+          "p2-ocr-38"
+        ],
+        "clause_ref": null,
+        "table_cells": {}
+      }
+    ],
+    "warnings": [
+      "Page 2: table header recognition incomplete; manual review needed"
+    ],
+    "provenance": {
+      "source_sha256": "4717945fd29644f231c0c32ce49eb338eb5e8ad93370c3f27706725587f14281",
+      "page_modes": [
+        "ocr",
+        "ocr"
+      ],
+      "ocr": "paddle-v5",
+      "ocr_raw_results": {
+        "1": {
+          "records": [
+            {
+              "text": "Test uchun example",
+              "bbox": [
+                1443.0,
+                145.0,
+                1666.0,
+                179.0
+              ],
+              "score": 0.9994447231292725
+            },
+            {
+              "text": "NOTARIAT VA FHDYO FAOLIYATINI MUVOFIQLASHTIRISH",
+              "bbox": [
+                310.0,
+                195.0,
+                1578.0,
+                253.0
+              ],
+              "score": 0.9967523217201233
+            },
+            {
+              "text": "KENGASHINING",
+              "bbox": [
+                768.0,
+                252.0,
+                1118.0,
+                300.0
+              ],
+              "score": 0.9937366843223572
+            },
+            {
+              "text": "QARORI",
+              "bbox": [
+                817.0,
+                320.0,
+                1075.0,
+                377.0
+              ],
+              "score": 0.999647855758667
+            },
+            {
+              "text": "2026-yil-5-mart",
+              "bbox": [
+                207.0,
+                417.0,
+                440.0,
+                458.0
+              ],
+              "score": 0.9828664660453796
+            },
+            {
+              "text": "Toshkent shahri",
+              "bbox": [
+                835.0,
+                413.0,
+                1060.0,
+                451.0
+              ],
+              "score": 0.999947190284729
+            },
+            {
+              "text": "No 160",
+              "bbox": [
+                1581.0,
+                407.0,
+                1688.0,
+                450.0
+              ],
+              "score": 0.973338782787323
+            },
+            {
+              "text": "Notariat va fuqarolik holati dalolatnomalarini yozish organlarida elektron hujjat",
+              "bbox": [
+                227.0,
+                506.0,
+                1666.0,
+                567.0
+              ],
+              "score": 0.9983358383178711
+            },
+            {
+              "text": "aylanishini kengaytirish togrisida",
+              "bbox": [
+                635.0,
+                563.0,
+                1258.0,
+                615.0
+              ],
+              "score": 0.986743688583374
+            },
+            {
+              "text": "Notariat harakatlari va fuqarolik holati dalolatnomalarini yozish jarayonlarida",
+              "bbox": [
+                331.0,
+                636.0,
+                1670.0,
+                690.0
+              ],
+              "score": 0.993104100227356
+            },
+            {
+              "text": "elektron hujjat aylanishini kengaytirish hamda raqamlashtirish maqsadida Kengash qaror",
+              "bbox": [
+                226.0,
+                687.0,
+                1672.0,
+                746.0
+              ],
+              "score": 0.9924888610839844
+            },
+            {
+              "text": "qiladi:",
+              "bbox": [
+                226.0,
+                745.0,
+                374.0,
+                798.0
+              ],
+              "score": 0.9951105117797852
+            },
+            {
+              "text": "1. Notariat va fuqarolik holati dalolatnomalarini yozish (FHDYo) organlarida",
+              "bbox": [
+                332.0,
+                804.0,
+                1669.0,
+                856.0
+              ],
+              "score": 0.9810948371887207
+            },
+            {
+              "text": "elektron hujjat aylanishini kengaytirish boyicha chora-tadbirlar rejasi ilovaga muvofiq",
+              "bbox": [
+                227.0,
+                855.0,
+                1680.0,
+                915.0
+              ],
+              "score": 0.9918888807296753
+            },
+            {
+              "text": "tasdiqlansin.",
+              "bbox": [
+                229.0,
+                919.0,
+                440.0,
+                964.0
+              ],
+              "score": 0.9999518990516663
+            },
+            {
+              "text": "",
+              "bbox": [
+                1138.0,
+                942.0,
+                1161.0,
+                966.0
+              ],
+              "score": 0.0
+            },
+            {
+              "text": "2. Ilovada belgilangan topshiriqlar mas'ul ijrochilar tomonidan o‘z vaqtida va",
+              "bbox": [
+                333.0,
+                970.0,
+                1673.0,
+                1027.0
+              ],
+              "score": 0.9856515526771545
+            },
+            {
+              "text": "sifatli ijro etilishi ta'minlansin.",
+              "bbox": [
+                229.0,
+                1028.0,
+                728.0,
+                1082.0
+              ],
+              "score": 0.9935988187789917
+            },
+            {
+              "text": "3. Kengash kotibiyati ilova ijrosi togrisida har chorakda Kengash yigilishiga",
+              "bbox": [
+                334.0,
+                1086.0,
+                1671.0,
+                1145.0
+              ],
+              "score": 0.9987679123878479
+            },
+            {
+              "text": "axborot kiritib borsin.",
+              "bbox": [
+                234.0,
+                1152.0,
+                583.0,
+                1190.0
+              ],
+              "score": 0.9906734824180603
+            },
+            {
+              "text": "4. Mazkur qaror ijrosini nazorat qilish Kengash raisining orinbosari zimmasiga",
+              "bbox": [
+                333.0,
+                1204.0,
+                1672.0,
+                1258.0
+              ],
+              "score": 0.9833450317382812
+            },
+            {
+              "text": "yuklansin.",
+              "bbox": [
+                221.0,
+                1262.0,
+                406.0,
+                1315.0
+              ],
+              "score": 0.999604344367981
+            },
+            {
+              "text": "Kengash raisi",
+              "bbox": [
+                206.0,
+                1415.0,
+                454.0,
+                1468.0
+              ],
+              "score": 0.9990946054458618
+            },
+            {
+              "text": "G. Nazarova",
+              "bbox": [
+                1472.0,
+                1410.0,
+                1694.0,
+                1457.0
+              ],
+              "score": 0.9635939002037048
+            },
+            {
+              "text": "",
+              "bbox": [
+                210.0,
+                1782.0,
+                295.0,
+                1868.0
+              ],
+              "score": 0.0
+            },
+            {
+              "text": "Test uchun example — AI tizimini-sinsh uchun tuzilgan. Tashkilot nomlari, raqamlar, manzillar va shaxslar shartli.",
+              "bbox": [
+                307.0,
+                2452.0,
+                1524.0,
+                2498.0
+              ],
+              "score": 0.9726232290267944
+            }
+          ]
+        },
+        "2": {
+          "records": [
+            {
+              "text": "Notariat va FíDYo faoliyatini muvofiqlashtirish kengashining",
+              "bbox": [
+                799.0,
+                144.0,
+                1695.0,
+                208.0
+              ],
+              "score": 0.9945225119590759
+            },
+            {
+              "text": "2026-yil 5-martdagi 160-son qaroriga",
+              "bbox": [
+                1155.0,
+                198.0,
+                1693.0,
+                252.0
+              ],
+              "score": 0.9994338154792786
+            },
+            {
+              "text": "ILOVA",
+              "bbox": [
+                1565.0,
+                247.0,
+                1693.0,
+                290.0
+              ],
+              "score": 0.9994045495986938
+            },
+            {
+              "text": "Elektron hujjat aylanishini kengaytirish boyicha",
+              "bbox": [
+                528.0,
+                321.0,
+                1408.0,
+                387.0
+              ],
+              "score": 0.9971652030944824
+            },
+            {
+              "text": "CHORA-TADBIRLAR REJASI",
+              "bbox": [
+                676.0,
+                377.0,
+                1262.0,
+                432.0
+              ],
+              "score": 0.9973369836807251
+            },
+            {
+              "text": "No",
+              "bbox": [
+                256.0,
+                454.0,
+                299.0,
+                496.0
+              ],
+              "score": 0.839179277420044
+            },
+            {
+              "text": "Topshiriq mazmuni",
+              "bbox": [
+                489.0,
+                454.0,
+                783.0,
+                509.0
+              ],
+              "score": 0.9838217496871948
+            },
+            {
+              "text": "Mas'ul ijrochi",
+              "bbox": [
+                1067.0,
+                465.0,
+                1280.0,
+                515.0
+              ],
+              "score": 0.9741185903549194
+            },
+            {
+              "text": "Muddat",
+              "bbox": [
+                1487.0,
+                474.0,
+                1616.0,
+                519.0
+              ],
+              "score": 0.9999635815620422
+            },
+            {
+              "text": "Notariat harakatlarini elektron qayd etish",
+              "bbox": [
+                337.0,
+                512.0,
+                900.0,
+                570.0
+              ],
+              "score": 0.9966694116592407
+            },
+            {
+              "text": "Notariat boshqarmasi",
+              "bbox": [
+                957.0,
+                546.0,
+                1261.0,
+                600.0
+              ],
+              "score": 0.9998528361320496
+            },
+            {
+              "text": "modulini joriy etish",
+              "bbox": [
+                338.0,
+                557.0,
+                614.0,
+                606.0
+              ],
+              "score": 0.9996923208236694
+            },
+            {
+              "text": "2026-yil 1-iyun",
+              "bbox": [
+                1437.0,
+                556.0,
+                1657.0,
+                608.0
+              ],
+              "score": 0.9997877478599548
+            },
+            {
+              "text": "FHDYo yozuvlarini raqamli arxivga",
+              "bbox": [
+                336.0,
+                617.0,
+                835.0,
+                674.0
+              ],
+              "score": 0.9868834614753723
+            },
+            {
+              "text": "FHDYo boshqarmasi",
+              "bbox": [
+                959.0,
+                650.0,
+                1254.0,
+                701.0
+              ],
+              "score": 0.999591052532196
+            },
+            {
+              "text": "otkazish",
+              "bbox": [
+                335.0,
+                662.0,
+                474.0,
+                705.0
+              ],
+              "score": 0.9991979598999023
+            },
+            {
+              "text": "2026-yil 1-avgust",
+              "bbox": [
+                1425.0,
+                658.0,
+                1672.0,
+                710.0
+              ],
+              "score": 0.9999060034751892
+            },
+            {
+              "text": "Elektron hujjatlarni tizimlararo almashish",
+              "bbox": [
+                336.0,
+                746.0,
+                906.0,
+                794.0
+              ],
+              "score": 0.9919673204421997
+            },
+            {
+              "text": "texnik topshiriq",
+              "bbox": [
+                1434.0,
+                743.0,
+                1658.0,
+                791.0
+              ],
+              "score": 0.9886888265609741
+            },
+            {
+              "text": "Axborot texnologiyalari",
+              "bbox": [
+                959.0,
+                754.0,
+                1291.0,
+                804.0
+              ],
+              "score": 0.988566517829895
+            },
+            {
+              "text": "3",
+              "bbox": [
+                260.0,
+                767.0,
+                285.0,
+                801.0
+              ],
+              "score": 0.9999915361404419
+            },
+            {
+              "text": "integratsiyasini ta'minlash",
+              "bbox": [
+                334.0,
+                790.0,
+                697.0,
+                830.0
+              ],
+              "score": 0.9969403743743896
+            },
+            {
+              "text": "tasdiqlangandan",
+              "bbox": [
+                1430.0,
+                787.0,
+                1657.0,
+                831.0
+              ],
+              "score": 0.9992820024490356
+            },
+            {
+              "text": "boshqarmasi",
+              "bbox": [
+                957.0,
+                797.0,
+                1137.0,
+                844.0
+              ],
+              "score": 0.999789834022522
+            },
+            {
+              "text": "song 3 oy ichida",
+              "bbox": [
+                1422.0,
+                828.0,
+                1666.0,
+                875.0
+              ],
+              "score": 0.9975497126579285
+            },
+            {
+              "text": "Hududiy bolinmalar xodimlarini yangi",
+              "bbox": [
+                331.0,
+                866.0,
+                876.0,
+                925.0
+              ],
+              "score": 0.9951952695846558
+            },
+            {
+              "text": "Kadrlar boshqarmasi, hududiy",
+              "bbox": [
+                954.0,
+                876.0,
+                1371.0,
+                931.0
+              ],
+              "score": 0.9992080926895142
+            },
+            {
+              "text": "tizimda ishlashga oqitish",
+              "bbox": [
+                331.0,
+                909.0,
+                687.0,
+                962.0
+              ],
+              "score": 0.9962140917778015
+            },
+            {
+              "text": "2026-yil 15-may",
+              "bbox": [
+                1425.0,
+                906.0,
+                1660.0,
+                961.0
+              ],
+              "score": 0.9999375939369202
+            },
+            {
+              "text": "bolinmalar",
+              "bbox": [
+                955.0,
+                922.0,
+                1121.0,
+                964.0
+              ],
+              "score": 0.9998893737792969
+            },
+            {
+              "text": "Fuqarolar uchun qollanma va axborot",
+              "bbox": [
+                330.0,
+                974.0,
+                855.0,
+                1022.0
+              ],
+              "score": 0.9939801096916199
+            },
+            {
+              "text": "5",
+              "bbox": [
+                257.0,
+                998.0,
+                282.0,
+                1029.0
+              ],
+              "score": 0.9999151229858398
+            },
+            {
+              "text": "materiallarini tayyorlash",
+              "bbox": [
+                331.0,
+                1015.0,
+                667.0,
+                1065.0
+              ],
+              "score": 0.9996742010116577
+            },
+            {
+              "text": "Axborot xizmati",
+              "bbox": [
+                956.0,
+                1008.0,
+                1181.0,
+                1049.0
+              ],
+              "score": 0.9997259378433228
+            },
+            {
+              "text": "bir oy muddatda",
+              "bbox": [
+                1425.0,
+                1013.0,
+                1655.0,
+                1062.0
+              ],
+              "score": 0.9769538640975952
+            },
+            {
+              "text": "",
+              "bbox": [
+                991.0,
+                1124.0,
+                1002.0,
+                1131.0
+              ],
+              "score": 0.0
+            },
+            {
+              "text": "CHUN",
+              "bbox": [
+                578.0,
+                1132.0,
+                999.0,
+                1516.0
+              ],
+              "score": 0.9868146181106567
+            },
+            {
+              "text": "Tešt ucun example — AI tizimini sinash uchun tuzilgan. Tashkilot nomlari; raqamlar, manzillar va shaxslar shartli.",
+              "bbox": [
+                280.0,
+                2448.0,
+                1494.0,
+                2504.0
+              ],
+              "score": 0.9913179278373718
+            },
+            {
+              "text": "2",
+              "bbox": [
+                1625.0,
+                2477.0,
+                1645.0,
+                2502.0
+              ],
+              "score": 0.9998914003372192
+            }
+          ]
+        }
+      }
+    }
+  },
+  "input_sha256": "61d93600bf4e84fadd9b4377ea2f8cf5fbe7a0c33bb5ad126a4e432cef34de23",
+  "code_sha256": "d28cb0f513f310e00d0edae3d69eaac8a4f93a049e8f0cb15a5ccac54ca674fe",
+  "seconds": 27.176625800086185,
+  "peak_process_tree_rss_bytes": 1131343872,
+  "peak_gpu_memory_mib": 0,
+  "layout_sensitive_cer": 0.1989556135770235,
+  "critical_exact_present": 16,
+  "critical_total": 20,
+  "table_rows": 0,
+  "note": "CER includes reading-order differences. Critical exact coverage normalizes case/apostrophes/whitespace."
+}

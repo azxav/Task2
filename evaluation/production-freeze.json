@@ -1,0 +1,11 @@
+{
+  "code_sha256": "65c97fe6786552b4e09f4fc717ec3e357be77ce5813b4de820411c02a47cc065",
+  "model": "tev1:4b-q4_K_M",
+  "ocr": "paddle-vl",
+  "frozen_at": "2026-10-13T04:09:36.288212+00:00",
+  "test_set_exposed": true,
+  "decision_threshold": 0.5,
+  "note": "Noul threshold is a decision rule, not calibrated correctness. Structural disagreements require review.",
+  "recorded_bytewise_code_sha256": "d5f77304c2a73b348b007caf80c8000b776f6d0457746ff3e0bfe443527a191d",
+  "fingerprint_method": "sha256-file-map-normalized-lf"
+}

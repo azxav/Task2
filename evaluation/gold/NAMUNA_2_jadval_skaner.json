@@ -1,0 +1,139 @@
+{
+  "family": "NAMUNA_2_jadval",
+  "metadata": {
+    "sender": {
+      "text": "YURIDIK XIZMATLAR SIFATINI OSHIRISH RESPUBLIKA KOMISSIYASINING",
+      "page": 1
+    },
+    "number": {
+      "text": "145",
+      "page": 1
+    },
+    "date": {
+      "text": "2026-yil 24-fevral",
+      "page": 1
+    },
+    "signer": {
+      "text": "O. Saidov",
+      "page": 1
+    }
+  },
+  "tasks": [
+    {
+      "id": "clause-1",
+      "page": 1,
+      "clause": "1",
+      "instruction": "1. Yuridik xizmatlarda sun’iy intellekt texnologiyalarini joriy etish bo‘yicha quyidagi topshiriqlar belgilansin:",
+      "executors": [],
+      "deadline": null,
+      "kinds": [
+        "approval"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "clause-2",
+      "page": 1,
+      "clause": "2",
+      "instruction": "2. Axborot texnologiyalari boshqarmasi yuqoridagi topshiriqlar ijrosi to‘g‘risida har chorak yakunidan keyingi oyning 10-sanasiga qadar Komissiyaga axborot kiritsin.",
+      "executors": [
+        "Axborot texnologiyalari boshqarmasi"
+      ],
+      "deadline": "har chorak yakunidan keyingi oyning 10-sanasiga qadar",
+      "kinds": [
+        "reporting"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "clause-3",
+      "page": 1,
+      "clause": "3",
+      "instruction": "3. Mazkur qaror ijrosini nazorat qilish Komissiya kotibiyati zimmasiga yuklansin.",
+      "executors": [
+        "Komissiya kotibiyati"
+      ],
+      "deadline": null,
+      "kinds": [
+        "oversight"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "page-1-table-1-row-1",
+      "page": 1,
+      "clause": "table-1/row-1",
+      "instruction": "Murojaatlarni avtomatik tasniflash modulini joriy etish",
+      "executors": [
+        "Axborot texnologiyalari boshqarmasi"
+      ],
+      "deadline": "2026-yil 1-may",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "page-1-table-1-row-2",
+      "page": 1,
+      "clause": "table-1/row-2",
+      "instruction": "Elektron yuridik maslahat chatbotini ishga tushirish",
+      "executors": [
+        "Axborot texnologiyalari boshqarmasi",
+        "Yuridik xizmat ko‘rsatish boshqarmasi"
+      ],
+      "deadline": "2026-yil 15-iyun",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "page-1-table-1-row-3",
+      "page": 1,
+      "clause": "table-1/row-3",
+      "instruction": "Topshiriqlarni avtomatik taqsimlash tizimini sinovdan o‘tkazish",
+      "executors": [
+        "Ish yuritish (devonxona) bo‘limi"
+      ],
+      "deadline": "tizim tayyor bo‘lgandan so‘ng 2 oy ichida",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "page-1-table-1-row-4",
+      "page": 1,
+      "clause": "table-1/row-4",
+      "instruction": "Xodimlar uchun o‘quv seminarlarini tashkil etish",
+      "executors": [
+        "Kadrlar boshqarmasi"
+      ],
+      "deadline": "har chorakda",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    },
+    {
+      "id": "page-1-table-1-row-5",
+      "page": 1,
+      "clause": "table-1/row-5",
+      "instruction": "Ma’lumotlar xavfsizligi talablariga muvofiqlikni ta’minlash",
+      "executors": [
+        "Axborot xavfsizligi bo‘linmasi"
+      ],
+      "deadline": "2026-yil 20-aprel",
+      "kinds": [
+        "execution"
+      ],
+      "deadline_source_clause": null
+    }
+  ],
+  "annotation_method": "Manually selected obligations/fields, text extracted from reference PDF, visually checked against all scan pages before model tuning.",
+  "notes": [],
+  "document_id": "NAMUNA_2_jadval_skaner",
+  "split": "dev",
+  "source_sha256": "9c0585108fe0af5af9c1baa478f45d32352222ca1a64bdf5d9f6f260a057c33b"
+}
